@@ -47,6 +47,57 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -->
 <layouttype>thumbnail</layouttype>
 
@@ -78,14 +129,14 @@
 <item>
 
 <item>
-<title>[COLOR orange]Animation Trailer[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<title>CAnimation Trailer - [COLOR yellow]Play All[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNydFegIVu2exKz7DTTy46u</link>
 <thumbnail>https://s19.postimg.org/fs5ool2gz/animation_trailer.jpg</thumbnail>
 <fanart>https://s19.postimg.org/fs5ool2gz/animation_trailer.jpg</fanart>
 <item>
 
 <item>
-<title>[COLOR lime]List of Animation Trailer[/COLOR]</title>
+<title>List of Animation Trailer</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -127,7 +178,7 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]Didi and Friends[/COLOR]</name>
+<name>Didi and Friends</name>
 <thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/DidiFriend.txt</externallink>
@@ -135,7 +186,7 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]Kids Show and Telemovie[/COLOR]</name>
+<name>Kids Show and Telemovie</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/KidsShowTelemovie.txt</externallink>
@@ -143,7 +194,7 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]Kompilasi Lagu Animasi[/COLOR]</name>
+<name>Kompilasi Lagu Animasi</name>
 <thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/KidsSongChannel.txt</externallink>
@@ -151,7 +202,7 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]Jom Belajar[/COLOR]</name>
+<name>Jom Belajar</name>
 <thumbnail>http://s19.postimg.org/cvltgh6mb/jombelajar_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/ojfvb0vr7/jombelajar_fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/JomBelajar.txt</externallink>
@@ -167,7 +218,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Anak-Anak Sidek[/COLOR]</name>
+<name>Anak-Anak Sidek</name>
 <thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/AnakSidek.txt</externallink>
@@ -175,7 +226,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Boboi Boy The Series[/COLOR]</name>
+<name>Boboi Boy The Series</name>
 <thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/00_HomeBoboi.txt</externallink>
@@ -183,7 +234,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]BOING The Play Ranger[/COLOR]</name>
+<name>BOING The Play Ranger</name>
 <thumbnail>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</thumbnail>
 <fanart>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</fanart>
 <items>
@@ -227,7 +278,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Bola Kampung The Series[/COLOR]</name>
+<name>Bola Kampung The Series</name>
 <thumbnail>http://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/BolaKg.txt</externallink>
@@ -235,7 +286,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Budak Besi[/COLOR]</name>
+<name>Budak Besi</name>
 <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/BudakBesi/budak-besi-my-klik.jpg</thumbnail>
 <fanart>http://rtm-images.gluempsapp.com/1024x576/episode/BudakBesi/Budak%20Besi%20BG.jpg</fanart>
 <items>
@@ -268,7 +319,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Dunia Eicak[/COLOR]</name>
+<name>Dunia Eicak</name>
 <thumbnail>https://s19.postimg.org/aaq1ec2ir/DuniaEicak_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/n0podol37/DuniaEicak.jpg</fanart>
 <items>
@@ -313,7 +364,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Ejen Ali[/COLOR]</name>
+<name>Ejen Ali</name>
 <thumbnail>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/EjenAli.txt</externallink>
@@ -321,7 +372,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]GO-3 Elemental Wheel[/COLOR]</name>
+<name>GO-3 Elemental Wheel</name>
 <thumbnail>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</thumbnail>
 <fanart>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</fanart>
 <items>
@@ -365,7 +416,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Impian Remi[/COLOR]</name>
+<name>Impian Remi</name>
 <thumbnail>http://www.monsta.com/img/animationspic/Animations-Impian%20Remi.jpg</thumbnail>
 <fanart>http://www.monsta.com/img/featuredanim/Animations-ImpianRemi-main.jpg</fanart>
 <items>
@@ -409,7 +460,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Kampung Boy[/COLOR]</name>
+<name>Kampung Boy</name>
 <thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KgBoy.txt</externallink>
@@ -417,7 +468,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Keluang Man[/COLOR]</name>
+<name>Keluang Man</name>
 <thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KeluangMan.txt</externallink>
@@ -425,7 +476,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Kisah Para Nabi[/COLOR]</name>
+<name>Kisah Para Nabi</name>
 <thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KisahNabi.txt</externallink>
@@ -433,7 +484,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Oko Lele[/COLOR]</name>
+<name>Oko Lele</name>
 <thumbnail>http://tomatoanimation.com/wordpress/wp-content/uploads/2017/04/okolele_poster_horizontal.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/fVediosQGXg/maxresdefault.jpg</fanart>
 <items>
@@ -477,7 +528,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Omar dan Hana[/COLOR]</name>
+<name>Omar dan Hana</name>
 <thumbnail>https://i.ytimg.com/vi/U7Ro_u1YaFs/hqdefault_live.jpg</thumbnail>
 <fanart>https://s3-ap-southeast-1.amazonaws.com/ams-data-bucket/production/images/omarhana.jpg</fanart>
 <items>
@@ -521,7 +572,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Pada Zaman Dahulu[/COLOR]</name>
+<name>Pada Zaman Dahulu</name>
 <thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/PadaZamanDahulu.txt</externallink>
@@ -529,7 +580,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Puteri[/COLOR]</name>
+<name>Puteri</name>
 <thumbnail>http://s19.postimg.org/d1hylq3gj/puteri_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/4576hscub/puteri_fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Puteri.txt</externallink>
@@ -537,7 +588,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Puteri Delima Sakti[/COLOR]</name>
+<name>Puteri Delima Sakti</name>
 <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/PuteriDelimaSakti/s3/e4/PuteriDelimaSakti-s3-e4-thumbnail.jpg</thumbnail>
 <fanart>http://rtm-images.gluempsapp.com/1024x576/episode/PuteriDelimaSakti/s3/Screen%20Shot%202016-12-12%20at%204.40.03%20PM.png</fanart>
 <items>
@@ -570,7 +621,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Rimba Racer[/COLOR]</name>
+<name>Rimba Racer</name>
 <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/RimbaRacer.txt</externallink>
@@ -578,7 +629,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Saladin: The Animated Series[/COLOR]</name>
+<name>Saladin: The Animated Series</name>
 <thumbnail>https://s19.postimg.org/ov7495xhf/saladin_fanart.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c52vw2pj7/saladin_thumb.jpg</fanart>
 <items>
@@ -622,7 +673,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Satria[/COLOR]</name>
+<name>Satria</name>
 <thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Satria.txt</externallink>
@@ -630,7 +681,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]The Amazing Awang Khenit[/COLOR]</name>
+<name>The Amazing Awang Khenit</name>
 <thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/TheAmazingAwangK.txt</externallink>
@@ -638,7 +689,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Upin Ipin The Series[/COLOR]</name>
+<name>Upin Ipin The Series</name>
 <thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_UpinIpin/00_Home_UpinIpin.txt</externallink>
@@ -646,7 +697,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange]Usop Sontorian[/COLOR]</name>
+<name>Usop Sontorian</name>
 <thumbnail>http://s19.postimg.org/hd6kaqadf/Usop_Sontorian_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/vicdcjjer/Usop_Sontorian_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/UsopSonto.txt</externallink>
@@ -662,7 +713,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Bleach[/COLOR]</name>
+<name>Bleach</name>
 <thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Bleach.txt</externallink>
@@ -670,7 +721,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Chibi Maruko Chan[/COLOR]</name>
+<name>Chibi Maruko Chan</name>
 <thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/ChibiMaruko.txt</externallink>
@@ -678,7 +729,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Captain Tsubasa: Road to 2002[/COLOR]</name>
+<name>Captain Tsubasa: Road to 2002</name>
 <thumbnail>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</fanart>
 <items>
@@ -722,7 +773,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Crayon Shin Chan[/COLOR]</name>
+<name>Crayon Shin Chan</name>
 <thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_ShinChan/00_home_shinchan.txt</externallink>
@@ -730,7 +781,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Dash Yonkuro[/COLOR]</name>
+<name>Dash Yonkuro</name>
 <thumbnail>http://s19.postimg.org/fre0klpfn/dashyonkuro_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/4drh9eewz/Dash_Yonkuro_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/DashYonkuro.txt</externallink>
@@ -738,7 +789,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Detektif Conan[/COLOR]</name>
+<name>Detektif Conan</name>
 <thumbnail>http://s19.postimg.org/gmrnxpon7/dekconan_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/r8bj9puyr/dekconan_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Det_Conan/DetConanMain.txt</externallink>
@@ -746,7 +797,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Doraemon[/COLOR]</name>
+<name>Doraemon</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/subhome_doraemon.txt</externallink>
@@ -754,7 +805,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Dragon Ball[/COLOR]</name>
+<name>Dragon Ball</name>
 <thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/subhome_DragonBall.txt</externallink>
@@ -762,7 +813,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Gundam[/COLOR]</name>
+<name>Gundam</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/00_Gundam_Page.txt</externallink>
@@ -770,7 +821,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Hagemaru[/COLOR]</name>
+<name>Hagemaru</name>
 <thumbnail>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Hagemaru.txt</externallink>
@@ -778,7 +829,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Initial D[/COLOR]</name>
+<name>Initial D</name>
 <thumbnail>http://s19.postimg.org/f62dachkz/initial_D_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/j15rcx0qr/initial_D_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/InitalD.txt</externallink>
@@ -786,7 +837,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Magic Kaito[/COLOR]</name>
+<name>Magic Kaito</name>
 <thumbnail>https://s19.postimg.org/c7u7a0p4z/magickaito_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/um4qe01fn/magickaito_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/MagicKaito.txt</externallink>
@@ -794,7 +845,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Naruto[/COLOR]</name>
+<name>Naruto</name>
 <thumbnail>http://s19.postimg.org/elfherbwf/naruto_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Naruto.txt</externallink>
@@ -802,7 +853,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Ninja Hattori[/COLOR]</name>
+<name>Ninja Hattori</name>
 <thumbnail>https://s19.postimg.org/dojvbn077/ninjahatori_thb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/by0ua5io3/ninjahottori_fanart.png</fanart>
 <items>
@@ -846,7 +897,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Ninja Boy Rantaro[/COLOR]</name>
+<name>Ninja Boy Rantaro</name>
 <thumbnail>https://s19.postimg.org/4klgb6ymb/rantaro_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/vh5fjihfn/rantaro_fanart.jpg</fanart>
 <items>
@@ -890,7 +941,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]One Piece[/COLOR]</name>
+<name>One Piece</name>
 <thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_OnePiece/subhome_OnePiece.txt</externallink>
