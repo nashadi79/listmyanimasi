@@ -1,0 +1,91 @@
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTXZXOC1iZ2MzUjQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rocWhsYUZCSlNjRkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roRWFiNnk1R2N6Nk0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZzh5Skg2MlpEclk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQlpxOXhvMUM2RHM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rockRadTFkdEpMQjA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roRUtNYTNOb2w5Vjg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTGwya0lOWHRzYUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roajEzazJCNmMxcjA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSFdsbGFhZC1XbUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTE8taV9rVkFySkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTTBYYUJvMUtuNUU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]Ultraman Fight Victory[/COLOR] - [COLOR silver]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZU9YWW41MEFta3M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+

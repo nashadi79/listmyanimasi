@@ -1,0 +1,875 @@
+<!--ACE CO-->
+<item>
+<title>[COLOR lime]Ultraman Cosmos[/COLOR] - [COLOR green]SERVER 2[/COLOR]</title>
+<link>https://goo.gl/vXySwC</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roYXdyQzU5ZXgtWUU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMEVPcEtiZEZ5cjQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNzFZdmkyT2RWOWc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roeVUwT3NPSHpIdWs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTU90dFRYNm96UkU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMWh3VHl5XzRId3M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQjFRQ1hkcTdEZDg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rodzVCQ3NFOUVWakk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roc3Jub1ozZ19UNms/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roeUY0YnFmYWZVWFU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roOFlEb1FkWGhrZ28/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robzBzZjA1eWVoWkU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTFdPY3BPWEJIODg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSWpvRlhOQzQ2WjQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roaWVrS1MzSzFseDQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 16[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTGpyT0ZUYXUyM0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 17[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roS18zYzNwLUU5MTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 18[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rocjF5M0NmX0RMQVk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 19[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNGRmNkJ0di1uM2M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 20[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roXzljczFucnhuU1U/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 21[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roRXpiTU02eGhyX00/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 22[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMTZoa0swUmRYUUU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 23[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMl96dEpqVHFpdEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 24[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUksxOEtpQ0FXR00/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 25[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUjczZF9MYktUMTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 26[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTDlZMlhGMXFNa1E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 27[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roN2NwTzRub2g2aEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 28[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rodHVZV3ItYlZXbFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 29[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roU2ZQUW9QZGZDOEk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 30[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTDgtUTJQakR6d1E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 31[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roT19kc1dmbHhyQ00/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 32[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roc1M0cjA3RGt1dTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 33[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roeU54amtDenhPQ2c/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 34[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roOTdYTHNGMG1iMTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 35[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMi1Odlhscjh5bWs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 36[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roaHdjYlp1V25QZVk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 37[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSzI1UkZNRDN0akU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 38[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roU0V1bDloUnpwOU0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 39[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roai1QRGlqRFhhWFE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 40[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roWFdOZnZhY3dKd0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 41[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMW9NVGZ5WnZLZkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 42[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUWRQN0MyQnVVRVk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 43[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roVXRYZEF0bkpaOTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 44[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUjh5RTVJandEMUU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 45[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMWVlS0RqcFZxMHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 46[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rod2lwR1Fsa1BNWEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 47[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roR2c1aXNKZURvSVk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 48[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roS2NtdlhTQmNYUzQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 49[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robkRJS0tPNG44R1E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 50[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTnctZjBMYXRoMnM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 51[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQk1SZW01ZWVBdlE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 52[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQTJJbkdzQzZaaGc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 53[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZF94VDI0M1gzbVU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 54[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZlNMSXQyT19ndVU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 55[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roT3FTcEI1NlVzRWM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 56[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roajNBRThwVjJpUE0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 57[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZThSVjdwMnNLWTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 58[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roVU9ReUM3RExRaW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 59[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roOGZKWUZiWlFaR0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 60[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roWTRMa3dJQjFDZE0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 61[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rod2FUOFBrWUVMaFU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 62[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSVdod29halNPMmc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 63[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUEpnVE9DbW0zNXM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 64[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZmVoTFMxZzhOaDg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR green]Ep 65[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roYUNqRmtjQTQ3bjQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+
+
+
+
+<!-- YOUTUBE -->
+<item>
+<title>[COLOR lime]Ultraman Cosmos[/COLOR] - [COLOR green]SERVER 1[/COLOR]</title>
+<link>https://goo.gl/vXySwC</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NnsGca7mZcE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NnsGca7mZcE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OHlbOHZKfvw</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RT06p_o5wGs</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tSNXm4X4l00</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w9Cu5noGk1k</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LGdAZXM0OD0</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AxjOqUTtNmc</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 9[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mN0jAO3eLyw</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CD_I0Unq9WE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3xgLufKa-6w</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 12[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T9ln4jOQIU0</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 13[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dTW_QI3Cocg</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 14[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6ms4gBKfm0Q</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 15[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9wqOMvr9ccc</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 16[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bSXiku0U4qs</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 17[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hecKR8DlFSc</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 18[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WiFcpybBtZ4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 19[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XP4pzdwKgjU</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 20[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZY9kttmc1Vo</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 21[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7D_JSablITA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 22[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y7RY799eUS8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 23[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NGRG0FPIcO4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 24[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0-pcP5g4Mko</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 25[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nyvjbtgY7sE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 26[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mTd8fEE95NM</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 27[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C7aR28A0ZUg</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 28[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7hs4nZBWqtw</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 29[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IQw9dMiQ9Bk</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 30[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l8rxtoX-v7Y</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 31[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UP88rwYEY_s</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 32[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=furtlysFgF8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 33[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ivBZ-0Ohe44</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 34[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wlIl8pSaXQQ</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 35[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XL_eY7b0-ik</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 36[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G8OdCmZ5M5M</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 37[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OEcS_EvTP-A</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 38[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rWOsZqbkFIQ</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 39[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vJ4HGuxNvfc</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 40[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zq2Bcuaru4I</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 41[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BFDhkRp1Ho8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 42[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hLAlzvo7cPM</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 43[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7mxLPr58L3U</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 44[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=caRsC4AfbSw</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 45[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kG-_pyZ2Tmo</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 46[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5gCNmltuCBA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 47[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AVWzPu2ZBCE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 48[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vuHu7TjDQ6s</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 49[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Xo2iiia-GSU</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 50[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C2q-ZitwVI0</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 51[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FVZGjzjDK9I</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 52[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QC4iJJ8uS6Q</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 53[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-XSLoFnTPY8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 54[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aPKmI7baUSY</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 55[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OnfcgQgKUs0</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 56[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jj6M08SdMKo</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos[/COLOR] - [COLOR violet]Ep 57[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9rsWZhx48s8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+

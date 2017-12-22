@@ -1,0 +1,117 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+	
+<channel>
+<name>Compilation of Ultraman Theme Song</name>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/01ultra_song.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Compilation of Ultraman Vs Enemy</name>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/02ultra_vs_enemy.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Compilation of Ultraman The Movie</name>
+<thumbnail>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/03ultra_movie.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Orb : The Origin Saga[COLOR yellow]2016 - 2017[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/11ultra_OrbOrigin.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Orb [COLOR yellow]2016[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/09ultra_orb.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman X [COLOR yellow]2015-2016[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/07ultra_X.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Fight Victory [COLOR yellow]2015[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/12ultra_fightvictory.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Ginga [COLOR yellow]2013-2014[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/14ultra_Ginga.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultra Seven X [COLOR yellow]2007[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/13ultra_sevenX.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Max [COLOR yellow]2005-2006[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/10ultra_max.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Nexus [COLOR yellow]2004-2005[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/o24zj2w1v/uman_nexus.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/04ultra_nexus.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Cosmos [COLOR yellow]2001-2002[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/8qql4q9c3/uman_cosmos.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/05ultra_cosmos.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Neos [COLOR yellow]2000-2001[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/08ultra_neos.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ultraman Tiga [COLOR yellow]1996-1997[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/71qoo58eb/uman_tiga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Ultraman/06ultra_tiga.txt</externallink>
+<info></info>
+</channel>
+
+</channels>

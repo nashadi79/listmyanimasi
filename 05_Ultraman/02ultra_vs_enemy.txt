@@ -1,0 +1,126 @@
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMuWkuFVExvlc3c71bYWd5</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Nexus vs Pedoleon Guros[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2B-xvse85Sk</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Gaia vs Anemos Crabgan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2B-xvse85Sk</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Nexus vs Banpira I[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ByRs1dyokmI</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Nexus vs Banpira II[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Tjxn3t18B3M</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Nexus vs Bugbuzun[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xKX1Boa0kGU</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Dyna vs Arwon[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zjKDi0IZLIA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Earthron vs Kelbeam vs Eleking[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AXdbQ5T1KUs</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Nexus vs Bugbuzun Golar[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9mmZcXwgYXA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Nexus vs Lizarias & Lizarias Golar[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F7jTElQXKos</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Dyna vs Sildron[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3ebmL2mad1w</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Gaia vs Gan Q Code 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RLkoU9D8Qlk</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Gaia vs Tsuchikera[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xBzovqPNmng</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Agul & Gaia vs Antimatter[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-4UpTE6ZlsA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Gaia vs Tenkai[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZhXVzkLAE8U</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Cosmos vs Mogrudon[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qp8EClREeD4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Cosmos vs Igomas[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xmAjQZrNP-c</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Vs Enemy[/COLOR] - [COLOR violet]Ultraman Gaia & Ultraman Agul vs Zogu[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TTl5S2luiKc</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+

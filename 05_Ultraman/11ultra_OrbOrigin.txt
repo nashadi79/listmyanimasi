@@ -1,0 +1,77 @@
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3c0luOUYzX2plSnc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3b3N0UlJvR1BwbFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3UTNvdWk0dENlVFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3UGlBTnU3aVNvWkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3RW4xVW1zTUhqVlE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3cFJpb29PUVBtUUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3VWxhODEyQ1haUFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3UkF5Q3o3clIzczQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3Z3IxakE2bGFRRkk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3d0NvNG5QMU5qOVE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ultraman Orb Origin[/COLOR] - [COLOR blue]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3WkJHVHlURTdqcHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6hf0bor7n/orgorigin_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/wbot1gr7n/orborigin_fanart.jpg</fanart>
+</item>
+

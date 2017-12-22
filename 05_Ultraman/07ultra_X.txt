@@ -1,0 +1,168 @@
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNTc5VFV0S3kxV3c/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robzZhQnNiZlZ2QXM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roT25qa2ZWVHlzaHM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZ3lvSjlBeXZUa0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roOWRDZG5jZDJBSGs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roVTJMaDR3N1JxdDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roRXFLZkMyTVdtVFE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roV3JIU3dzdVBGQ0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNTVHY2VscFFDUHM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roWENHbC1YTGxIVEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robWVUWG1ldTk2RlE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roVFVweVVDaHRIZFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rodjZsSU4zdW1GYzQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roYmd2WXFhTmhpVU0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roS1ozRmRCaFNwN28/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 16[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roOEljSWcydkFVU0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 17[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roa0Y4Wm1mbmNraWc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 18[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSFB5S3NKSi1fOFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 19[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robnNfMHhNT0VQa3M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 20[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roenAyblRpWmRmcFU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 21[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZXdRb0RibExaSUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 22[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roYkY5c1I3dUIwOHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 23[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rodXhwTzJHeVNRWjg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman X[/COLOR] - [COLOR orange]Ep 24[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMGYzRUY0MGhZcTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xyf9a7glf/umanX.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+

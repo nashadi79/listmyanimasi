@@ -1,0 +1,105 @@
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvYks4SnR2RUJHMGs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvY1FCNTNvZ0E4ZlU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvNVJ0X1pIcXY1aDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvejJQRjB6eE1LSWs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvNGJ5T2dEQzNCRGc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvUktsMjgtN0VfWms/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvMkcyOXdwYUtEWEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvNGg4OFEzS01XMU0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvWDlKZVg2MWkwZzg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvMTVWd0J3RHFXRHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvb0tQTjF5aGV1YlE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvWUNVeEU1bGJCdHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBveFNydlV6ZzJZU00/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvMjNrZ2ZBcnVCMk0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga[/COLOR] - [COLOR lime]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvRS0tRGhKNG91b1U/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+

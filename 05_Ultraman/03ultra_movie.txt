@@ -1,0 +1,189 @@
+<!--SERVER 1-->
+<item>
+<title>[COLOR red]Ultraman X: Here It Comes! Our Ultraman [/COLOR] - [COLOR lime]2016[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQYS1pakV1bExyTlk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/va6ie4w5f/UmanX_HereComesOurUman.png</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultra Fight Victory [/COLOR] - [COLOR lime]2015[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQQXFqS0l2X0t6RzQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/k58d1djnn/Ultra_Fight_Victory.png</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Ginga S: Showdown! Ultra 10 Warriors!! [/COLOR] - [COLOR lime]2015[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQWTU4VlRCVjRSems/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/lvha8mojn/Ultraman_Ginga_S_Movie_Cover.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Ginga Theater Special[/COLOR] - [COLOR lime]2013[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQUjFmNGVxTXpvWTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xaf8ag4oz/Ultraman_Ginga_Theater_Special_poster.png</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultra Zero Fight [/COLOR] - [COLOR lime]2012[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQTzNlMVM0SmwtUTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/w2ztl1arn/Ultra_Zero_Fight_Cover.png</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Saga [/COLOR] - [COLOR lime]2012[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQcS15MjJDclZqTUU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6rzpi9rk3/UmanSaga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Zero Side Story: Killer the Beatstar : Stage 2[/COLOR] - [COLOR lime]2011[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQemYzZ1hSNjJqTWs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8l433sgjn/Uman_Zero_Gaiden_Killer_The_Beast.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Zero Side Story: Killer the Beatstar : Stage 1[/COLOR] - [COLOR lime]2011[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQNWZRaHBvdGZLVEk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8l433sgjn/Uman_Zero_Gaiden_Killer_The_Beast.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Zero the Movie: The Revenge of Belial [/COLOR] - [COLOR lime]2010[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQWEhOZTZ1NnA3cDg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/xw2q9cvyb/Ultra_Zero_Movie_RevBelial.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultra Galaxy Legend Side Story: Ultraman Zero vs. Darklops Zero - Stage 2[/COLOR] - [COLOR lime]2010[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQR2NIVjVER3FNZWM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bdxantgw3/UmanGalaxyLegendSideStory_UZerovsDarklopZero.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultra Galaxy Legend Side Story: Ultraman Zero vs. Darklops Zero - Stage 1[/COLOR] - [COLOR lime]2010[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQMDNORGRacHNBMVE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bdxantgw3/UmanGalaxyLegendSideStory_UZerovsDarklopZero.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Mebius Side Story: Ghost Reverse [/COLOR] - [COLOR lime]2009[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQdjVKMzczR2M5ekE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/nz6eo9qdf/UmanMebius_Ghost_Reverse.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Mega Monster Battle: Ultra Galaxy Legend the Movie [/COLOR] - [COLOR lime]2009[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQTXdRbElzRE9MVG8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/vlduwnzyb/Ultra_Galaxy_MegaMonsterBattle.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Superior Ultraman 8 Brothers [/COLOR] - [COLOR lime]2008[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQRFZOZzQxSlhUcUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6dydio7gj/Uman_Superior8ultra.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Mebius Side Story: Hikari Saga [/COLOR] - [COLOR lime]2007[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQWlBLbWNCZkFEWTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/ip1fwz64j/UmanMebius_HikariSaga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Mebius & Ultra Brothers [/COLOR] - [COLOR lime]2006[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQN2VwcHZsQzRqY0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/3ucuiswjn/UmanMebiusNUmanKyodai.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman The Next [/COLOR] - [COLOR lime]2004[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQSWxKZVZfYTFTWHM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/f6c4eqi0z/UmanNextTheMov.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Cosmos vs. Ultraman Justice: The Final Battle [/COLOR] - [COLOR lime]2003[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQTnJqMy16VFFmOXM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/62r1053nn/UmanCosmosvsUmanJustice_TheFinalBattle.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Cosmos 2: The Blue Planet [/COLOR] - [COLOR lime]2002[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQNjdaRmVwbUh4R1E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4mfii00qr/UmanCosmos_BluePlanet.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga Gaiden: Revival of the Ancient Giant [/COLOR] - [COLOR lime]2001[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQVnltWm43b01HQzg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/th3lptayr/umantiga_revivalofancientgiant.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Dyna: Return of Hanejiro [/COLOR] - [COLOR lime]2001[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQNUlfQlNXYWhJYVU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/640ytk5hf/UmanDyna_ReturnHanejiro.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Gaia: Gaia Again [/COLOR] - [COLOR lime]2001[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQV0xQeHBvVnczSTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/65awmz7b7/UmanGaia_OnceAgain.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Cosmos: The First Contact [/COLOR] - [COLOR lime]2001[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQNHlLWFphQlpJUVk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/5lr45qdvn/Ultrmn_Csms_Frst_Cntct_pstr.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga: The Final Odyssey[/COLOR] - [COLOR lime]2000[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQWnNnWFlaSlNaZFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/rnngqprk3/UltramanTigaTheFinalOdyssey.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga & Ultraman Dyna & Ultraman Gaia: Battle in Hyperspace [/COLOR] - [COLOR lime]1999[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQRTFBaEtFdTd3QWM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/qqpoevow3/UmanGaia_TheBattleinHyperspace.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Tiga & Ultraman Dyna: Warriors of the Star of Light [/COLOR] - [COLOR lime]1998[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQZTA0SG13SVlpQmc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/i1ntzh77n/UltrmnTigaDyna_Warriors_of_the_Star_of_Light.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Ultraman Story [/COLOR] - [COLOR lime]1984[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQUHU4bmE3d0cteG8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bpenpi8cj/UmanStoryTheMovie.jpg</thumbnail>
+<fanart>https://s19.postimg.org/72cqi3tfn/ultraman_fanart.jpg</fanart>
+</item>

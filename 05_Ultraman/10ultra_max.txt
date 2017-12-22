@@ -1,0 +1,273 @@
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUGFZektsdGQtOW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSXExY19ibjljS1k/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roLWxuOW0xdURCejA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNVRmUmVjZW9ZRUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roN211WGlDbmlvY1E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTy1ob1JHQVMyWTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNUQtZTRKbDBpdkU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roeTM2bng3LXc5c00/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZXh1RjB3eUJvWGs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQUtjdktPeU9kUnM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTV9aTHNwem1LRlk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZnhWUFNYMlJjbU0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rodWM0M2xWSExUUms/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTlhxaGRTNUJ5ZXM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rob1BMa3I4RTFzWUE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 16[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roX2I1SXJQRXc1YkU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 17[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTDdzclllY2pzUFE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 18[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roa3FaMVV4VkowcGs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 19[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roWVVTSFg5a3VkMk0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 20[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roYjFnaHc0Nm83R1U/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 21[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQWttSWYyLVJkWTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 22[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robzJRTERfQlhaVHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 23[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robTBLQjh4dzZaYjg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 24[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roR1lBSEJ0ZW9HTmc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 25[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roVE5uajltU0lKNDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 26[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roalJLRnFkQm9Lajg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 27[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMC1DQjM4RnZjbU0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 28[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTDRsMHdteVRXTVU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 29[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roYzVMdEI0d1JtOEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 30[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9rocEdxUXJMTmlKdms/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 31[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roT2JMeXdUaFlkTkk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 32[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZnFfQi16blJLdEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 33[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUlNpYVFENExRODA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 34[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robHBnWnRreGxIZ1E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 35[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roOG1YazR5eDI1ZE0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 36[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQXFNUUdPNkNnZUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 37[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roQy1QTl94NEw4dEk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 38[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roLWJGbGRLX21ENVU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ultraman Max[/COLOR] - [COLOR white]Ep 39[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSFd6OGpnTGhhejA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/edrjfy18j/uman_max.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+

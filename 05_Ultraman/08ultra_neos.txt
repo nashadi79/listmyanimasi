@@ -1,0 +1,84 @@
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvWURyeUtTWWZwd3M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvdXc4OWdpNmhtekU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvSC1fc19odUxDdms/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvT1hxdWhDS01lZkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvQWVWR3JsTkc3eVE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvb0dTNG5iTU5DdGM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvM1lacUxkd1U5LVk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvNl9rOEJlWmx4VXM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvN1FIQTE4dGJsamM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvRjdVVUhBQU54Nnc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvUUd4ZkgzclFLUDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos[/COLOR] - [COLOR red]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvanlCWXd0VGVmcFE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cbr21p39f/uman_neo.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+

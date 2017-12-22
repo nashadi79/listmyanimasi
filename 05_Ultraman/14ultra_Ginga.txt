@@ -1,0 +1,153 @@
+<item>
+<title>[COLOR orange]Ultraman Ginga[/COLOR] - [COLOR yellow]2013[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+	 <fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL8TqihQHaOUXwmNDQ2truim_80fxoYG7D</page>
+ <referer>https://www.youtube.com/channel/UCeYTx7Fs3oXIh9PlYT3Ceog</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ultraman Ginga S[/COLOR] - [COLOR yellow]2014[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+	 <fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL8TqihQHaOUWiC7omUSynVx0qevZnkUw7</page>
+ <referer>https://www.youtube.com/channel/UCeYTx7Fs3oXIh9PlYT3Ceog</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3Y29fY0JFR3ZfZ1E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3RldSUXRYM0d1MlU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3VG5heW00dnB0c2s/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3ZUZaWGI3eU1ReDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3cUh5NUVnaFRkajQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3VTVtbnNEd05tNjg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3WDRZU0NYOFg5bEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3ZHhrSUJhaDB6UTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3cExTSDQ4NjZyUFU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3RHI3ZXVFSDB2eEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3cVN4dkdXWExpeW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3eW0tVDdNekI5d2M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3WmFWaWVoVUVOb2s/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3cmV5eXdiUkpOc0k/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3dkd3ZG1XVUktNmc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Ginga S[/COLOR] - [COLOR green]Ep 16[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8oOykooL8k3LXJHbG1iRWJKQkU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/trgmpncub/uman_ginga.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+

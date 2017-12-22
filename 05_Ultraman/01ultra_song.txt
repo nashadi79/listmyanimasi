@@ -1,0 +1,329 @@
+<item>
+<title>[COLOR orange]Compilation of Ultraman Theme[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPCLu5VSXep4fbEqR8ua_e6</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Opening Theme NEW Version[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SzYU7KWq5L4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman - Susume, Urutoraman / Forward, Ultraman (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SzYU7KWq5L4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Seven Opening Theme NEW Version[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2sIIToZLNz8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Jack Opening Theme NEW Version[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sEYivmsaEjg</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Bokura no Urutoraman / Our Ultramen (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ulA3lmVlJxY</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Urutora roku Kyoudai / 6 Ultra Brothers - Normal (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f6OYOrZF768</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Zoffy (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=S6oQGnsPohY</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Leo Theme: NEW version[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Io1DDtzZv5Q</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Leo 2nd OP - Tatakae, Urutoraman Leo / Fight on, Ultraman Leo (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3XvLU1F7su0</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Jonias OP (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=efM0DktggFE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman 80 1st OP (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9_7CzDea6vY</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman 80 2nd OP - Gambare, Urutoraman 80 / Luck, Ultraman 80 (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iAlzoS6cgYs</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]ウルトラマンUSA　ＥＤ[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NByZygSFW1s</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Great Japanese OP - Bokura no Gureito / Our Great (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E43KjM6ELVA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Powered Japanese OP (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Xo_2Tf_ZLk</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Zearth (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=366GRpqs7KU</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Tiga Opening Theme[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oyS6dijqbbY</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Tiga Theme Song - Take Me Higher - English version[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aM1_9CpegmE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Dyna OP (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j9EkDJ70xS4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Gaia OP (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T_fQzN7DYf4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Gaia Opening Theme NEW Version[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hJykZJRv27M</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nice (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oRLdQQ2DCFE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Neos OP (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XT3BIm2oUJ4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraseven 21 (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pVqjbCLHZho</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Cosmos Opening Theme (English Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6CL3dduVOoA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Shinseiki Ultraman Densetsu (新世紀ウルトラマン伝説)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Dg2fP9ERjbE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus Opening (Eiyuu-DOA)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3mVsk7CApVk</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Max ウルトラマンマックス Full Opening Credits[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UcU3TXV9a0w</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Mebius Theme song[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZLbaWe3FBe0</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Miracle of Ultra[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=48jDXxxNGSE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Miracle of Ultra 2[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pUsrk4Xt9uM</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mirai / Future (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DgvCPLmnnHs</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]ULTRASEVEN X　ＥＤ[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5KnGBjp1QhM</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultra Galaxy Daikaujuu Battles Theme Song - Eternal Traveler[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hSgCU9mGayE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]ウルトラギャラクシー大怪獣バトル 殺す 数える Ultra Galaxy Mega Monster Battle: NEO (2008 - 2009) killcount[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Te3gUP1YgVQ</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Hoshi no you ni / Like the stars (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RUWtPIvHJ_8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Zero-新しい光[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GNrZERzjOJA</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman zero theme song[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cbvBJr_XsOo</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Zero: The Revenge of Belial OST: Eiyuu-Voyager (doa)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nSF_imsW_a8</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Retsuden Opening Full-Voyager/Ultraman Zero[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Kr9QW3MSnTQ</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Minna daisukina Urutoraman / Everybody loves Ultraman (Lyrics)[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ujTSs_xs3sE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]ULTRAMAN GINGA NO UTA[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3sOhSEYV6EI</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange][MAD] 平成ウルトラマン列伝 -Final Wars!-【戦え光の戦士よ】[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2N-I29WskIY</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]UltraMan ginga s song[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KgDHemnxUXc</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange][MAD] ウルトラマンビクトリーの歌 〜孤高の戦士〜[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6V7IjDJ_6Xo</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Ginga S Ending song (キラメク未来 夢の銀河へ) Kirameku Mirai Yume no Ginga e[/COLOR] - [COLOR violet][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0f9Yx414foE</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+

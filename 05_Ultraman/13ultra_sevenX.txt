@@ -1,0 +1,84 @@
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQdEtsY0huanhTV2s/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQWE56aW40V0hMdmc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQVXZwanRPcWktaHM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQRVRVRjBTa0ctT00/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQLWtpeENlaVppSDg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQUFZHOXowRTlTUGs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQR2dEUlBObXB4MVk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQUlR3bDh5VUZ4MjA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQV0wzN19wSXhNcDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQakgzMVJMbFhYTGc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQc3RJSFBpZ01mSUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultra Seven X[/COLOR] - [COLOR red]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQNF8wakgwSjQ1UFU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7hycf1igz/UltrasevenX_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/gogn2bnpf/ultrasevenx_fanart.jpg</fanart>
+</item>
+

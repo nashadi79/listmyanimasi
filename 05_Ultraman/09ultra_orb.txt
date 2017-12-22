@@ -1,0 +1,175 @@
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roSEN2NUxIMEpMZzg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNk1SeUtPOFpKUEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZDBYU3pxcnZuOXM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZjdqbHNmQjNmX0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZnVUeG1TQ2xjNGc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMFdEVC15LVJYNEk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roM0FrWldzVkVqX0k/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roNmdMRlVkekVPbFU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roRXdvUXlNVzBiZFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roajhjQ0lneklsQzA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roemV5VmRKOVA4TVE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roaVh3aFVkTWpYN2c/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roR0ZKMm9ieDhFTnc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roRk9abWRBTVo4MWs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUy1Jb0FmanZBX1U/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 16[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roaVE3dzRveElSVmM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 17[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robHMwanV1dEVPOFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 18[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roZXdIUXVsVEdUaEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 19[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roX3VRYWtpSjA0X1U/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 20[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roTEZtaTRvSFhsam8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 21[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robXNLd0Zzb2tzemc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 22[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9robGJsWmJuWi1xeUU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 23[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roUGhmTDdWekNKZGM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 24[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roMkp2VjA2cGM2bTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Ultraman Orb[/COLOR] - [COLOR green]Ep 25[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B4K5o2wVN9roa2FXYUtXd1Q4eXc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4qqvpjqv7/Uman_Orb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+</item>
+

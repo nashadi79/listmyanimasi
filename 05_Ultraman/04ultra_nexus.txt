@@ -1,0 +1,98 @@
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 17[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e_tc_8kpxcs</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 20[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e_tc_8kpxcs</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 21[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jqTE5CxYbQQ</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 23[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kFH47amVPxQ</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 24[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6LxE_-Mn33A</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 25[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b6ZbgzHJZOI</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 26[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aAqCedZUc1w</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 27[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zXkc_l5PYgI</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 28[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WSEInlK3X1Y</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 29DC[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ACpkj43OBr4</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 30[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fvJGZIGp-Io</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 31[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EOUO4bN8oPg</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 32[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BtpdUDf9v24</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ultraman Nexus[/COLOR] - [COLOR violet]Episode 33[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NrQsqoaaDFU</link>
+<thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
+<item>
+
