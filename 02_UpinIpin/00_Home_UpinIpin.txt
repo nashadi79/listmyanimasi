@@ -6,7 +6,7 @@
 <name>Upin Ipin Sing Along</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin_Sing.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin_Sing.txt</externallink>
 <info></info>
 </channel>
 
@@ -14,7 +14,7 @@
 <name>Upin Ipin Musim 1 dan 2</name>
 <thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin01.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin01.txt</externallink>
 <info></info>
 </channel>
 
@@ -22,7 +22,7 @@
 <name>Upin Ipin Musim 3</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin03.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin03.txt</externallink>
 <info></info>
 </channel>
 
@@ -30,7 +30,7 @@
 <name>Upin Ipin Musim 4</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin04.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin04.txt</externallink>
 <info></info>
 </channel>
 
@@ -38,7 +38,7 @@
 <name>Upin Ipin Musim 5</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin05.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin05.txt</externallink>
 <info></info>
 </channel>
 
@@ -46,7 +46,7 @@
 <name>Upin Ipin Musim 6</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin06.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin06.txt</externallink>
 <info></info>
 </channel>
 
@@ -54,7 +54,7 @@
 <name>Upin Ipin Musim 7</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin07.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin07.txt</externallink>
 <info></info>
 </channel>
 
@@ -62,7 +62,7 @@
 <name>Upin Ipin Musim 8</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin08.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin08.txt</externallink>
 <info></info>
 </channel>
 
@@ -70,7 +70,7 @@
 <name>Upin Ipin Musim 9</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin09.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin09.txt</externallink>
 <info></info>
 </channel>
 
@@ -78,7 +78,7 @@
 <name>Upin Ipin Musim 10</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin10.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin10.txt</externallink>
 <info></info>
 </channel>
 
@@ -86,7 +86,7 @@
 <name>Upin Ipin Musim 11</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin11.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin11.txt</externallink>
 <info></info>
 </channel>
 
@@ -94,7 +94,7 @@
 <name>Upin Ipin Series - Kembara Ke Pulau Harta Karun</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin_Kembara.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin_Kembara.txt</externallink>
 <info></info>
 </channel>
 
@@ -102,7 +102,7 @@
 <name>Upin Ipin Mari Belajar</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/upin_MariBelajar.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/upin_MariBelajar.txt</externallink>
 <info></info>
 </channel>
 
