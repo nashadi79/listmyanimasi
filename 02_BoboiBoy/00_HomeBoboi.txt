@@ -1,25 +1,12 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
-<!--
-<channel>
-<name>Boboi Boy The Movie</name>
-<thumbnail>https://s19.postimg.org/4u14aydvn/boboiboythemovie_thumb.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-<item>
-<title>[COLOR silver]Boboi Boy The Movie[/COLOR] - [COLOR yellow][/COLOR]</title>
-<urlsolve>https://userscloud.com/embed-2bgc5hsv727y.html</urlsolve>
-<thumbnail>https://s19.postimg.org/4u14aydvn/boboiboythemovie_thumb.jpg</thumbnail>
-<fanart></fanart>
-</item>
-</channel>
--->
+
 <channel>
 <name>Boboi Boy Galaxy</name>
 <thumbnail>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</thumbnail>
 <fanart>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/BoboiBoyGalaxy.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/BoboiBoyGalaxy.txt</externallink>
 <info>monsta</info>
 </channel>
 
@@ -27,7 +14,7 @@
 <name>Apa Kata Yaya</name>
 <thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
 <fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
-<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/ApaKataYaya.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/ApaKataYaya.txt</externallink>
 <info>monsta</info>
 </channel>
 
@@ -35,7 +22,7 @@
 <name>Boboi Boy Musim 1</name>
 <thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/boboiboyS1.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/boboiboyS1.txt</externallink>
 <info>monsta</info>
 </channel>
 
@@ -43,7 +30,7 @@
 <name>Boboi Boy Musim 2</name>
 <thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/boboiboyS2.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/boboiboyS2.txt</externallink>
 <info>monsta</info>
 </channel>
 
@@ -51,7 +38,7 @@
 <name>Boboi Boy Musim 3</name>
 <thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
 <fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/boboiboyS3.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/boboiboyS3.txt</externallink>
 <info>monsta</info>
 </channel>
 
