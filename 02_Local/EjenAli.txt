@@ -111,7 +111,6 @@
 <info></info>
 </channel>
 
-
 <!--Ejen Ali Musim 2-->
 <channel>
 <name>[COLOR orange][B]Ejen Ali Musim 2[/B][/COLOR]</name>
@@ -120,62 +119,176 @@
 <items>
 
 <item>
-<title>[COLOR yellow]Ejen Ali Musim 2[/COLOR]</title>e
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Aj0EYAJFvHE</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<link>$doregex[makelist1]</link>
-
-<regex>
-<name>makelist1</name>
-<listrepeat><![CDATA[
-   <title>[makelist1.param2]</title>
-   <link>$doregex[playpath]</link>
-   <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
-   <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-]]></listrepeat>
-<expres>\s<..href="(.*?)" target="_blank">(.*?)<</expres>
-<page>http://www.solidfiles.com/v/BjkQrjmBve67z</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>playpath</name>
-<expres>downloadUrl":"(.*?)"</expres>
-<page>https://www.solidfiles.com[makelist1.param1]</page>
-</regex>
-</item>
-<!--
 <item>
-<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLr7CHFmBiVDJfcy4XivmYFnF9YauIiqWa</link>
-<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-</item>
 
 <item>
-<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Ep 1[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxeXlkMWN5a2E0Tk0/view?usp=sharing</urlsolve>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FQXAVVhV6Fk</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-</item>
+<item>
 
 <item>
-<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Ep 2[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxa3dsdG1tVWhuLVE/view?usp=sharing</urlsolve>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=omFYV9zbP10</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-</item>
+<item>
 
 <item>
-<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxYnU3cS1tQW45clk/view?usp=sharing</urlsolve>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ILMnv-kstDw</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-</item>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SbVYLTUWLFE</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vNF8ovvxxOQ</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Main [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AMxU1bCvKsQ</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Main [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hhiegS2MmeI</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Main [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wyiR3pE1b2U</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : ANALOG [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zMPQ-CrVj40</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : ANALOG [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qC5wmpZomEs</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : ANALOG [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=upQ_HpcO-7E</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : CABAR [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h4aeNRHIquc</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : CABAR [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lMksHWqocag</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : CABAR [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9cjq0VGPVg8</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : SUSU [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FDS9ev_NotY</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : SUSU [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q_Chhcgwcms</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : SUSU [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BGRAGH2ycfM</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H2BztsAdZTc</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mXj6-JDeRFI</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qR0ZiUUgl0I</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tMGt7LSOH3M</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gSTpf6b-ZMY</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gSTpf6b-ZMY</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
 
 </items>
 <info></info>
 </channel>
--->
 
 <channel>
 <name>[COLOR red][B]Youtube Channel - Ejen Ali[/B][/COLOR]</name>
@@ -209,7 +322,7 @@
                 <link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
                 <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
             ]]></listrepeat>
-            <expres><![CDATA[href="\/watch\?v=(.*?)">(.*?)<.*?> -(.*?)</span></h3>]]></expres>
+            <expres><![CDATA[href=\/watch\?v=(.*?)>(.*?)<.*?> -(.*?)</span></h3>]]></expres>
             <page>$doregex[get-source-page]</page>
             <cookieJar></cookieJar>
 </regex>
@@ -242,7 +355,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/channel/UC4
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
  r1 = requests.get(pageUrl, headers = headers)
  source = r1.text
- source =  source.replace('&quot;', '"').replace("'", "'").replace("&amp;", "&")
+ source =  source.replace('&quot;', '').replace(', ').replace(&amp;, &)
  pre = 'https://www.youtube.com'
  #print pre
  #page = [makelist2.param1]
@@ -251,14 +364,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/channel/UC4
  if (N > 1):
 
   for itr in range (1,N):
-    continuex = re.findall('data-uix-load-more-href="(.*?)"', source)[0]
+    continuex = re.findall('data-uix-load-more-href=(.*?)', source)[0]
     continuationx = pre + continuex
     r = requests.get(continuationx, headers = headers)
     source = r.text
     jdata = json.loads(source)
-    source = jdata["load_more_widget_html"]
-    page = jdata["content_html"]
-    page =  page.replace('&quot;', '"').replace("'", "'").replace("&amp;", "&")
+    source = jdata[load_more_widget_html]
+    page = jdata[content_html]
+    page =  page.replace('&quot;', '').replace(', ').replace(&amp;, &)
   return page
    
  else:
