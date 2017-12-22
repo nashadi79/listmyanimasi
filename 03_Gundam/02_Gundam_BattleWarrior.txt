@@ -1,0 +1,365 @@
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLFFAE416D3BCC83AD</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qhYLtTAt58A</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pFFrWOUfs0A</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zBYVszmfnJU</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mxteGqPH_i8</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UfmH9KK-alM</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kWGtaxACCvM</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1PDcYro8ZPk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DPsXYdvYjM0</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 9[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qOK-D0i02KA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CcTuXN9iRAI</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xsFK9cUHGDI</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 12[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9qS_m8onKzk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 13[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qu4E_ZwC1cY</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 14[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FayvVbWiaIQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 15[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NzonT-k47Nc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 16[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5dAGpgP438o</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 17[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nngVx5iXnAA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 18[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XqJe5LjG63E</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 19[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A8V_SuB76Bc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 20[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v5_ELyB5Syk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 21[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uuAiaOaww-M</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 22[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lbXWCjszT84</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 23[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XzkKcvgipnk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 24[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BBTKgnSr2_o</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 25[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9kZcT9BunUU</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 26[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nUtjeTVBEnc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 27[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3734Hxawwo4</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 28[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JswF8YDEXEk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 29[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8m3jUUHoRRw</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 30[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K4h3N1tEU30</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 31[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N0dYalaHz5Q</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 32[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SBtyl_y0Rr0</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 33[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LCJuHuJcSmk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 34[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vWhZR-seHZA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 35[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bMP2lC_3cI4</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 36[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bRjzd0olbj4</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 37[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Iz91F633y0Q</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 38[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=quuKbiteRlM</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 39[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HwNYtOeYd0k</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 40[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8lECrTx2tPs</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 41[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e_Dxgg4HEvg</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 42[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=74VMbQLoVoc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 43[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CcSkDUfWD08</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 44[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iTCJ4cshM9I</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 45[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VKGq-UQOJZI</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 46[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ISLHYLfG_nQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 47[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h_2QGQpLttI</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 48[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UtbWIPxqSnk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 49[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CzoTHYgNjyM</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 50[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nm1RTRo2dw8</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Brave Battle Warrior[/COLOR] - [COLOR lime]Ep 51[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LGCnuZTnGEE</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+

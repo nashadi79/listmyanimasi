@@ -1,0 +1,143 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>Gundam Build Fighters</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/03_Gundam/03_Gundam_BuildFighter.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Gundam Brave Battle Warrior</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/03_Gundam/02_Gundam_BattleWarrior.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Mobile Suit Gundam - Iron Blooded Orphans (Season 1)</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/03_Gundam/01_Gundam_MobileSuit_IronBloodS1.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Mobile Suit Gundam - Unicorn RE0096</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/03_Gundam/04_Gundam_Unicorn%20RE0096.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Mobile Suit Gundam - Iron Blooded Orphans (Season 2)</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/03_Gundam/06_Gundam_MobileSuit_IronBloodS2.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Gundam Build Fighters Try</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/03_Gundam/05_Gundam_BuildFighterTRY.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Mobile Suit Z Gundam</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<items>
+
+<item>
+<title>Mobile Suit Z Gundam - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+	 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx8BmOF6F1QBoQ--CVxo4WGF</page>
+ <referer>https://www.youtube.com/channel/GundamInfo</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+<channel>
+<name>Mobile Suit Gundam ZZ</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<items>
+
+<item>
+<title>Mobile Suit Gundam ZZ - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+	 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx_8tDxfLD6g7k0lBlTtShAf</page>
+ <referer>https://www.youtube.com/channel/GundamInfo</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+<channel>
+<name>Mobile Suit Gundam Seed</name>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<items>
+
+<item>
+<title>Mobile Suit Gundam Seed - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+	 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx89jH49IgnVuKyuRNTj11PK</page>
+ <referer>https://www.youtube.com/channel/GundamInfo</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+</channels>

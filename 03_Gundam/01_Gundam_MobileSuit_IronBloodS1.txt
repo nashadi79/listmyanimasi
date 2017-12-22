@@ -1,0 +1,175 @@
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HEtQWgDldA8</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JcthXLoP3BU</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VhQcIZEOKBQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lazIWEQni_8</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0V5XdZottjs</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JG0qtC1Z3uA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uh9dkpbYCTc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zoHMGJagloA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 9[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Rp9EqsCt4QI</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vmTT6JlOuPs</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8HmgRGpZs44</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 12[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-keL5tJccwc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 13[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IgJV2CuWL-Y</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 14[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mi2-Oo_ARFg</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 15[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k2CDpZS53WU</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 16[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5rpyWG_RT6Q</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 17[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=R4l_pIa8kZY</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 18[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3YbdJD-FBAw</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 19[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x-KchfV6FAs</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 20[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1aGKWp-GCHo</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 21[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=15EJ2NnqHgI</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 22[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iyxkBxnQf5s</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 23[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=em4v4BgJH3A</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 24[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1x6AM7afOoQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Mobile Suit Gundam - Iron Blooded Orphans (Season 1)[/COLOR] - [COLOR lime]Ep 25[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zWqxX-dbb6k</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+

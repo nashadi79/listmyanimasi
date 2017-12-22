@@ -1,0 +1,175 @@
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=R9H1u1zFVNc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BIOi14hOOHY</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZI4zRExqv4U</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h-FVyHGZI0Y</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dG6x_FcfWrA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PyLIjk_V-1g</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_86GS6Otd64</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bC1owUxslXQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 9[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZJInABXIYDA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0izJERZkVRg</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4cVf3hYuHCM</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 12[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1mgoiKjbghk</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 13[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4WGqhbESJwQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 14[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NyiGiegUm5c</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 15[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i4-txHzY4ew</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 16[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aQyY1yfC8p4</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 17[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vaRynhjiIsM</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 18[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dxFKgiaYIsQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 19[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f6IBs_q0XfQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 20[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AjENEHpG-N8</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 21[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rs1vbr_vAmw</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 22[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ca5S9MQc6lc</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 23[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qtA0mnd-p4U</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 24[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7uBPAmZZhnQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Gundam Build Fighters[/COLOR] - [COLOR yellow]Ep 25[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZTGoBVP9Q_k</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+

@@ -1,0 +1,154 @@
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Htv6x4kwZKE</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Htv6x4kwZKE</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fD3RbxeoI1M</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-ddiRrGJ_bU</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kIj9d3J2jYE</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5H1goQ7-n3A</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9nv3Bh8QWI0</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4yLIrSpg_rQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 9[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=snyE9lnjreY</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MySl9TbR3ME</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u6DeuHQIq40</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 12[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5tqGxYYWsmM</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 13[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8EmJTgX2Ios</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 14[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mZPxo_muXsg</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 15[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AWFO04ePjes</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 16[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VlyQev693VQ</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 17[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yEBG5khyFtA</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 18[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yUXrVePbRA0</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 19[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rlMKVYBZKaU</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 20[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O4Or3KyjF7I</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 21[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Nlzcob0Hn8E</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR green]Mobile Suit Gundam - Unicorn RE0096[/COLOR] - [COLOR silver]Ep 22[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b89R9jZc65g</link>
+<thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
+<item>
+
