@@ -1,0 +1,53 @@
+<item>
+<title>Gamer Movie (A-G)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmRGd0tq8bezyN0QFHHtnoEe</page>
+ <referer>https://www.youtube.com/channel/gLPLayground</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ </item>
+
+<item>
+<title>Gamer Movie (H-Q)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmSHy85leC3rx5-E8BwpOgZM</page>
+ <referer>https://www.youtube.com/channel/gLPLayground</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ </item>
+
+<item>
+<title>Gamer Movie (R-Z)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmSdCiQvhet-r0Cj31KdLvE_</page>
+ <referer>https://www.youtube.com/channel/gLPLayground</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ </item>
