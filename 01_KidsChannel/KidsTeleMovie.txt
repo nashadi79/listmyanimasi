@@ -1,0 +1,63 @@
+<item>
+<title>[COLOR silver]Oh My English[/COLOR] - [COLOR yellow]Oh My Ganu[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekYmNXQXpMWWRfdFU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/y7p09js8z/omg_ganu_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/n6tv4j003/omg_ganu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Oh My English[/COLOR] - [COLOR yellow]Oh My Ganu 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekOExsWUNpTGtEZDg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/4ibth7937/omg_ganu2_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/5jc26bq2r/omg_ganu2_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Oh My English[/COLOR] - [COLOR yellow]Villa Isabella[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekVTdzdU1PTElTS28/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/ghrx2941v/omgvillaisa_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/qqke82s3n/omgvillaisa_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Oh My English[/COLOR] - [COLOR yellow]Hello America[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekSjN0WmNZaE0wV3M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/3l9zm2myr/omg_heloamerica_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o44vr50w3/omg_heloamerica_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Oh My English[/COLOR] - [COLOR yellow]Oh My Goat[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekMWwwRUJuVmFZQmc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8h9100xqb/omg_goat_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/d1v7eyhfn/omg_goat_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Oh My English[/COLOR] - [COLOR yellow]Road To Jogja Part 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekNXVOUjk4T05tdFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/n5oiounk3/omg_jogja_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/3zbblo72b/omg_jogja_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Oh My English[/COLOR] - [COLOR yellow]Road To Jogja Part 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekXzFBNlNQRGRzTXc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/n5oiounk3/omg_jogja_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/3zbblo72b/omg_jogja_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Strawberi and Karipap[/COLOR] - [COLOR yellow]Sesat Kat Paris[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekTjhpZW45aFNZNTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8u50jy5dv/strawberi_paris_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/83cae630j/strawberi_paris_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver][/COLOR] - [COLOR yellow]Magika[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByBMK9_NRDekMVQxUHd6TmIzWnM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/iwf78xuwz/magika_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/4opikai83/magika_fanart.jpg</fanart>
+</item>
+

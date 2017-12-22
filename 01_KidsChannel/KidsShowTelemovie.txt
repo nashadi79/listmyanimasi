@@ -1,0 +1,325 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<!-- TELEMOVIE -->
+<channel>
+<name>[COLOR yellow]Telemovie Kanak-Kanak[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/lzp43son7/Oh_My_English.png</thumbnail>
+<fanart>https://s19.postimg.org/lzp43son7/Oh_My_English.png</fanart>
+<externallink>http://myanimasi.ares-project.com/01_KidsChannel/KidsTeleMovie.txt</externallink>
+<info></info>
+</channel>
+
+<!-- CHICHI CHACHA -->
+<channel>
+<name>[COLOR yellow]Chichi dan Chacha[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+<items>
+
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
+<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Chichi dan Chacha Season 1[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPnMuB_-1qdN8JFMuM2tfFT</link>
+<thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Chichi dan Chacha Season 1[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+     <fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtPnMuB_-1qdN8JFMuM2tfFT</page>
+ <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Chichi dan Chacha Season 2[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMMo7wgRLlErHod0ON1SBbi</link>
+<thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Chichi dan Chacha Season 2[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+     <fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtMMo7wgRLlErHod0ON1SBbi</page>
+ <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Chichi dan Chacha Season 3[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMTd3OqHvwewjS9ewXVb3rP</link>
+<thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Chichi dan Chacha Season 3[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+     <fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtMTd3OqHvwewjS9ewXVb3rP</page>
+ <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/ro7b6vow3/chicha_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/72ny18hxf/chicha_fanart.png</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+<!-- DOKTOR MUDA -->
+<channel>
+<name>[COLOR yellow]Doktor Muda[/COLOR]</name>
+<thumbnail>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
+<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Doktor Muda[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL8bp0bzQyLN_5JwF1U8clfFXEE_X0LaLK</link>
+<thumbnail>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Doktor Muda[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</thumbnail>
+	 <fanart>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL8bp0bzQyLN_5JwF1U8clfFXEE_X0LaLK</page>
+ <referer>https://www.youtube.com/channel/AstroCeriaTV</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2SOf9cuAMFo/maxresdefault.jpg</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+
+<!-- CHOPP -->
+<channel>
+<name>[COLOR yellow]Chopp[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/bcuc8364j/chopp_astro.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Mb5Km6Y02Wo/hqdefault.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
+<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Chopp[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL8bp0bzQyLN_xSQKmsMVlR0EnVoadf6dL</link>
+<thumbnail>https://s19.postimg.org/bcuc8364j/chopp_astro.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Mb5Km6Y02Wo/hqdefault.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Chopp[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/bcuc8364j/chopp_astro.jpg</thumbnail>
+	 <fanart>https://i.ytimg.com/vi/Mb5Km6Y02Wo/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL8bp0bzQyLN_xSQKmsMVlR0EnVoadf6dL</page>
+ <referer>https://www.youtube.com/channel/AstroCeriaTV</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/bcuc8364j/chopp_astro.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Mb5Km6Y02Wo/hqdefault.jpg</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+<!-- TELEMOVIE -->
+<channel>
+<name>[COLOR yellow]My Scrap Book - RTM2[/COLOR]</name>
+<thumbnail>http://rtm-images.gluempsapp.com/1024x576/program/MyScrapBook/LOGO%203D%20MySCRAPBOOK_00065%20(1).jpg</thumbnail>
+<fanart></fanart>
+<item>
+<title>[COLOR lime]My Scrap Book - RTM2[/COLOR]</title>
+<thumbnail>http://rtm-images.gluempsapp.com/1024x576/program/MyScrapBook/LOGO%203D%20MySCRAPBOOK_00065%20(1).jpg</thumbnail>
+<link>$doregex[makelist1]</link>
+
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+   <title>My Scrap Book - [makelist1.param2]</title>
+   <link>$doregex[playpath]</link>
+   <thumbnail>http://rtm-images.gluempsapp.com/1024x576/program/MyScrapBook/LOGO%203D%20MySCRAPBOOK_00065%20(1).jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*?)".*">(.*?)<.*</expres>
+<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/ListMyScrapBook.txt</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>playpath</name>
+<expres>file="(.*?)"</expres>
+<page>[makelist1.param1]</page>
+</regex>
+</item>
+<info></info>
+</channel>
+
+<!-- oh my english -->
+<channel>
+<name>[COLOR yellow]Oh My English Series[/COLOR]</name>
+<thumbnail>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
+<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Oh My English Series[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLTBzML5dKDaeF24q6pOr66d55svF03GXf</link>
+<thumbnail>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</fanart>>
+<item>
+
+<item>
+<title>[COLOR orange]Oh My English Series[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</thumbnail>
+	 <fanart>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLTBzML5dKDaeF24q6pOr66d55svF03GXf</page>
+ <referer>https://www.youtube.com/channel/OhMyEnglishTV</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/eS1zQAqlJVw/hqdefault.jpg</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+
+<!-- YA USTAZ -->
+<channel>
+<name>[COLOR yellow]Ya Ustaz[/COLOR]</name>
+<thumbnail>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
+<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ya Ustaz[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL8bp0bzQyLN_Ic4sXfLakn6XhrNt5KVjT</link>
+<thumbnail>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</fanart>t>
+<item>
+
+<item>
+<title>[COLOR orange]Ya Ustaz[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</thumbnail>
+	 <fanart>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL8bp0bzQyLN_Ic4sXfLakn6XhrNt5KVjT</page>
+ <referer>https://www.youtube.com/channel/AstroCeriaTV</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/SqqVr0HW_f8/hqdefault.jpg</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+</channels>

@@ -1,0 +1,124 @@
+<item>
+<title>Kompilasi Abee's Kidz - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOmxofuEzn5TonUamCTTOmc</link>
+<thumbnail>http://static.qobuz.com/images/covers/30/35/9555451103530_600.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/z-VF8PNbdAQ/maxresdefault.jpg</fanart>
+<item>
+
+<item>
+<title>Kompilasi Abee's Kidz - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://static.qobuz.com/images/covers/30/35/9555451103530_600.jpg</thumbnail>
+     <fanart>https://i.ytimg.com/vi/z-VF8PNbdAQ/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtOmxofuEzn5TonUamCTTOmc</page>
+ <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://static.qobuz.com/images/covers/30/35/9555451103530_600.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/z-VF8PNbdAQ/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Kids Noise Studio - Muslim Kids Learn Islam [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/cvltgh6mb/jombelajar_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/ojfvb0vr7/jombelajar_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOGgGyqg2w738pe1ZJ47ZnD</link>
+</item>
+
+<item>
+<title>Kompilasi Upin dan Ipin - Jom Belajar [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLdm4JCUOHx86L3ucbS189b0VcxIA6Rz9V</link>
+</item>
+
+<item>
+<title>Kompilasi Belajar Doa - Kastari Animation[COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/cvltgh6mb/jombelajar_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/ojfvb0vr7/jombelajar_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLuPJoPtaEBHWihD6ktKGBofL8ogwa3QNE</link>
+</item>
+
+<item>
+<title>Kompilasi Surah-surah pendek dalam Alquran[COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/cvltgh6mb/jombelajar_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/ojfvb0vr7/jombelajar_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMqrtEFZigHIsATtD94nb9Z</link>
+</item>
+
+<item>
+<title>Koleksi Bacaan Al-Quran untuk Kanak-kanak Versi Upin dan Ipin[COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<utube>-KOZxeVlCZo</utube>
+</item>
+
+<item>
+<title>Kompilasi Upin dan Ipin - Kelas Seni Upin Ipin[COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLdm4JCUOHx84gJseg406tGXDVIgHKEsy2</link>
+</item>
+
+<item>
+<title>Belajar Doa Bersama Alif dan Mimi [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/RVsfzt4Stzg/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/RVsfzt4Stzg/hqdefault.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLDd2VACsmQD2HKdyPmZph5wFjWl9se_9S</link>
+</item>
+
+<item>
+<title>Learn ABC by Super Simple ABC [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/eEmXHJX7Wb0/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/eEmXHJX7Wb0/hqdefault.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLl_hUiQfMq3LaX888tLwQh4LOCQ0nOJIV</link>
+</item>
+
+<item>
+<title>Learn Uppercase Letters and Phonics by Super Simple ABC [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/kmkdq8Sya54/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/kmkdq8Sya54/hqdefault.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLl_hUiQfMq3JfYANDxn_fZpDxiqN7tt1I</link>
+</item>
+
+<item>
+<title>Learn Lowercase Letters and Phonics by Super Simple ABC [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/cLkPY3MFrRs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/cLkPY3MFrRs/hqdefault.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLl_hUiQfMq3JHULGQmlUq3NERdEAYjeqh</link>
+</item>
+
+<item>
+<title>Larva - Lets Learn  [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPmzqc1jAU0AjbFTeuUsbKv</link>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Macam Macam Pintar - Astro Tutor TV[COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL026C5ACE9657909F</link>
+<thumbnail>https://i.ytimg.com/vi/1mN35-ETBvI/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/1mN35-ETBvI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Geng UPSR 01[COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL_8FUbkhTDClv0SKqBvqH0dMuiBWVdGEC</link>
+<thumbnail>https://i.ytimg.com/vi/9MUPKY-La08/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/9MUPKY-La08/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Geng UPSR 02[COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL_8FUbkhTDCkICTcbtZ36ECpj0TokldG6</link>
+<thumbnail>https://i.ytimg.com/vi/9MUPKY-La08/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/9MUPKY-La08/maxresdefault.jpg</fanart>
+</item>

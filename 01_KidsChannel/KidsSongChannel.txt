@@ -1,0 +1,159 @@
+<item>
+<title>[COLOR orange]Kompilasi Lagu - Omar dan Hana[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6</link>
+<thumbnail>https://i.ytimg.com/vi/U7Ro_u1YaFs/hqdefault_live.jpg</thumbnail>
+<fanart>https://s3-ap-southeast-1.amazonaws.com/ams-data-bucket/production/images/omarhana.jpg</fanart>
+<item>
+
+<item>
+<title>Kompilasi Upin dan Ipin - Sing Along [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLdm4JCUOHx8596LTR6voWv0awcuLAuFoa</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Didi and Friends - Sing Along Musim 1[COLOR lime] Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL5B7QzKgckD1e6Atw6Ji7KZbVb5TZv0JZ</link>
+</item>
+
+<item>
+<title>Kompilasi Didi and Friends - Sing Along Musim 2[COLOR lime] Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL5B7QzKgckD0-2GNlN381c0_igcMhxs-n</link>
+</item>
+
+<item>
+<title>Kompilasi Lagu Kanak-Kanak : Alif dan Sofia[COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLpN1iV-zkK8sHI_-BwJ53RdEcMHVUyAd-</link>
+<thumbnail>https://i.ytimg.com/vi/UUsbX7lgH6g/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/UUsbX7lgH6g/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Lagu Kanak-Kanak : Alif dan Mimi[COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLDd2VACsmQD0yFA3AD0gcRA3KEoTCYftC</link>
+<thumbnail>http://s19.postimg.org/uw38fibk3/arieskids_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/nrlf6h4ar/arieskids_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Lagu Anak PASTI [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLSzNCU1ovTxYZq6Ejzju77VhIG2MM0Xvm</link>
+<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Lagu Kanak-Kanak - Bibitsku Vol 1</title>
+<utube>fgUjoIQZZM4</utube>
+<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Lagu Kanak-Kanak - Bibitsku Vol 2</title>
+<utube>ag6-rpR1Wuo</utube>
+<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Moana - Sing Along [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOt_9TmJYyMPR0zh-eSOvpH</link>
+<thumbnail>https://s19.postimg.org/nwdstbow3/moana_fanart.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nwdstbow3/moana_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Brave - Sing Along [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtP6vU1Y1Iq__w3AetZVUhMZ</link>
+<thumbnail>http://s19.postimg.org/f76c3wf7n/brave_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/bz1uqusxv/brave_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Frozen (English) - Sing Along [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMiwfseR53_n9EMLY170svC</link>
+<thumbnail>http://s19.postimg.org/ekc0s47pf/frozen_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/c1lqdowlf/frozen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Frozen (Malay) - Jom Nyanyi [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMl0GfOriCi4TXz4-M95wgm</link>
+<thumbnail>http://s19.postimg.org/ekc0s47pf/frozen_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/c1lqdowlf/frozen_fanart.jpg</fanart>
+
+</item>
+
+<item>
+<title>Bob The Builder - Sing Along [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMkTPW2Hc2hLehxjMGgqBCy</link>
+<thumbnail>http://s19.postimg.org/ea4i8rt37/Bob_the_Builder_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/p8frqyhoj/Bob_the_Builder_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Frozen (Malay) - Jom Nyanyi [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMl0GfOriCi4TXz4-M95wgm</link>
+<thumbnail>http://s19.postimg.org/ekc0s47pf/frozen_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/c1lqdowlf/frozen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Lagu Kanak-Kanak - Badanamu Vol 1</title>
+<utube>Vcn3lzZ5Y0o</utube>
+<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Pororo - Sing Along Vol 1 [COLOR lime]Play All[/COLOR]</title>
+<utube>B35Ao9rAmM4</utube>
+<thumbnail>http://s19.postimg.org/lsnnhekg3/pororo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tk4dfyolf/pororo_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Pororo - Sing Along Vol 2 [COLOR lime]Play All[/COLOR]</title>
+<utube>EymGXCP6J60</utube>
+<thumbnail>http://s19.postimg.org/lsnnhekg3/pororo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tk4dfyolf/pororo_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Tayo - Sing Along [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOJQyVOnWTx50hYMEmkCiHR</link>
+<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
+</item>
+
+<item>
+<title>Tayo - Nursery Rhymes  [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNWVLbggtsKK9TSRFEpH199</link>
+<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
+</item>
+
+<item>
+<title>Larva - Nursery Rhymes  [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNHib6wmE53qNbGMhuzFb-k</link>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kompilasi Lagu Anak Anak Indonesia [COLOR lime]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPt_nnhOaiVRG9RjQ6GVOfJ</link>
+<thumbnail>http://4.bp.blogspot.com/-wM7RJY3XeO4/VlkliMKTUXI/AAAAAAAACs8/lzoVYQWik5Q/s1600/lagu-anak-indonesia.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-wM7RJY3XeO4/VlkliMKTUXI/AAAAAAAACs8/lzoVYQWik5Q/s1600/lagu-anak-indonesia.png</fanart>
+</item>
+
+
+
+
+
