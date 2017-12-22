@@ -1,0 +1,21 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR orange]One Piece Movie[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/03_OnePiece/01_OnePieceMov.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR green]One Piece Series[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/03_OnePiece/02_OnePieceSeries.txt</externallink>
+<info></info>
+</channel>
+
+</channels>

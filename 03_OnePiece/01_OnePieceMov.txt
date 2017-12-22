@@ -1,0 +1,91 @@
+<item>
+<title>[COLOR green]One Piece Movie 01[/COLOR] - [COLOR yellow]One Piece[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lQWEwU1hMT3VNdUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 02[/COLOR] - [COLOR yellow]Clockwork Island Adventure[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lT1pjS2RNMG1WRW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 03[/COLOR] - [COLOR yellow]Chopper's Kingdom on the Island of Strange Animals[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lY3hzT3Q0Q1AzQkU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 04[/COLOR] - [COLOR yellow]Dead End Adventure[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lYnpKU1JrdUhpaTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 05[/COLOR] - [COLOR yellow]The Cursed Holy Sword[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lenVsa3d6NGk2cTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 06[/COLOR] - [COLOR yellow]Baron Omatsuri and the Secret Island[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lWVRMeURybnJFODA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 07[/COLOR] - [COLOR yellow]Giant Mecha Soldier of Karakuri Castle[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lNUd0SEJyN3pUZ0U/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 08[/COLOR] - [COLOR yellow]The Desert Princess and the Pirates: Adventures in Alabasta[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lY0ZwVFJ6cWNTNlE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 09[/COLOR] - [COLOR yellow]Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lazdyaGQ3VTRDVk0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 10[/COLOR] - [COLOR yellow]Strong World[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lTjdUX2JPeEppdlU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 11[/COLOR] - [COLOR yellow]Straw Hat Chase[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lZmVHRlJCZGlaSW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 12[/COLOR] - [COLOR yellow]Film Z[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lUHppQjU5dGhtNDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]One Piece Movie 13[/COLOR] - [COLOR yellow]Gold[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lSXlnTTE5SGo2aTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+</item>
+
