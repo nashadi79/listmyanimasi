@@ -1,0 +1,156 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<!--
+<channel>
+<name>Boboi Boy The Movie</name>
+<thumbnail>https://s19.postimg.org/4u14aydvn/boboiboythemovie_thumb.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<item>
+<title>[COLOR silver]Boboi Boy The Movie[/COLOR] - [COLOR yellow][/COLOR]</title>
+<urlsolve>https://userscloud.com/embed-2bgc5hsv727y.html</urlsolve>
+<thumbnail>https://s19.postimg.org/4u14aydvn/boboiboythemovie_thumb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+</channel>
+-->
+<channel>
+<name>Boboi Boy Galaxy</name>
+<thumbnail>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/BoboiBoyGalaxy.txt</externallink>
+<info>monsta</info>
+</channel>
+
+<channel>
+<name>Apa Kata Yaya</name>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/ApaKataYaya.txt</externallink>
+<info>monsta</info>
+</channel>
+
+<channel>
+<name>Boboi Boy Musim 1</name>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/boboiboyS1.txt</externallink>
+<info>monsta</info>
+</channel>
+
+<channel>
+<name>Boboi Boy Musim 2</name>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/boboiboyS2.txt</externallink>
+<info>monsta</info>
+</channel>
+
+<channel>
+<name>Boboi Boy Musim 3</name>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/boboiboyS3.txt</externallink>
+<info>monsta</info>
+</channel>
+
+
+<channel>
+<name>Boboi Boy Channel</name>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+
+<items>
+
+<item>
+<title>[COLOR lime]Youtube Channel [COLOR][COLOR yellow][B]By Monsta[/B][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>page [makelist2.param1]</title>
+<link>$doregex[makelist3]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres> (.*?),</expres>
+<page>$doregex[get-number]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+            <name>makelist3</name>
+            <listrepeat><![CDATA[
+                <title>[COLOR yellow][makelist3.param2][/COLOR]
+ [makelist3.param3]</title>
+                <link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+                <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres><![CDATA[href="\/watch\?v=(.*?)">(.*?)<.*?> -(.*?)</span></h3>]]></expres>
+            <page>$doregex[get-source-page]</page>
+            <cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-number</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,lists='[makelist.param1]'):
+
+ real = 8 + 2
+
+ liste = list(range(real))
+ return liste
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-source-page</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/channel/UCfqDvjXc2jbAzaeqlIggkkg/videos',page='[makelist2.param1]'):
+
+ import requests
+ import re
+ import json
+
+ page = str(page)
+ print page
+ pageUrl=url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ r1 = requests.get(pageUrl, headers = headers)
+ source = r1.text
+ source =  source.replace('&quot;', '"').replace("'", "'").replace("&amp;", "&")
+ pre = 'https://www.youtube.com'
+ #print pre
+ #page = [makelist2.param1]
+ N = int(float(page))
+
+ if (N > 1):
+
+  for itr in range (1,N):
+    continuex = re.findall('data-uix-load-more-href="(.*?)"', source)[0]
+    continuationx = pre + continuex
+    r = requests.get(continuationx, headers = headers)
+    source = r.text
+    jdata = json.loads(source)
+    source = jdata["load_more_widget_html"]
+    page = jdata["content_html"]
+    page =  page.replace('&quot;', '"').replace("'", "'").replace("&amp;", "&")
+  return page
+   
+ else:
+
+  return source
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+</items>
+
+</channel>
+
+</channels>

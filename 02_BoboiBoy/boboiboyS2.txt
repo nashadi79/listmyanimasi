@@ -1,0 +1,100 @@
+
+<item>
+<title>Boboi Boy Musim 2 [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SZ2trkhc6sA</link>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 1</title>
+<utube>3eWeNStiI48</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 2</title>
+<utube>jMNBCTRoZek</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 3</title>
+<utube>OowmtKZoTp8</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 4</title>
+<utube>EboIpamSED0</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 5</title>
+<utube>ArKd2I8F1Ck</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 6</title>
+<utube>6JpWjZf-ayc</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 7</title>
+<utube>u7gwNOmQQvI</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 8</title>
+<utube>w-5sXOj6xdU</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 9</title>
+<utube>R-l7mhV9P5A</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 10</title>
+<utube>JmtNUiBEGFY</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 11</title>
+<utube>pF_6ZSAUSW4</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 12</title>
+<utube>epN7RcEMtdw</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 2 Ep 13</title>
+<utube>pnclLffWz6Y</utube>
+<thumbnail>http://s19.postimg.org/edanz988z/boboiboy_S2_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/jnfmqjshv/boboiboy_S2_fanart.png</fanart>
+</item>
+
+

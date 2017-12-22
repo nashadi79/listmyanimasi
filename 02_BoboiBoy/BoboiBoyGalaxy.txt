@@ -1,0 +1,127 @@
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOp3bbriX4igMFqDSmpykDh</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Teaser[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ISFssVQbCaI</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Opening Song - Dunia Baru by Bunkface[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UXfVATPrGjQ</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]TAPOPS Theme Song[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ocjJXT59kew</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 1 (Part 1)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mA-wDj_5Y_Q</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 1 (Part 2)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1eMG5uWv4ZI</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 2 (Part 1)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u_itTZ7D8Oo</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 2 (Part 2)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O52qNaAmtuo</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MezE2rkM_Ys</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CV_8f_qNfis</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=psKmmwrC8hg</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ety-RlRoAvI</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bYiSmmcX6Rc</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0hC7ip9HrHk</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 9[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s7c585J5YyY</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VOfYpSlNi5g</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1KYddgEZCyI</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 12[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BdVBBMCbg1s</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+

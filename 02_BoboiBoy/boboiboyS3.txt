@@ -1,0 +1,195 @@
+<item>
+<title>Boboi Boy Musim 3 [COLOR yellow](Full)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f1Ud-hTXpu8</link>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 1</title>
+<utube>3lw1cd4F5K0</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 2</title>
+<utube>2k-Xk8u_T9c</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 3</title>
+<utube>g9wSW-OdlhI</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 4</title>
+<utube>rplcxeDdx3o</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 5</title>
+<utube>aI8shkpSBXA</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 6</title>
+<utube>TpOJHRdb8jQ</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 7</title>
+<utube>JcR1U8HxTpI</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 8</title>
+<utube>prtXmbp98s0</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 9</title>
+<utube>kxitUHvNB1g</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 10</title>
+<utube>Xd1XF2mJY7A</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 11</title>
+<utube>lkBNkr0pgUk</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 12</title>
+<utube>ZY-o7TKq1LM</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 13</title>
+<utube>eBXiT5VAwng</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 14</title>
+<utube>UXEVpDFPN_E</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 15</title>
+<utube>hKqW8mn5hpg</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 16</title>
+<utube>Bg1sjy_xS_Q</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 17</title>
+<utube>fY7rjpYxvY0</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 18</title>
+<utube>KKo1Jv8K6uk</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 19</title>
+<utube>TJpIKNYC2SA</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 20</title>
+<utube>-445oJlwA_Q</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 21</title>
+<utube>Or9WqKnaS7U</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 22</title>
+<utube>gRV34e3bpMo</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>hhttp://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 23</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sK21P-HLFac</link>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 24</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Opp08vU5cjc</link>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 25 - Bhg 1</title>
+<utube>fV0I7_EcjUY</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep 25 - Bhg 2</title>
+<utube>ghYg9ndoHBk</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 3 Ep Akhir</title>
+<utube>pNc_QR-LrJY</utube>
+<thumbnail>http://s19.postimg.org/r5yrz6jur/boboiboy_S3_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/xxp7218ub/boboiboy_S3_fanart.png</fanart>
+</item>

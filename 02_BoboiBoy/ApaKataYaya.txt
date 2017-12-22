@@ -1,0 +1,210 @@
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPwJ42qf-l7Y4MSCPL-B5nP</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Jimat Elektrik[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JaDvCdYOsUY</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Tidur Pada Waktu Sesuai[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ayP6mAwBo3Y</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Cita Cita[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hVP_3IEaf-o</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Bersabar dengan Adik Kecil[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tmtrCk1YgDo</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Selamat Hari Raya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TOnxSmhhB1I</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Bersedekah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DeVq25PRWDE</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Bersenam Jangan Tak Bersenam.[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8rTcEOOZUH0</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Jangan Potong Barisan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MmYcHBZdDew</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Tabung Simpanan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mSSXX1sJuvw</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow]Ramadan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=646YBaH0YhQ</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Ziarahi Orang Yang Sakit[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9TUCYlnlq2A</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Akui Kesalahan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P9n7C1zgvf8</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Tidurlah Awal[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-lRdWF5fWRs</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Pentingnya Sarapan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wiBNsNklKm0</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Hargai Apa Yang Ada[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SBPxkXzk0WY</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Gotong Royong Jaga Kebersihan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RhhrMt1qwfI</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Sentiasa Berlaku Adil[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0qwyJaWD5X4</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Uruskan Masa Dengan Cermat[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rtcdMsNTYqE</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Siapkan Kerja Sekolah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N4Tp9qW6sYs</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Utamakan Keselamatan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KttXK6PWrnY</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Belajarlah Secara Bijak[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fld9id4r5YE</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Gunakan Duit Simpanan Dengan Cermat[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zvr8FwIz7FI</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Pulangkan Barang Yang Dijumpai[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-oRf8T2vSo4</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Bersabar dengan Adik Kecil[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yxpkE0VCkl4</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Menabung Dengan Cara Berjimat[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jKTDPqrur38</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Buat Baik Dengan Haiwan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7Fn0REs3G_I</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Jangan Bersangka Buruk[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tdSdSRKK2Gw</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Episod Ramadhan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jItiq6iWqc4</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Apa Kata Yaya[/COLOR] - [COLOR yellow] Elak Makan Makanan Ringan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-W3FQToK69k</link>
+<thumbnail>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</thumbnail>
+<fanart>https://s19.postimg.org/omtm938hv/Apa_Kata_Yaya.png</fanart>
+<item>
+

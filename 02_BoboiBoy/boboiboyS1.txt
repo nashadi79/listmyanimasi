@@ -1,0 +1,188 @@
+<item>
+<title>Boboi Boy Musim 1 [COLOR yellow](Full)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lOEYt9frPyU</link>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 1-1</title>
+<utube>WA5GHGRcdCM</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 1-2</title>
+<utube>vmrCt4mcza8</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 2-1</title>
+<utube>t_H8fQZQUDM</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 2-2</title>
+<utube>OLJ8Jjhjh6g</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 3-1</title>
+<utube>lc4PrWN0yWo</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 3-2</title>
+<utube>iO3qmZ23zcQ</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 4-1</title>
+<utube>1qfKVz0-WVY</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 4-2</title>
+<utube>beQWc9pjD5o</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 5-1</title>
+<utube>zDy7eFQLegU</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 5-2</title>
+<utube>PqJZXYLrFWE</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 6-1</title>
+<utube>M-oKeAWYl1o</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 6-2</title>
+<utube>nLod1lskv84</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 7-1</title>
+<utube>v6_1sVl7mzA</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 7-2</title>
+<utube>aZQLT4dQGYM</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 8-1</title>
+<utube>mNfnrhmwP0E</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 8-2</title>
+<utube>6MvnME8tpN0</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 9-1</title>
+<utube>fJmzKBZ25fY</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 9-2</title>
+<utube>m6FyJC3rDOw</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 10-1</title>
+<utube>LlnnNlOd2iM</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 10-2</title>
+<utube>Eil9ellwm8U</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 11-1</title>
+<utube>i8mgLnUf8R8</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 11-2</title>
+<utube>HHem0qwP4nk</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 12-1</title>
+<utube>LVSYdfsvL80</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 12-2</title>
+<utube>tOy67ZEADLw</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 13-1</title>
+<utube>FwZDI_SDYfU</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
+
+<item>
+<title>Boboi Boy Musim 1 Ep 13-2</title>
+<utube>t0UP1St-RDE</utube>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+</item>
