@@ -1,0 +1,6 @@
+<item>
+<title>[COLOR red]ANAK-ANAK CERIA..[/COLOR][COLOR yellow]..ANDA GEMBIRA :)[/COLOR][COLOR blue] :)[/COLOR]</title>
+<utube></utube>
+<thumbnail>http://s19.postimg.org/7r7fqejgj/my_animasi_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/dqv6u248z/my_animasi_fanart.jpg</fanart>
+</item>
