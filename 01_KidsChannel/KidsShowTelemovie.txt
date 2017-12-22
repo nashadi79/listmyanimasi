@@ -7,7 +7,7 @@
 <name>[COLOR yellow]Telemovie Kanak-Kanak[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/lzp43son7/Oh_My_English.png</thumbnail>
 <fanart>https://s19.postimg.org/lzp43son7/Oh_My_English.png</fanart>
-<externallink>http://myanimasi.ares-project.com/01_KidsChannel/KidsTeleMovie.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/KidsTeleMovie.txt</externallink>
 <info></info>
 </channel>
 
@@ -20,7 +20,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -119,7 +119,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -165,7 +165,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -219,7 +219,7 @@
    <thumbnail>http://rtm-images.gluempsapp.com/1024x576/program/MyScrapBook/LOGO%203D%20MySCRAPBOOK_00065%20(1).jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="(.*?)".*">(.*?)<.*</expres>
-<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/ListMyScrapBook.txt</page>
+<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/ListMyScrapBook.txt</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -240,7 +240,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -286,7 +286,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
