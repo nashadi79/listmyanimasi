@@ -1,0 +1,221 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR yellow]L[/COLOR][COLOR red]E[/COLOR][COLOR lime]G[/COLOR][COLOR green]O [/COLOR][COLOR yellow]G[/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]M[/COLOR][COLOR salmon]E[/COLOR][COLOR skyblue]S [/COLOR][COLOR red]M[/COLOR][COLOR violet]O[/COLOR][COLOR orange]V[/COLOR][COLOR silver]I[/COLOR][COLOR lime]E[/COLOR]</name>
+<thumbnail>http://s19.postimg.org/70njacvk3/legogames_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/4x8ioy6df/legogames.png</fanart>
+<externallink>http://myanimasi.ares-project.com/06_VGamesMov/videogames_01_lego.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR yellow]G[/COLOR][COLOR red]A[/COLOR][COLOR lime]M[/COLOR][COLOR green]E[/COLOR][COLOR yellow]R [/COLOR][COLOR blue]M[/COLOR][COLOR greenyellow]O[/COLOR][COLOR salmon]V[/COLOR][COLOR skyblue]I[/COLOR][COLOR red]E [/COLOR]</name>
+<thumbnail>https://s19.postimg.org/gcqjmkmdf/vidgames.jpg</thumbnail>
+<fanart>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>Gamer Movie (A-G)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmRGd0tq8bezyN0QFHHtnoEe</page>
+ <referer>https://www.youtube.com/channel/gLPLayground</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ </item>
+
+<item>
+<title>Gamer Movie (H-Q)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmSHy85leC3rx5-E8BwpOgZM</page>
+ <referer>https://www.youtube.com/channel/gLPLayground</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ </item>
+
+<item>
+<title>Gamer Movie (R-Z)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmSdCiQvhet-r0Cj31KdLvE_</page>
+ <referer>https://www.youtube.com/channel/gLPLayground</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
+ </item>
+
+</items>
+</channel>
+
+
+<channel>
+<name>[COLOR yellow]M[/COLOR][COLOR red]I[/COLOR][COLOR lime]N[/COLOR][COLOR green]E[/COLOR][COLOR yellow]C[/COLOR][COLOR blue]R[/COLOR][COLOR greenyellow]A[/COLOR][COLOR salmon]F[/COLOR][COLOR skyblue]T[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR green]Minecraft Movie[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+	 <fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLZKuf2oBY67h0QyhXjTf1v4Ok28zF7LTt</page>
+ <referer>https://www.youtube.com/channel/UCQvWX73GQygcwXOTSf_VDVg</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Minecraft Movie[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLZKuf2oBY67h0QyhXjTf1v4Ok28zF7LTt</link>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Minecraft - Popular Video[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+	 <fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLZKuf2oBY67hSKfuuorXzyin-JTPOKwlC</page>
+ <referer>https://www.youtube.com/channel/UCQvWX73GQygcwXOTSf_VDVg</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Minecraft - Popular Video[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLZKuf2oBY67hSKfuuorXzyin-JTPOKwlC</link>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR lime]Minecraft - Survival Island[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+	 <fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLub3b8hbDbV57gOyEheQagqL4Juo5hqhu</page>
+ <referer>https://www.youtube.com/channel/AstonishingGamer</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Minecraft - Survival Island[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLub3b8hbDbV57gOyEheQagqL4Juo5hqhu</link>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR red]Minecraft - Survival Island 2[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+	 <fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLub3b8hbDbV7TNJtSpp1bC8GtiCDbbn8y</page>
+ <referer>https://www.youtube.com/channel/AstonishingGamer</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Minecraft - Survival Island 2[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLub3b8hbDbV7TNJtSpp1bC8GtiCDbbn8y</link>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Minecraft - My Favorite from Exploding TNT[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+	 <fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLirGIt5gNitwPGNh31foi5KaWPIljP2SH</page>
+ <referer>https://www.youtube.com/channel/ExplodingTNT</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Minecraft - My Favorite from Exploding TNT[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLirGIt5gNitwPGNh31foi5KaWPIljP2SH</link>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+<item>
+
+</items>
+</channel>
+
+</channels>

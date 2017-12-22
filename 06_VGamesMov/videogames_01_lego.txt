@@ -1,0 +1,103 @@
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Batman - The Video Games</title>
+<utube>3lrKHJxUp54</utube>
+<thumbnail>http://s19.postimg.org/ymqav1ewz/legobatman_thumbnail.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v1ufbtadf/legobatman_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Batman 2 - DC Super Heroes</title>
+<utube>CaHw475_1_w</utube>
+<thumbnail>http://s19.postimg.org/yhmjld7lv/legobatman2_thumbnail.png</thumbnail>
+<fanart>http://s19.postimg.org/jx5gqjcn7/legobatman2_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Batman 3 - Beyond Gotham</title>
+<utube>pvj7E-VTa1E</utube>
+<thumbnail>http://s19.postimg.org/x54ujha6b/legobatman3_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/vc1xv5ozn/legobatman3_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Marvel's Avengers</title>
+<utube>W5FnH4xGI9A</utube>
+<thumbnail>http://s19.postimg.org/vkzil31s3/legoavengers_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/5b9uojqgz/legoavengers_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Ninjago Shadow of Ronin</title>
+<utube>crbj8IWV6Ss</utube>
+<thumbnail>http://s19.postimg.org/583ibwxc3/legoninjagoronin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/s8a5o8v5v/legoninjagoronin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Pirates Of The Caribbean: The Curse of the Black Pearl</title>
+<utube>kWv7RCBB7Jk</utube>
+<thumbnail>http://s19.postimg.org/r9tslyhtv/pirates_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/3ubvgly2r/pirates_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Philosopher's Stone</title>
+<utube>Eu1DFwb4xCM</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Chamber of Secrets</title>
+<utube>QtJRBbl0Z_8</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Prisoner of Azkaban</title>
+<utube>3IuJK3_gdNI</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Goblet of Fire</title>
+<utube>wMf3oBQaAwg</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Order of the Phoenix</title>
+<utube>C0LWUTUc7L0</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Half Blood Prince</title>
+<utube>o8HV1lVWzf0</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Deathly Hallows Part 1</title>
+<utube>7KntoxUn4aM</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]LEGO [/COLOR]Harry Potter and the Deathly Hallows Part 2</title>
+<utube>HJFQWZZejwY</utube>
+<thumbnail>http://s19.postimg.org/6sdfo1v43/legoharrypotter_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/v7lnp3u0z/legoharrypotter_fanart.jpg</fanart>
+</item>
+
+
+
+
+
+
