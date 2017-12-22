@@ -7,7 +7,7 @@
 <item>
 
 <item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 1[/COLOR][COLOR orange] List All[/COLOR]</title>
+<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 1[/COLOR][COLOR silver] (List All)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -27,7 +27,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 2[/COLOR][COLOR orange] List All[/COLOR]</title>
+<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 2[/COLOR][COLOR silver] (List All)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 3[/COLOR][COLOR orange] List All[/COLOR]</title>
+<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 3[/COLOR][COLOR silver] (List All)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -67,7 +67,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 4[/COLOR][COLOR orange] List All[/COLOR]</title>
+<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 4[/COLOR][COLOR silver] (List All)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]X[/COLOR][COLOR orange] List All[/COLOR]</title>
+<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]X[/COLOR][COLOR silver] (List All)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
