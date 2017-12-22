@@ -1,0 +1,201 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<!--Garo Zero Dragon-->
+<channel>
+<name>[COLOR salmon]Garo Zero Dragon[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rNWNibThxZHBLNU0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rLXRzRThLNFdMek0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rX2Z4WU5Uc3ZBREk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6raVJNV0llb1FQMEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rM2poV0VjVjdhWW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rbS1XRm8yc19jeTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6reGEydUE5TFNVeEU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6ra0FmalBhX2g2cDg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rWkZrRkJvNkVSZjA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rbWhWSlFwMy1VUmc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rZ0huSC1BVlpNYWs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Zero: Dragon Blood[/COLOR] - [COLOR silver]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rYjdNZWh4ci1rMzg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/bw6tqvt1f/garo_zerodragon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/fra7tgc77/garo_zerodragon_fanart.jpg</fanart>
+</item>
+
+
+</items>
+<info></info>
+</channel>
+
+
+<!--Garo Makai Retsuden-->
+<channel>
+<name>[COLOR salmon]Garo Makai Retsuden[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 1[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/LGNkmnPgVXdeW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/8NXReyrAQByMA</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 3[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/GDmZRR4XpR6p3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 4[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/w85Dem8R8m2qz</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 5[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/LGNkMqMKdyWkp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 6[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/MgVZ4wXpArzWe</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 7[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/jezgygzPeRrRR</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 8[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/2Zr2KXLmX8An8</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 9[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/enGgeZa5V44G3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 10[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/dm5g6wyRQaXxG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 11[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/MgVZ65Rxy52Pe</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Garo: Makai Retsuden[/COLOR] - [COLOR orange]Ep 12[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/KqXmB37ZYejN4</page><referer></referer></regex>
+</item>
+
+
+
+
+</items>
+<info></info>
+</channel>
+
+</channels>
