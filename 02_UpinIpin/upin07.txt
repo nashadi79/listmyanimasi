@@ -1,0 +1,98 @@
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 01 - Gong Xi Fa Cai[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3VGZENUc0ZE12aGs/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 02 - Gigi Susu[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3SHNYLUNfcFBJMGM/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 03 - Nenek Si Bongkok Tiga[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3Y29VcEV6WEltUVE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 04 - Usahawan Muda[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3bjh5bVM0UnVQWDg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 05 - Sahabat Selamanya[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3QWhDU0ZrZXVrM1k/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 06 - Dugaan Ramadan[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3MTZiZkFYV3B0OFk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 07 - Riang Raya[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3VnpvMnNvQVE1aVk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 08 - Daun Hijau[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3LW5TTlp2VWk5QjQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 09 - Barang Silam[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3Rksxb2VNYjVTXzQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 10 - Bahaya Jerebu[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3eks4cWI5RUc2YmM/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 11 - Pim Pim Pom[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3WlVkeXJVM3ZRZHM/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 12 - Kembara Kembar Nakal[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3UVYwY3JiLUxfcWs/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 13 - Beli, Pakai, Suka[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3cDhialFEVy1KdGs/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 7[/COLOR] - [COLOR yellow]Ep 14 - Boria Suka Suka[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3Wm1hSzBHbmpkYW8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+

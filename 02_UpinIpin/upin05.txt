@@ -1,0 +1,70 @@
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Tersentuh Hati[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3MkhnVWYwWkFNeEU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Ikhlas Dari Hati[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3eGNmSzcxTGg2QzQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Rindu Opah[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3M0VtWmkyX1piNlk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Sakit Ke[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3TFpDSEY3SE5OMms/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Garang Ke Sayang[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3RXhvQmZRSk05eWc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Sedia Mula[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3ekVhUTV1RWJrUTQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Gelapnya[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3dk1jT1NwNk9MZVk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Jari Jemari Salleh[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3V2JiTjFNVnlfcjg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Cerita Kami[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3S1dNa2dGa2NUSmM/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 5[/COLOR] - [COLOR green]Metrobot Bergabung[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3SWdQSVBtUzN6OEU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+

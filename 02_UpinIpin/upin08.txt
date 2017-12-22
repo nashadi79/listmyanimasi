@@ -1,0 +1,98 @@
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Kesayanganku[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3cVVNYmIxOVJiTVE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Kail Dan Laga[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3S1JLSHloa0dYZmc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Belajar Sambil Main[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3WW9SX3BXNWhObGc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Cuai Cuai Cuai[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3cVlCOXJCc0Y0Ync/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Pengalaman Puasa[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3aEVFQlZobW5RTVU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Raya Yang Bermakna[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3eVFLaWlscUR1aE0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Warna Warni.mp4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3X1hoRm9nNjd0Ym8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Jaga dan Hargai Masa[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3VlVkWTZTREN0X0k/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Ultraman Ribut[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3RmpTcWpWeExOWTg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Angkasa[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3dFY3THdvem9oNTQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Hasil Tempatan[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3M3BCZW5VUnZQbkE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Perangi Rasuah[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3ei1sTG5wem9WRG8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Terompah Opah[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3bGFHT3Z5M21vOWM/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Upin Ipin Musim 8[/COLOR] - [COLOR orange]Pokok Seribu Guna[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3M0k2UkRDNWV6ajg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+

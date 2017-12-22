@@ -1,0 +1,49 @@
+<item>
+<title>[COLOR green]Upin Ipin Musim 11[/COLOR] - [COLOR red]Kompang Dipalu[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3WkdCT0xBVzRvM2c/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 11[/COLOR] - [COLOR red]Taman Riang Ria[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3YWhxc0kwUVppX0E/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 11[/COLOR] - [COLOR red]Azam Puasa[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3WE13cERtdktYcjA/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 11[/COLOR] - [COLOR red]Amal Jariah[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3MFhZVk81VnlWcms/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 11[/COLOR] - [COLOR red]Hapuskan Virus[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3OXE4dFd2bXhMUU0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 11[/COLOR] - [COLOR red]Jon Hidup Sihat[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3TnhYZm8tSUtQN1k/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Upin Ipin Musim 11[/COLOR] - [COLOR red]Kembara Alam Dino[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3VWh5Wk9GNzh5QW8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+

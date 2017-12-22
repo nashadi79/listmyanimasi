@@ -1,0 +1,133 @@
+<item>
+<title>SERVER 1</title>
+<urlsolve>http://myanimasi.ares-project.com/02_UpinIpin/upin_Kembara.txt</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 1[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-vnrvux9nnyer.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 2[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-fs6cj574wfmk.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 3[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-0tisklt4zfij.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 4[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-uge0620w3pkx.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 5[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-apgyg5ui9cmn.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 6[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-uywwzpu9dctb.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 7[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-4p957rbnkx6w.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 8[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-744z2nrgufsj.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 9[/COLOR]</title>
+<urlsolve>http://www.userscloud.com/embed-8cy1d3t02mnm.html</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>SERVER 2</title>
+<urlsolve>http://myanimasi.ares-project.com/02_UpinIpin/upin_Kembara.txt</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3eGhlUnJSZUpqTG8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3V29LNXl0dmdHZGM/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3dnA0LTRYYm1rSUk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3UVRpaVZ2cUN2bm8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3UVhYbFViaWtmVzQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3SXRPMXAyTkd5Zjg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3UHJRSExOUWR2Ync/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3eTc0M0tIWUo1TEE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin - Kembara Ke Pulau Harta Karun[/COLOR] - [COLOR silver]Bhg 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8Gw9ZTBReb3NGZwOHF4ckhZRkE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+
+

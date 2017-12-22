@@ -1,0 +1,6 @@
+<item>
+<title>Upin dan Ipin - Mari Belajar (Play All)</title>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLdm4JCUOHx86L3ucbS189b0VcxIA6Rz9V</link>
+</item>

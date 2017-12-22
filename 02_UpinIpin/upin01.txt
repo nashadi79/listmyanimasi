@@ -1,0 +1,155 @@
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 1 dan 2[/COLOR] - [COLOR blue]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLC4752F739C265EAE</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR yellow]Upin Ipin Musim 1[/COLOR] - [COLOR lime]Dah Raya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eftCZii_JZc</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR yellow]Upin Ipin Musim 1[/COLOR] - [COLOR lime]Esok Raya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eftCZii_JZc</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR yellow]Upin Ipin Musim 1[/COLOR] - [COLOR lime]Terawih[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2hxtgWOmHaY</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR yellow]Upin Ipin Musim 1[/COLOR] - [COLOR lime]Nikmat[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PXbLITcQNgI</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR yellow]Upin Ipin Musim 1[/COLOR] - [COLOR lime]Dugaan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TeEzUYkZ4-k</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR yellow]Upin Ipin Musim 1[/COLOR] - [COLOR lime]Esok Puasa[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a2tPbsE4zYw</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Pagi Raya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jr69Qtfo7CY</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Malam Syahdu[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FyZJUUD5QEk</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Zakat Fitrah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=81IWGAN_9l4</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Ketupat[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gIafTiK-vXE</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Sayang Kak Ros[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qZyXBwu2oLU</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Tadika[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=R20VtybhqLQ</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Kisah dan Tauladan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1y87jUY9xR4</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Upin Ipin Musim 2[/COLOR] - [COLOR orange]Lailatul Qadr[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YF_JHFp8rfY</link>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
