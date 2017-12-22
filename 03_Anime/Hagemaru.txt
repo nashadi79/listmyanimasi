@@ -1,0 +1,771 @@
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNYqe5kkMd9w1uf0u96Vc40</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Biar Sakit Hati Jangan Sakit Gigi[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=abLJf2hTFKQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Bahaya Ada Di Mana Mana[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bOFvy_b4xSQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Sedia Untuk Alahan Bagi Pesu[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i-5tdq8uZi4</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Pengacau Di Sekolah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EydO8BjWN4k</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Dengan Papanya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dU8AXkdY4QM</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Cerita Yang Menyeramkan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kIpfAis54Bc</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Cikgu Sakura bertandang[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b6T5M21_H3I</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Juru fhotografi Berjaya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HWlibg8wdjQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Di Pulau Tak Berpenghuni[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h2PmNAf6Ny8</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Kisah Dongeng[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=usZlGsKUpII</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Belajar Di Kelas Tuisyen[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jHMaEDZDUaY</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Belajar Di Kelas[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FcJ4UkqFQ9U</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Sahabat Pena[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FhAd0-YkkoE</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Papa bukan Bebal[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f_iR7kL8oNk</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Lawatan Ke Umemomo[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bL_ZeYQJ2a4</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Alahan Pesu[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sRkJTVXb_vk</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Ayam Berkokok Hari Nak Siang Ayam Melatah Hagemaru Malang[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gEVaw__zq2I</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Bahaya Ada Di Mana-mana[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BPB7YlJdwxg</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Balik Ke Kampung Jumpa Nenek[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aVsHH5wA7r4</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Belajar Di Kelas Tuisyen[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c-v7GRcPhEc</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Bergembiralah Di Pulau[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BbTKZjm7M7M</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Budak Pelik[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=idLVw0_kh1Q</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Cikgu Sakura Pergi Melawat Ke Rumah Murid[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gRQqTspapjc</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Gambar Perkahwinan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uAwj2SVmxVg</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Guru Tuisyen[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o7NbouXlvnQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Dan Cikgu Sakura[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KdkUl_NEh90</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Dengan Papanya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rhdrSEvTudQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Di Angkasa Lepas[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6B_nd-za89M</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Memang Budak Yang Pelik[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k2QaSYZcuqU</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Tidurkan Bayi[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B3UqxZU4iOo</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Yang Menyimpang[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GdpBrfee7FA</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hilangkan Rasa Sejuk[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SkeMl_RPIWI</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kepercayaan Kepada Perkara Pelik[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NWG_MH5UTGM</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kerja Sekolah Tak Siap[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=535BnFuVNh4</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kesan Tinggalan Sejarah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CUu_qVKxiD0</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kisah Ciplak Dari Hikayat Seribu Satu Malam[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lWs9zuBV_bw</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kisah Dongeng Pesu [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9sGShqjVPD0</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kisah Puteri Salji[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YouJE9QTo_M</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Laporan Kemajuan [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qted21KII-M</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Lawatan Yumemomo [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ko2FQSpetSU</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Maafkan Saya [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qwf06GfWA3k</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Melihat bunga [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4xlFOuu9Gv0</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Mengajar Di Rumah [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T0XyBg2KQUk</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Musim Panas Mandi Kolam Renam [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SAF5gWzGE6o</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Papa bukan Bebal [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ToY0_JEwPbs</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Pasukan Penyiasat [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x57cswV1Pkc</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Pengacau Sekolah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y9n3xuZb-Eg</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Penggal Baru [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PX-zNFhcboY</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Pera Opera[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6hxL0Vkj4JM</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Buruk Mama [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p5fBRGwh0dA</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perbuatan Yg Dirahsiakan [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xncINy-N3RE</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Peringatan Cuaca[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s0nR1T6GWHQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Satu hari Di Taman [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rHI6ruVKf8c</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Selamat Jalan [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mmkrOOB-nOQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Sentiasa Hubungi Orang [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=an2P76M4DOI</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Stesyen Penyiaran [malaydub][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1llAopVNRYQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Tak Habis2 Kerja Sekolah [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9_o8Reur_Co</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Takkan Kalah Gelombang Panasmalay [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mHPDqpLFrgo</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Telefonlah Lagi Hagemaru[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Dlf3WSz0yjo</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Teleronlah lagi [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4hFYdWuxTQA</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Wira Yg Bersinar [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OQ-lL0huIIo</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Gelombang Panas[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C-cQc6Firig</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Budak Pelik[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aPxZ-ihE2BA</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] ramalan Cuaca[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xoUSn1tYgd0</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Hagemaru di ketuk ibu guru bahasa Melayu[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ftUMR_C2OzM</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Perbuatan Yang Dirahasiakan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PSHoxnaoV-Q</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Kerja Sekolah [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9wEsb0jlix4</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kisah Perkahwinan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZntovhMe_gA</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Ali Baba Hagemaru[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wj_pag57vIY</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Ayam Melatah Hagemaru Malang[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vl3uksbs7Lc</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Di Pusat Membeli Belah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-b3wuIVn2gg</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru & Sakura Bertukar Badan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FO_BQpls3J8</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Dari Bandar Gelap[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Jr4cFeh5AoQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Pindah Sekolah[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6WmL-gPw_TI</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hari Terakhir Di Bumi[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8iQCwOUPqlA</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Jodoh Cikgu Sakura[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_FnR1KHO2Lw</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kehidupan Hagemaru[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ibiShgDhgrw</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kembali Ke Zaman Muda[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NLSNjtxDCMQ</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kerja Sambilan Orang Kedekut[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qrUK4Bk-vUw</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Maafkan Saya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yzlqOJbhPrs</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Melawat Dunia Masa Depan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PbKPSuTdyQE</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Minggu Kesenian[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Eu14Pq-6BQU</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Kedekut 10 Terbaik 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kZJjB8CLdcA</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Kedekut 10 Terbaik 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_rc47B7zWJY</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Mama Yang Kedekut[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JPZVvgdH3Dk</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Pelik 10 Terbaik 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Hpc733e5dHc</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Pelik 10 Terbaik 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hhqqBcOi4ZE</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Pelik 10 Terbaik 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Rz358O_8iAM</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Pelik 10 Terbaik 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NRLvPqZQ6WM</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Pelik 10 Terbaik 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GsJmIv_lXT8</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Perangai Tak Elok 10 Terbaik[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UbOn7iU9odg</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Satu Hari Di Dalam Keretapi[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l7kVFXAuhfI</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Satu Hari Di Taman Hiburan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JJOElB9oJMI</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Serigala Jadian Datang[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ypr3DTowmwI</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Siapa Paling Kedekut?[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YgkBLf5cCH0</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]tahannya Kulit kamu[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L9C1X-1qAYs</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Melihat di Musim Bunga[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=11WHIlcK3uc</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Pasukan Penyiasat Hagemaru[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w22TOg1G-CY</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] call Orang Tersayang[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5ExP2nrdLJs</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Balik Ke Kampung Jumpa Nenek[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iJ4wYLDSvIk</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Selamat Jalan [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4Ch7L2H3bVk</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Surat Cinta yang Comel[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1UVplpxywmg</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Kencing dilampin[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gl-QaRtVLOg</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Belajar Bahasa Asing[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UkIAjWWpJik</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Jaket Kulit mahal [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GAySpoIKL-Y</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Peringatan Ramalan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xrT3_fEYxdk</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hagemaru Bersinar[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8j100m682YE</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white] Hilangkan Rasa Sejuk[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6OP4GlRir1Y</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Hagemaru[/COLOR] - [COLOR white]Perangai Kedekut[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dG9ia6pzd1E</link>
+<thumbnail>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</thumbnail>
+<fanart>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</fanart>
+<item>
+

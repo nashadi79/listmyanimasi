@@ -1,0 +1,192 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<!--
+<channel>
+<name>Pokemon Sun and Moon</name>
+<thumbnail>https://s19.postimg.org/cf39x5zk3/pokemon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/4xph47kn7/pokemon_fanart.jpg</fanart>
+<info></info>
+<items>
+
+<item>
+<title>[COLOR orange]Pokemon Sun and Moon[/COLOR][COLOR blue] (Malay Sub)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow]Pokemon Sun and Moon [/COLOR][COLOR lime][makelist.param2][/COLOR]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span.class="leftoff"><..href="(.*?)">(.*?)<.span</expres>
+<page>http://animeku.tv/anime/pokemon-sun-moon-subtitle-indonesia</page>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow][makelist.param2][/COLOR][COLOR yellow][/COLOR]</title>
+        <link>$doregex[makelist3]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>a.href='(.*?)'>\n<....class="imgrapi">\n<(.*?)<.div>\n<.pan.class="play"><.span>\n<.iv.class="title"><.pan>mp4upload<.span</expres>
+<page>[makelist.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-sun-moon-subtitle-indonesia</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR lime][makelist.param2][/COLOR][COLOR lime][/COLOR]</title>
+        <link>$doregex[makelist4]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<iframe src="(.*?)"]]></expres>
+<page>[makelist2.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-sun-moon-subtitle-indonesia</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist4</name>
+<expres><![CDATA["file":."(.*?)"]]></expres>
+<page>[makelist3.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-sun-moon-subtitle-indonesia</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>Pokemon XY</name>
+<thumbnail>https://s19.postimg.org/cf39x5zk3/pokemon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/4xph47kn7/pokemon_fanart.jpg</fanart>
+<info></info>
+<items>
+
+<item>
+<title>[COLOR orange]Pokemon XY[/COLOR][COLOR silver] (Malay Sub)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR blue]Pokemon XY [/COLOR][COLOR green][makelist.param2][/COLOR]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span.class="leftoff"><..href="(.*?)">(.*?)<.span</expres>
+<page>http://animeku.tv/anime/pokemon-xy</page>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow][makelist.param2][/COLOR][COLOR yellow][/COLOR]</title>
+        <link>$doregex[makelist3]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>a.href='(.*?)'>\n<....class="imgrapi">\n<(.*?)<.div>\n<.pan.class="play"><.span>\n<.iv.class="title"><.pan>mp4upload<.span</expres>
+<page>[makelist.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-xy</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR lime][makelist.param2][/COLOR][COLOR lime][/COLOR]</title>
+        <link>$doregex[makelist4]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<iframe src="(.*?)"]]></expres>
+<page>[makelist2.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-xy</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist4</name>
+<expres><![CDATA["file":."(.*?)"]]></expres>
+<page>[makelist3.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-xy</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>Pokemon XYZ</name>
+<thumbnail>https://s19.postimg.org/cf39x5zk3/pokemon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/4xph47kn7/pokemon_fanart.jpg</fanart>
+<info></info>
+<items>
+
+<item>
+<title>[COLOR purple]Pokemon XYZ[/COLOR][COLOR silver] (Malay Sub)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR blue]Pokemon XYZ [/COLOR][COLOR green][makelist.param2][/COLOR]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span.class="leftoff"><..href="(.*?)">(.*?)<.span</expres>
+<page>http://animeku.tv/anime/pokemon-xyz-subtitle-indonesia</page>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow][makelist.param2][/COLOR][COLOR yellow][/COLOR]</title>
+        <link>$doregex[makelist3]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>a.href='(.*?)'>\n<....class="imgrapi">\n<(.*?)<.div>\n<.pan.class="play"><.span>\n<.iv.class="title"><.pan>mp4upload<.span</expres>
+<page>[makelist.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-xyz-subtitle-indonesia</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR lime][makelist.param2][/COLOR][COLOR lime][/COLOR]</title>
+        <link>$doregex[makelist4]</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<iframe src="(.*?)"]]></expres>
+<page>[makelist2.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-xyz-subtitle-indonesia</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist4</name>
+<expres><![CDATA["file":."(.*?)"]]></expres>
+<page>[makelist3.param1]</page>
+<referer>http://animeku.tv/anime/pokemon-xyz-subtitle-indonesia</referer>
+<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+</items>
+</channel>
+-->
+</channels>
+

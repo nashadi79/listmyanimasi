@@ -1,0 +1,53 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<!--Bleach The Movie-->
+<channel>
+<name>[COLOR salmon]Bleach The Movie[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR yellow]Bleach The Movie [/COLOR] - [COLOR lime] Memories of Nobody (2006)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rajU1NWo4UFg0UFE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Bleach The Movie [/COLOR] - [COLOR lime] The Diamond Rush Rebellion (2007)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rTjY1UGpReUJ4UlU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Bleach The Movie [/COLOR] - [COLOR lime] Fade to Black (2008)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rUVA3cWFMZnIxczg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Bleach The Movie [/COLOR] - [COLOR lime] Hell Verse (2010)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rODVMWVRFWEtMNzA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+<!--Bleach The Series-->
+<channel>
+<name>[COLOR orange]Bleach The Series[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/03_Anime/BleachSeries.txt</externallink>
+<info></info>
+</channel>
+
+</channels>

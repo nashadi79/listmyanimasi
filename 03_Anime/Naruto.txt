@@ -1,0 +1,58 @@
+<item>
+<title>[COLOR red]Naruto The Movie[/COLOR] - [COLOR yellow]Boruto (2015)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rQlgzWFlqLVVGa28/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Naruto The Movie[/COLOR] - [COLOR yellow]The Last (2014)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rdjhVM2JCTDJQQjA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Naruto The Movie[/COLOR] - [COLOR yellow]Road to Ninja (2012)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rR1dlb1BfZV9jTWM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Naruto Shippuden the Movie 5 [/COLOR] - [COLOR yellow] Blood Prison (2011)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rRlRNTkh4eHN5ZHM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Naruto Shippuden the Movie 4 [/COLOR] - [COLOR yellow] The Lost of Tower (2010)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rb2plcW9iUFNwazQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Naruto Shippuden the Movie 3 [/COLOR] - [COLOR yellow] The Will of Fire (2009)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rRGl2S0NsVHlLbDQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Naruto Shippuden the Movie 2 [/COLOR] - [COLOR yellow] Bonds (2008)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rZHU4eFVjZUFNdk0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Naruto Shippuden the Movie 1 [/COLOR] - [COLOR yellow] Naruto (2007)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0ByGmCvnqPE6rWDY3bG5WdGxpUGc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hsa0ydwcj/naruto_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+</item>
+
+
+

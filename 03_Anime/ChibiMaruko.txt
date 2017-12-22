@@ -1,0 +1,99 @@
+<item>
+<title>[COLOR orange]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtN80WVwNvYHNHqisdtII3bc</link>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Chibi Maruko Chan[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+	 <fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtN80WVwNvYHNHqisdtII3bc</page>
+ <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Orang Yang Selalu Kena Marah[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-0zwxbjyrpwec.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Ke Lokasi Penggambaran[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-1cex03si7vu3.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Kedai Sushi[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-de0d7nhk73o0.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Kisah Mahukan Roller[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-uc7z8bgi4aox.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Kisah Takashi[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-d4xjx6albqx6.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Maruko Berbohong[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-9hbhwpv3y74n.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Maruko dan Rasa Teh[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-taywgv5zgenz.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Menghadiahkan Coklat Yg Sedap[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-vxkw42aglv29.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Pencapaian Nagasawa[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-8ygvc9fovoex.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Pergi Ke Pesta[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-g5bvftzxhv7p.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Terlupa Barang[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-29sse0sxpwjh.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR red]Chibi Maruko Chan[/COLOR] - [COLOR yellow]Tewas Kepada Kesejukan[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-pcb2lkvqp45t.html</urlsolve>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
