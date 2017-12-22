@@ -1,0 +1,441 @@
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Ahli Sihir Sizuka[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/WwjBpGGM8jxZQ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Alam Semula Jadi di Dalam Bilik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53ALjpdVzgWNr</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Alat Memanggil Makhluk Asing[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/yqmG4zQjYLQax</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Anak Patung[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGM3zPkQRPmYX</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Askar Mainan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/m3KNw5KqgDa75</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Baju Perisai Super Ultra Strong Special Mighty Strong[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZm3VP48RMng2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Batu Peliharaan Yang Comel[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33BmRaXn33WgA</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Beli Apa Saja[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/zdm27Mr758KA7</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Bendera Koinobori[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/aWpwrD8Lkexd3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Bertukar Mama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/WwjBXwjkz6Z4k</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Bonus[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqBjyGqGgAgLW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Buih Sabun[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/zdm22yRk5xVdw</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Cara Membuat Bumi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/RqW223rMBj5Yg</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Destinasi Sayap Berkepak[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/62Mmm4BVxyLeW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Disk Yang Boleh Melakukan Apa Saja[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/m3KNvBk4LdL8D</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Doraemon Menentang Dorakula Part 1[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/626PLXvnmreYd</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Doraemon Menentang Dorakula Part 2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvG4PBMnv6pBZ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Doraemon vs Doraemon Part 1[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDaVprrW4N443</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Doraemon vs Doraemon Part 2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2YwQY5eQx4Gg</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Dunia Dipenuhi Tipu Daya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqBjW6V3QNR4n</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Ekspedisi Menyelamatkan Nobita[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/xqmdw72x86PNY</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Gas Dramatik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/LGRDVXWrW4KdZ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Hadiah Untuk Shizuka Ialah Nobita[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/aWNqYPPAkQdmQ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Hana-chan Si Anak Gajah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Vvn8nzyqVAR7W</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Hutan Itu Hidup[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/xqw3XRdgmvYyD</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Jadi Papa Yang Hebat[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkYmY6wQXxRR5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Jaiko Pelukis Komik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZm3jGqpPggzN</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Jambul Samurai[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2Ywg6BAQa8B2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kacang Jack[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2Z87jGM6nwvX5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kain Pembaharu[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2Z87jVVPx6r7a</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kamera Dua Dimensi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2YWBN5Gqa2yD</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kapal Terbang Roda Tiga[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/yqmD8YyBK6qdV</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kapsul Merentasi Masa[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/enA2MLNPzR3LZ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kaunseling Not[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/DkdLk88ajeDeG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kelab Peminat Giant[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/w8wnZjQYeRvdr</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kisah Gajah Dan Pak Cik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53V2yVKqeRx6P</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Kotak Penyampai[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/aWp3Z4W6YkGPX</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Laju Lagi Doraemon Perlumbaan Agung Galaksi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkawNXZekNapX</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Lampu Pemeliharaan Haiwan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/gWzvn2LPAyAyA</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Lampu Segak[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGML4VQALDmMP</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Lapan Hari Berada di Istana Raja Naga[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/X2aGZNA7DdWRr</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Lubang Sampah Rahsia[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/k3mRe5K37eWwm</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Mari Guna Duit Yang Tak Ditabung[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/72z78pevK5Me6</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Mesin Mainan Quiz[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDAGBKPXvmp3L</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Michan Yang Cantik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/62MwGmjWYQp8w</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Mikro Flash[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/k3mRXYpzz3pyL</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Mionik Manusia[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZme5GBQyN76k</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Model Plastik Mesra Alam[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2YWPKwMR44e3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Nak Buat Animasi Bukannya Kerja Yang Mudah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/w8wnBpDwdkzkN</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Nobita Terdampar[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGMLwdZvpmNqy</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Pakaian Serangga[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/rZXKWQDVkngkq</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Pemain Mimpi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/je3dMx5Mnan36</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Pengembaraan Nobita Di Dasar Lautan 1-2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/yqmDYkMgGX2Rp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Pengembaraan Nobita Di Dasar Lautan 2-2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/X2DNk3Pekga27</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Perang Angkasa Tanabata[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Akaj6M7mpaAgB</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Pero Hidup Kembali[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/RqWLDvZRrQPYk</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Pertandingan Mengumpul Barangan Antik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53A7DG84GQY4v</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Pistol Udara[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/q6kPgkLmqVxPr</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Rancangan Lamaran Nobita[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/zdwKpRVLy68p2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Selamat Tinggal Negara Jepun[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NngaQGXdRQgn</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Si Pencuri Yang Datang Tengah Malam Santa Claus[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/gWjAqjwkvYYz3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Si Taufan Fuko[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN2eYKzdwLxRB</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Doraemon[/COLOR] - [COLOR yellow]Taman Gula-gula Yang Misteri[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53VGaPKryqr4g</page><referer></referer></regex>
+</item>

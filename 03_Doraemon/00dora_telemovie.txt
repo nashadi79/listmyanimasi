@@ -1,0 +1,217 @@
+﻿<item>
+<title>[COLOR blue]Doraemon Movie 2017[/COLOR] - [COLOR silver]Great in the Antartic Kachi Kochi (Malay Sub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkcDZoQTJBektHYzA/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2016 [/COLOR] - [COLOR silver] Nobita Dan Kelahiran Japan (Malay Dub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lQWZMZnVzWEtmOG8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2015 [/COLOR] - [COLOR silver] Nobita Wira Angkasa Lepas (Malay Sub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lZldMNS1oSDJGQ1U/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2014 [/COLOR] - [COLOR silver] Nobita di Dunia Misteri – Peko dan Lima Pengembara (Malay Sub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lMVAwSm1FVGt0Tnc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2013 [/COLOR] - [COLOR silver] Nobita Secret Gadget Museum (Malay Sub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2ldUpBR1NOTUdYY1E/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2012 [/COLOR] - [COLOR silver] Nobita and the Island of Miracles—Animal Adventure (Malay Dub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lWDBleElyVmVBbzQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2011 [/COLOR] - [COLOR silver] Nobita and the New Steel Troops Winged Angels (Malay Dub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lVkhZa2szNEo0VWc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2010 [/COLOR] - [COLOR silver] Nobita and the Great Mermaid Battle[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2ldEhoWkhBUlBkeDg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2009 [/COLOR] - [COLOR silver] The New Record of Nobita Spaceblazer (Malay Sub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lYkJJMXBuWTBiZGs/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2008 [/COLOR] - [COLOR silver] Nobita dan Lagenda Gergasi Hijau (Malay Sub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2leVhIbi03c1BXS3c/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2007[/COLOR] - [COLOR silver] Nobita's Great Adventure Into The Underworld (Malay Dub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lSkd5U2dVQVBtT3c/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2006[/COLOR] - [COLOR silver]Nobita's Dinosaur (Malay Dub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkQTNZa0lybmJQaFk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2005[/COLOR] - [COLOR silver]Nobita's Diary of the Creation of the World (Malay Sub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkVy1xRnhVNlRzRWc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2004 [/COLOR] - [COLOR silver] Pengembaraan Diangkasa Lepas[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lcmhEam9wVDAtSDg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2003 [/COLOR] - [COLOR silver] Nobita and the Wind Wizard [Malay Dub][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lQ2IyR2lNTVMwMEk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2002 [/COLOR] - [COLOR silver] Nobita dan Negara Robot[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lYU5LeExQS3Ryb3c/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2001[/COLOR] - [COLOR silver]Nobita and the Winged Braves (Malay Dub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkcjdmYVd0cXVDY0U/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 2000[/COLOR] - [COLOR silver]Nobita dan Lagenda Raja Matahari[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkaFRENnF3RUtOLUE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1999 [/COLOR] - [COLOR silver] Drifts in the Universe (Audio Melayu)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lOW11OURPa3d1RU0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1998 [/COLOR] - [COLOR silver]Nobita's Great Adventure in the South Seas (Eng Dub)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkOFJtbE03TWJtUEE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1994 [/COLOR] - [COLOR silver] Pemain Pedang Awan[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lSkFnbnlvYWNFclU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1993 [/COLOR] - [COLOR silver] Nobita and Tin Plate Labyrinth [malay dub][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2laDFMd1hta29YOTQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1992 [/COLOR] - [COLOR silver] Nobita dan Negara Awan[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lajIzdHFsOXlQdEU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1991 [/COLOR] - [COLOR silver] Dorabian Night[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2leW9sd2NmR1lUYjg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1990 [/COLOR] - [COLOR silver] Nobita dan Planet Haiwan [malay dub][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lQ0NwMF9JWVBqeWc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1988 [/COLOR] - [COLOR silver] Perjalanan Ke Barat[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lMi1ILUxlRWhCVjQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1986 [/COLOR] - [COLOR silver] Nobita dan Tentera Robot Part 2 [Malay Dub][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lODhuLXZsVlgyODQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1986 [/COLOR] - [COLOR silver]Nobita dan Tentera Robot Part 1 [Malay Dub][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lMFYwV3RiRER6aTQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1983[/COLOR] - [COLOR silver]Nobita dan Istana Kota Hantu Dasar Lautan[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkbjMtVkJIUDNCVzQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1982 [/COLOR] - [COLOR silver]Meneroka Afrika[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lTS1hQ1d2SUVqUE0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doraemon Movie 1980 [/COLOR] - [COLOR silver] Penunggang Dinosaur[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B8lQKeucSC2lTjJvQlYySmRGR2c/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+</item>
+
