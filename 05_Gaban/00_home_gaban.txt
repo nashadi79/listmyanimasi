@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>Space Sheriff Sharivan</name>
+<thumbnail>https://s19.postimg.org/6x3grxyv7/gaban_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/56kfqghc3/gavan_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/05_Gaban/01_sharivan.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Kompilasi Gaban Movie</name>
+<thumbnail>https://s19.postimg.org/6x3grxyv7/gaban_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/56kfqghc3/gavan_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR orange]Uchuu Keiji Sharivan Next Generation[/COLOR] - [COLOR yellow]2014[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-mqbgk106ml6d.html</urlsolve>
+<thumbnail>https://s19.postimg.org/vk3x38y4j/uksharivan_nextgen.jpg</thumbnail>
+<fanart>https://s19.postimg.org/56kfqghc3/gavan_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Uchuu Keiji Shaider Next Generation[/COLOR] - [COLOR yellow]2014[/COLOR]</title>
+<urlsolve>http://www.mp4upload.com/embed-jt6okeb1xc2m.html</urlsolve>
+<thumbnail>https://s19.postimg.org/wkzkempqb/ukshaider.jpg</thumbnail>
+<fanart>https://s19.postimg.org/56kfqghc3/gavan_fanart.jpg</fanart>
+<item>
+
+</items>
+<info></info>
+</channel>
+
+</channels>
