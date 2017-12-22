@@ -124,4 +124,38 @@
 <fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
 <item>
 
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 13[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a82HdPAeFWI</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 14[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iKHolM16a0o</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 15[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4Cjm0vZM2O0</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 16[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uLpUiuyI5-E</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Boboi Boy Galaxy[/COLOR] - [COLOR yellow]Ep 17[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iMuMo5UQgvA</link>
+<thumbnail>https://s19.postimg.org/6gqxq2wg3/BBB_Galaxy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6fgzwnumb/BBB_Galaxy_Fanart.jpg</fanart>
+<item>
 
