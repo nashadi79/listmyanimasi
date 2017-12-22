@@ -1,0 +1,1306 @@
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Watak Animasi Kegemaran Kazama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/QkDMZZQZgAdZ2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Acara Sukan Di Tadika Futaba[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGv8YLq8ApL8</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Ada Lemak Dalam Badan Mama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkakmYDzyXYgk</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Arnab Nene Bercakap Peliknya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/gWjWwrkenL2gw</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bahasa Isyaratnya Mama Dah Balik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDADZpQndp34v</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Baju Dalam Mama Tertanggal[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN28rkL5pwaQq</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Belajar Menari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGvZ3BVDZrXN</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Berbaik-Baik Semula[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Ww2wj5qYdz7jP</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Berdebar Debar Bermalam Di Tadika[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGvZyWzzAaga</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Berdiet Mulai Esok[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3a2NRA7qR3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Berjumpa Dengan Action Kamen[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2ZzZ7ZXWDPzNv</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Berlakon Menjadi Tebusan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGKGL5Q3gZmjp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Berlumba Dengan Kereta Sorong Adik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGKGLkN8gakPv</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bermain Besbol Dengan Ayah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/xqwqjvPNANx6g</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bermain Dengan Berudu[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53V376y35vrq4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bermain jual-jual[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/rZ8ZVQ4d37MBR</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bersiar Siar Bersama Putih[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3vMWWZjprM</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bersikap Kedekut Dalam Menghentikan Pemanasan Global[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN2NA34mQAVKj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bertarung Dengan Himawari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Dk8knQjqD2na5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bertugas di Tempat Sampah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/m3G3RyxM57X3e</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bertukar Watak Bila Buka Cermin Mata[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3v3zDjzA4dML</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Bila Dah Pinjam  Pulangkan SemulaItu Satu Lumrah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3aP8m6B5zy</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kakak Yang Menjadi Ibu[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Dk8wZpGPzqK4W</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kami Menjadi Pembantu Masao[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/aWNWj6mqPvKLD</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kawan Dengan Lipas[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Bzv5ZZYKKndZe</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kazama Menjaga Himawari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN28g6ZZ8M6Qn</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kebahagiaan Shiro[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2v2mA6Gk24G8</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kedai Buku[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Mg6nLnnkBZgXa</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kejuaraan renang kelas Matahari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/72e2KvygXWNzN</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Ke Kedai Kitar Semula[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqW6m5g67y3Ka</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kembalinya Budak Gunman[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Mg6nLdypmwYxG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kembalinya Kakak Lisa Bahagian 2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/4AWGLqA4MYz6L</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kembalinya Kakak Lisa[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Bzv5LmywVD3Yw</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kembali Semula Ke Tadika[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53VK72YZGzZjV</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kerja Sambilan Kakak Nanako[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Zapa46Gg6vLP6</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kerja Sambilan Yang Memenatkan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZMKej5dMGq4e</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kesibukan Pagi Mama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGdLPjV8ZQqx</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Ketam Dari Atuk Untuk Semua[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZMZ4Md2dByQ2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kolam Renang[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/RqYBLXpyrgxQk</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Krisis Cinta Cikgu Yoshinaga[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZMKWDN7XWZYy</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Kumpulan Beni Sassori Yang Sekian Lama Tak Muncul[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/w8zYVB5AkKn7G</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Laparnya Perut Shiro[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Dk8kaP8YpYRMG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Larikan Diri Dari Tadika[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/xqw8v38PxKKp3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Latihan Berjalan Untuk Himawari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3vGDevdQLVzX</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Latihan Kehidupan Selepas Kahwin Cikgu Yoshinaga[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/q6p6ZyQxdDWYB</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Latihan Untuk Menjadi Juara[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3Q4xR2Zame</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Lelaki Pun Boleh Memasak[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Mg6nN3Vppk5Bj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Lukisan Saya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDAB4xZqaKdRj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Lumba Lari Kuda Buluh[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqW64Azqy6xWe</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Macam Mana Agaknya Rupa Bakal Teman Saya [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NnNPRQvBzer5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mahu hentikan sedu.webm[/url[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3Z5DmvY2LY</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Main Kedai Sushi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN2NLqGQ23VaR</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Makan Malam Mewah Yang Hanya Untuk Lelaki[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGKGXq34wAMnD</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Makan Steak[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/enenpWekmRRwY</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Malam Yang Malang Untuk Papa[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/je3eMaPxy3kn8</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Adalah Ikutan Himawari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/BzvzXmk4V5V2q</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama dan Kolam Mandi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53VK48GRPkqea</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Juga Sukakan Hero[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/X2aedQekRxxmk</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Lari Dari Rumah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/dm6mvggxZzxMy</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Mahu Bersendirian[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/eneR87jZDLWnj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Mencari Kunci Kereta[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2vBG6nVY8W6e</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Nene Baik Orangnya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkaMKkqQa2xvG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Nene Sudah Hamil[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/PMjKVkxeNeKRN</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Saya Dilamun Cinta[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/q6p673VzkR8dM</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama Suka Tidur[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/4AWG6gqQKpPg8</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mama tak boleh tidur[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3v3xNWmamnXW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mandi Air Panas Dengan Papa[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/k35qNPPqv6yNX</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mandi Bersama Papa[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGvNkDRMMwYw</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mari Berkemas[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDABzRDBmz4eg</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mari Main Buih Sabun[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqW6ZLpBLA4RK</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mari Main Bunga Api[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/q6p5zGVVxjgLL</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mari Mengasingkan Sampah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZMZYL7P8v2zM</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Masao Dah Terbuat[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/626PAPxZKqyen</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Memang Memenatkan Kalau Menjaga Himawari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/626PaKYBPzexp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Memang Penat Bersiap Bila Hendak Keluar[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGdPg2wAAzaM</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Membuat Ubi Kayu Bakar Bersama Kazama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NDxvn8xg4wP</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Memperkenalkan Lupin Ke Empat[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NDxpaQWvn73</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menanam Edamame[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2ZzAG7kjapn5Q</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menangkap Daging[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/X2aGexxWzWVV4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menerbangkan Kapal Terbang[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/ZapaeY4g2ALYR</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menetapkan Majlis Perkahwinan Cikgu Yoshinaga 2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3WBR526dV2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mengejar Himawari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/enenvKzdPaA6q</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menggali Harta Karun[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/q6p5r53AjVQKd</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menggunting Rambut Himawari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NDr82eePZNg</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menjadi Lelaki Pendiam[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2vBNRpQmArrM</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menjadi Monster Lawan Penjahat[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN28MeRVy7mBj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menjaga Himawari Di Pasaraya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkaMDewZ5NZ3N</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menjaga Kakak Nanako Yang Sakit[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/4AWAV7nMjedAp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menjalani Kehidupan Yang Miskin[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGvrBAPNpk2m</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menonton Action Kamen Laila[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkawM8D7GQQpP</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menonton Pengambaran Cerita Marie Saya Memang Seronok [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2v27kYB7pyGV</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menyelamatkan Anak Anjing[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN28ML83rnm2j</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Menyewa Cerita Mary Ahli Sihir Idola[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2ZzZP625kA68n</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Merawat Mama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NDpPdpYyNLz</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Michi Dan Yoshirin Dan Kedai Buku[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/zdwdq2nv4rzgz</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Misae Isteri Yang Tak Cukup Bajet[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3vGKYBmQP5aZ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mudah Dengan Ada Mesin Pencuci Pinggan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/m3G8xRPW5dGmY</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Mulanya Di Rumah Baru[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3K7v4dzkQQ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Naik Bas Memang Mengantuk[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/aWNWk5YMXzKxd</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nak Beli Minyak Tanah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2vnBWA5kYpGm</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nak Berhenti Dari Pasukan Keselamatan Kasukabe[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/6262yPYmGj7PV</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nak jalan-jalan lagi tak[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/72ea2d7VP2QMp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nak Makan Snek Juga Walaupun Demam[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkaMQN2K3Vnd7</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nak Sewakan Shiro[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/VvGdypkP7rk8B</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nasib Baik Lagi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/4AW2AqQ2w4Zpj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nasib Malang Kartunis Terkenal[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33N3Z2Dk47qgL</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nene Dilamun Cinta[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/gWjRR3wnk8nqK</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Nombor Bertuah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqWvvYGQnKjzk</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pagi Dah Sampai[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/rZ8GMD42yZNr7</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Panik Dengan Bateri[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/X2aGY5LWxeV26</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Papa Adalah Pemburu Serangga[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/je3j2LD8R7YLW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Papa Bersiar siar Di Waktu Pagi Peliknya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NMqMdLWwz6X</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Papa Cari Harta[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NnGrrQ6jakgw</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Papa Sakit Gigi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NnGrnm2zzpLM</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Papa Yang Risau Tentang Ucapannya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqWvw4QaqejVy</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Papa Yg Berjemur Di Matahari[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NnGrP8RzNqZ4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pasukan Penyelamat Kasukabe Membalas Jasa[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/aWNqn4wDwmV3A</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Penatnya Pergi Ke Kedai[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/AkawPjp37zP3z</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pengalaman Mama Minum Barium[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NMejkkzxVXp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pengalaman Menanam Padi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NnGQgjnwedjG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Penjodohan Yang Pelik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/LGVjmenweYQBD</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pergi Ke Rumah Atuk Di Kyushu[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Bzv5GaMeLyLDW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pergi Membeli Buku[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/w8zZ7BYKpA4zK</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Perkahwinan Rancangan Cikgu Matsuzaka[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3v84vA7g2AK5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pertandingan Bekal Makanan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDAK7xnZK6dnP</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pertarungan Ai Dan Nene[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/q6pG4YVYn6dBq</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pertarungan Himawari Dan Mama Saya[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/gWjRdLM4dwW8D</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pertarungan Naga Yang Dahsyat[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NMeZBWrzmkj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pertunjukan Penjual Pasaraya Dah Tiba[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/ZapMr3k3XddYZ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Perut Kenyang Kerana Tolong Orang[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3vGPZKG63LGj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Peta Amaran Kami[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Dk8v7j3ykq4RV</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Pintu Rumah dah Rosak[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Dk8vQNZPP4n5r</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Planet Anjing[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/72edrqzNNYzdW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Populariti Ai Sangat Menakutkan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NnGBqPqqX455</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Ribut Taufu[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Mg6nGRD8Dxk6r</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Rumah Putih[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/gWjDL8kPj8PdN</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Rumah Saya Ada Penghawa Dingin Baru[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/626AX5MAMLW77</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saingan Pasukan Keamanan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Bzv5XReDYGDx8</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Akan Menjadi Seorang Jelita[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN2YpGkX45Xy3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Berlawan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Bzv5XMe482V63</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Budak Bertuah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3v8BenVMnWBK</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Cintakan Michi Sayang[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2vnXL8rjzQay</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Dan Kazama Adalah Kawan Baik[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/4AW2ed6qxgNaq</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Kencing Malam[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/xqw8NQAXereRB</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Membela Hamster Di Rumah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/PMjryyrekqZaA</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Nak Hidup Sendiri[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Akaw8adPm8Rx4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya nak jadi angkasawan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/33NM6V4Nzang5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Ni Tak Serupa Sesiapa Pun[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2vnXeepVBwm4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Sakit Perut[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/je3jGdVyMj3zL</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Sertai Kawad[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Mg6nXkM2KnVR6</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Saya Tak Suka Sayur Piman[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN28PqYLyKd6e</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Selamat Tinggal Apartment 1[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDAKRPwD2W5AQ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Selamat Tinggal Apartment 2[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/gWjRyxLLadDPr</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Selamat Tinggal Apartment 3[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/vZMpXYaaY5KLA</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Semangat Berkhemah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/626PVmRB6B8vk</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Semua Berebut Ubi Keledek[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/ZapMpMk47mkA3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Sertai Pasukan Pengakap[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/LGVjVrevBqZzw</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Shiro Pun Akhirnya Bersama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3v8vKW8gNg8R</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Shiro Tak Boleh Tidur[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN2YpzNkQ5DgQ</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Sukarnya Membeli Belah Sewaktu Salji[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2ZzAzPMK8GjV4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Surat Lampau Yang Mama Rahsiakan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/LGVjDG3W8ZWnj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Susahnya Bawa Shiro Jalan Jalan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/626PMdZBK2D6n</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Susahnya Nak Naikkan Layang Layang[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3v8mwkxW6GgP</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Tak Mahu Berpisah Di Tempat Menjual Tv[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/eneRw7Pj8XkRp</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Tak Sabar Nak Buat Mochi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/626PVenKrg3Ky</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Tak Sangka Sedap Betul La Rasa Donat ni[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/q6pGevWrnXP73</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Tarikan Ai Memang Tak Boleh Dilawan Lagi[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/je3jwyd5kLVke</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Tempat Simpan Duit Rahsia Dah Hilang[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGKjkwqnGMmmB</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Temujanji Dengan Nanako[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/dm6kwKeKgBAQA</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Terlupa Bawa Barang Ke Sekolah[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Ww2dBAY8dwn2e</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Tolong Mama[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nN2YmWRQKm7Dv</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Tunang Kakak Nanako[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2ZzA8arkqRMjL</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Uncang Baru Untuk Peralatan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/LGVj6ewRdZ6gR</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Vs Godzilla[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Y2vng3GxgLpwG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Wajah Muka Tanpa Kening Mata[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/GDAKpNZ2G7VyR</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] - [COLOR yellow]Waktu Malam Yang Panas Dan Sangat Bising[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53V2rjrmDjj65</page><referer></referer></regex>
+</item>
+
+<!--
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] PAGE 1</title>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<link>$doregex[makelist1]</link>
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+   <title>[makelist1.param2]</title>
+   <link>$doregex[playpath]</link>
+   <thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+   <fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+]]></listrepeat>
+<expres>width="..."><..href="(.*?)">(.*?)<.a></expres>
+<page>https://userscloud.com/go/oxm60gby2xjw/1/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>playpath</name>
+<expres><.ource.src="(.*?)"</expres>
+<page>https:[makelist1.param1]</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] PAGE 2</title>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<link>$doregex[makelist1]</link>
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+   <title>[makelist1.param2]</title>
+   <link>$doregex[playpath]</link>
+   <thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+   <fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+]]></listrepeat>
+<expres>width="..."><..href="(.*?)">(.*?)<.a></expres>
+<page>https://userscloud.com/go/oxm60gby2xjw/2/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>playpath</name>
+<expres><.ource.src="(.*?)"</expres>
+<page>https:[makelist1.param1]</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan[/COLOR] PAGE 3</title>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<link>$doregex[makelist1]</link>
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+   <title>[makelist1.param2]</title>
+   <link>$doregex[playpath]</link>
+   <thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+   <fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+]]></listrepeat>
+<expres>width="..."><..href="(.*?)">(.*?)<.a></expres>
+<page>https://userscloud.com/go/oxm60gby2xjw/3/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>playpath</name>
+<expres><.ource.src="(.*?)"</expres>
+<page>https:[makelist1.param1]</page>
+</regex>
+</item>
+-->

@@ -1,0 +1,56 @@
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]The Storm Called The Jungle[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxWW9IOUFyNUpjUDA/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]The Dark Ball Chase[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxSHNHUEViOTZ6R2M/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]Evening Sun Kasukabe Boys[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxUUxqYldBbHh3Y3c/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]Crayon Shin Chan - Cerita Saya Bergerak[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxNkUtWlNrZkFGT28/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]The Legend Called Buri Buri 3 Minutes Charge[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxNDdoaTg1M2hlTDQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]18 Super-Dimension! The Storm Called My Bride[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxdGMtdGJCYXgxeW8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]Counter Attacking the Adult Empire[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxUVp3cklueEl4ak0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crayon Shin Chan The Movie[/COLOR] - [COLOR red]Arashi o Yobu Eikou no Yakiniku Road[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxaXJLVGFtSlpwNEE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+</item>
+
