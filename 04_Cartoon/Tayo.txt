@@ -1,0 +1,35 @@
+
+<item>
+<title>Tayo - Nursery Rhymes  [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNWVLbggtsKK9TSRFEpH199</link>
+</item>
+
+<item>
+<title>Tayo - Sing Along [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOJQyVOnWTx50hYMEmkCiHR</link>
+</item>
+
+<item>
+<title>Tayo - Season 1 [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMdl1wvD2FfJ6s2w0x-RyNd</link>
+</item>
+
+<item>
+<title>Tayo - Season 2 [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMqWRqi7NZW_7ml5pnHYimP</link>
+</item>
+
+<item>
+<title>Tayo - Season 3 [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtN1Lmp8AxChouiG_l7JNQt4</link>
+</item>

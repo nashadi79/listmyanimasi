@@ -1,0 +1,34 @@
+<item>
+<title>Larva Special Clips (Play All)</title>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLxrv_vTPuZ6TPnJwJ65F1Oj665andCOjw</link>
+</item>
+
+<item>
+<title>Larva Mini Series (Play All)</title>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLxrv_vTPuZ6QrIMIedOfGClX7tjPDMdkS</link>
+</item>
+
+<item>
+<title>Larva Season 1 (Play All)</title>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLxrv_vTPuZ6R_yx6tdSqk3bE6tC1-XJsI</link>
+</item>
+
+<item>
+<title>Larva Season 2 (Play All)</title>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLxrv_vTPuZ6SV9xbTpkm2RwiKxqIviP8R</link>
+</item>
+
+<item>
+<title>Larva Season 3 (Play All)</title>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLxrv_vTPuZ6TIA6RLWiCyTdX68UKTIfbD</link>
+</item>

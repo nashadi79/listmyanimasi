@@ -1,0 +1,112 @@
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMXlZDESBRzjgosvXe89UAd</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep01 [/COLOR] - [COLOR lime] Space Explorers Captured[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E9GZ7pf6Ahk</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep02 [/COLOR] - [COLOR lime] Escape to Another Planet[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JKkfJPFyWWE</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep03 [/COLOR] - [COLOR lime] A Ghost and Four Keys[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o1fzoAx-pvI</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep04 [/COLOR] - [COLOR lime] The Missing Key[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BlSYa7ZtCRc</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep05 [/COLOR] - [COLOR lime] Princess Joins Up[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DRDZDaUNGyI</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep06 [/COLOR] - [COLOR lime] The Right Arm of Voltron[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HwDYLMBvk_o</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep07 [/COLOR] - [COLOR lime] The Lion Has New Claws[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yQ096aHTbno</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep08 [/COLOR] - [COLOR lime] The Stolen Lion[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UKP5h8SX2PQ</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep09 [/COLOR] - [COLOR lime] A Pretty Spy[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H26M6hHpdzc</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep10 [/COLOR] - [COLOR lime] The Secret of the White Lion[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ywlQYTF9rcU</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep11 [/COLOR] - [COLOR lime] Surrender[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D-LRp896khU</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep12 [/COLOR] - [COLOR lime] Bad Birthday Party[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bYPitghhi0M</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep13 [/COLOR] - [COLOR lime] The Witch Gets a Facelift[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XD491Sg5gGA</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep14 [/COLOR] - [COLOR lime] Yurak Gets his Pink Slip[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wHFgyWLOlEI</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Voltron: Defender of the Universe ep15 [/COLOR] - [COLOR lime] Give Me Your Princess[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gb2YzB6LhUw</link>
+<thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
+<item>
+

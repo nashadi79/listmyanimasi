@@ -1,0 +1,56 @@
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5oJ8d5EIzIc</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5oJ8d5EIzIc</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ralExv5EVaM</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_9yGcmeBbDQ</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5M_Q15IlDuY</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sb9rBp3cUPA</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A1-FgNWQbWw</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Mega Episode[/COLOR] - [COLOR green]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vw7QQsfXQ_g</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+

@@ -1,0 +1,202 @@
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxAqlO4zbr3N3C2uz7vXAg0DWnKm5OScd</link>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 1</title>
+<utube>5RQqGqDgUDQ</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 2</title>
+<utube>V4XcADYpSgI</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 3</title>
+<utube>9DxJnYEXKWU</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 4</title>
+<utube>dai4Z3TiVHI</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 5</title>
+<utube>kmvb3CUMsOw</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 6</title>
+<utube>miSOLMjrni8</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 7</title>
+<utube>42ZVPb902WE</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 8</title>
+<utube>1sadNFSFMIg</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 9</title>
+<utube>4NCw5MH5Uy0</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 10</title>
+<utube>3d7slne_Nmw</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 11</title>
+<utube>8nztT01hSMk</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 12</title>
+<utube>WCtyI_orLC0</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 13</title>
+<utube>PkopZ-CovL0</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 14</title>
+<utube>gTlShweWWzw</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 15</title>
+<utube>cETwnib-ZDA</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 16</title>
+<utube>8Tu2N_blCMU</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 17</title>
+<utube>5oAj8nQ0m1Q</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 18</title>
+<utube>yiwcYfXdXjQ</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 19</title>
+<utube>mEJfyy_M2fE</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 20</title>
+<utube>_efMF8x4iLQ</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 21</title>
+<utube>2TzcGKGyiy4</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 22</title>
+<utube>Enzi7t60MG0</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 23</title>
+<utube>_TKXRSpvOqY</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 24</title>
+<utube>VROPkNL24X8</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 25</title>
+<utube>sTPWZvl1LMU</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 26</title>
+<utube>YrITQlKmhUM</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 27</title>
+<utube>7uh_3YBxWOo</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Tobot[/COLOR] Musim 1 Ep 28</title>
+<utube>nBJqSs77YjQ</utube>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+</item>

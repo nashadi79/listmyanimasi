@@ -1,0 +1,26 @@
+<item>
+<title>[COLOR orange]Superwings[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLHkrfgPTyGJY9TikxEC2EboP2L4J0auD8</link>
+<thumbnail>http://s19.postimg.org/dcy2zwhkz/superwings_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gva2waigz/superwings_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Superwings[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/dcy2zwhkz/superwings_thumb.jpg</thumbnail>
+	 <fanart>http://s19.postimg.org/gva2waigz/superwings_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLHkrfgPTyGJY9TikxEC2EboP2L4J0auD8</page>
+ <referer>https://www.youtube.com/channel/UCZezJpMQZG79fVuEvnR5KRA</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://s19.postimg.org/dcy2zwhkz/superwings_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gva2waigz/superwings_fanart.jpg</fanart>
+</item>

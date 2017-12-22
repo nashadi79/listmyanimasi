@@ -1,0 +1,377 @@
+<item>
+<title>Disney Jungle Book - Season 1 [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOzqwkY7oqsXPdtdn55T0IM</link>
+</item>
+<item>
+<title>[COLOR blue]Jungle Book Season 1 [/COLOR] - [COLOR yellow]Opening Trailer[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HlwLERAJhQY</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 01[/COLOR] - [COLOR yellow] Man Trap[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Lts0Z9o94zk</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 02[/COLOR] - [COLOR yellow] Wild Black Bees[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V82XpvpF23E</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 03[/COLOR] - [COLOR yellow] Itchy Twitchy Kaa![/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yXmwKQk0nVw</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 04[/COLOR] - [COLOR yellow] The Race[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dp44iizSO4A</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 05[/COLOR] - [COLOR yellow] Monkey Queen[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DgvAD6WdZR4</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 06[/COLOR] - [COLOR yellow] Sleeping Python[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8ZamXf3vVwk</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 07[/COLOR] - [COLOR yellow] Treasure of Cold Lair[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gi9W38gxdYg</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 08[/COLOR] - [COLOR yellow] Legend Of Giant Claw[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=407Y3xY2-JM</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 09[/COLOR] - [COLOR yellow] Fished Out[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iPE1mtXi3Nc</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 10[/COLOR] - [COLOR yellow] Kite Flight[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GuOqIiGG6vU</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 11[/COLOR] - [COLOR yellow] Mowgli's Log[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=70iBCmHt1Go</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 12[/COLOR] - [COLOR yellow] Who is the Bravest?[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xJapBusPOes</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 13[/COLOR] - [COLOR yellow] The Waterfall[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=re7GhOAvHJM</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 14[/COLOR] - [COLOR yellow] Darzi's Waterfall Rescue[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Trr0VMJ-a2g</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 15[/COLOR] - [COLOR yellow] Mowgli's Sparklie[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ITSMJiR1Ic8</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 16[/COLOR] - [COLOR yellow] Blood Brothers[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EJB5StAac3g</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 17[/COLOR] - [COLOR yellow] Survival Of The Fittest[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ILGQeKw-5Fg</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 18[/COLOR] - [COLOR yellow] The Day The Earth Shook[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZB0QzjO00vI</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 19[/COLOR] - [COLOR yellow] The Jungle Tour[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=duDyEaiFbjc</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 20[/COLOR] - [COLOR yellow] Snake Bite[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1EnEt0EMgsQ</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 21[/COLOR] - [COLOR yellow] The Bridge[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EryG3plXg1U</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 22[/COLOR] - [COLOR yellow] Phaonas Nasty Trick[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-thTcO6oagU</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 23[/COLOR] - [COLOR yellow] The Wishing Tree[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oez3qQ0_Cbk</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 24[/COLOR] - [COLOR yellow] Is That You, Kaa[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aBz1a0ZHtf0</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 25[/COLOR] - [COLOR yellow] The Rubber Ball[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0FFMyx_aVI8</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 26[/COLOR] - [COLOR yellow] The Cobras Egg[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ob3_SRz_gZY</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 27[/COLOR] - [COLOR yellow] Thirst[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fkAAv0h32Qo</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 28[/COLOR] - [COLOR yellow] Save The Tiger[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_3Ho854R2PA</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 29[/COLOR] - [COLOR yellow] King Kaa[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q4JhT1D_FV0</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 30[/COLOR] - [COLOR yellow] The Red Crocodile[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YIXFMtSqBGM</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 31[/COLOR] - [COLOR yellow] Lucky Star[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=r-HEAuCKyJ4</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 32[/COLOR] - [COLOR yellow] Mongoose On The Loose[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=La0TCmn7lX8</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 33[/COLOR] - [COLOR yellow] River Leaf[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M1D1pDrWlVE</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 34[/COLOR] - [COLOR yellow] Human After[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZL8GTcWuJYk</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 35[/COLOR] - [COLOR yellow] Monkey Business[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F_eLZSAyCRI</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 36[/COLOR] - [COLOR yellow] Two For The Price Of One[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XN8rFU1NONs</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 37[/COLOR] - [COLOR yellow] Cheel And The Mountain Fire[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dvQOhJWUdPQ</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 38[/COLOR] - [COLOR yellow] The Buffaloes[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k2Acd7D28zs</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 39[/COLOR] - [COLOR yellow] The Elephant's Secret[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dc4bKa_1Cp4</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 40[/COLOR] - [COLOR yellow] Mowgli Number One Fan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1MDRKFSozog</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 41[/COLOR] - [COLOR yellow] The Wrong Panther[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EYeD-47mmYU</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 42[/COLOR] - [COLOR yellow] Mowgli the Artist[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dybdSTeoYDg</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 43[/COLOR] - [COLOR yellow] Day of the Shadow[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=defvQivKtnM</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 44[/COLOR] - [COLOR yellow] Small Is Beautiful[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ILe5RNxxes4</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 45[/COLOR] - [COLOR yellow] The Tooth of the Matter[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=elwpGhACQU4</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 46[/COLOR] - [COLOR yellow] A Real Wolf[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KDGcLo_Nxg4</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 47[/COLOR] - [COLOR yellow] Trapped![/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K0XTbnr8CDc</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 48[/COLOR] - [COLOR yellow] Bagheera In The Man Village[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=R9ZvTNcBqFw</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 49[/COLOR] - [COLOR yellow] Missing Monkey[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jlc4iXdCqHY</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 50[/COLOR] - [COLOR yellow] Best In Class[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-4Qd8uyQ_T8</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 51[/COLOR] - [COLOR yellow] Baloo The King[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NXqjCUIejMU</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR blue]Jungle Book Season 1 Ep 52[/COLOR] - [COLOR yellow] Monster Of Cold Lair[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eoAIF5T4mqk</link>
+<thumbnail>https://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<item>
+

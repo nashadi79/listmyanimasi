@@ -1,0 +1,21 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>Jungle Book Season 1</name>
+<thumbnail>http://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/04_Cartoon/JungleBook_S1.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Jungle Book Mega Episode</name>
+<thumbnail>http://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/04_Cartoon/JungleBook_MegaEp.txt</externallink>
+<info></info>
+</channel>
+
+</channels>

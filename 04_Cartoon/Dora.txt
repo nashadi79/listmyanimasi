@@ -1,0 +1,56 @@
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]Beaches[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nNya8Xnx2a6e3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]Hic Boom Ohh[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/p3ygxQvwZvkDj</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]Lost and Found[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/zdQPq6NXwBgvW</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]The Legend Of The Big Red Chicken[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/Bzdrp2RpqzeWn</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]The Little Piggies[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/72NBZzR3DZNWm</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]Treasure Island[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGkZz3mePNkZv</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]Choo Choo[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/KqAmkQXNazzvd</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR pink]Dora The Explorer[/COLOR] - [COLOR white]We All Scream For Ice Cream[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53rpqvzjRjNGj</page><referer></referer></regex>
+</item>

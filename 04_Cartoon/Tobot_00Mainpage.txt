@@ -1,0 +1,66 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>Tobot (Season 1 - 19)</name>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/04_Cartoon/Tobot_All.txt</externallink>
+<info>credited to TOBOTYOUNGTOYS</info>
+</channel>
+
+<channel>
+<name>Tobot Athlon</name>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>Tobot Athlon Season 1</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLxAqlO4zbr3PpIwvZt16BiXc7IR5Bsgwd</page>
+ <referer>https://www.youtube.com/channel/TOBOTYOUNGTOYS</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+ </item>
+
+<item>
+<title>Tobot Athlon Season 2</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLxAqlO4zbr3NSdZ7kfGGy1cI1Ft3qoNi4</page>
+ <referer>https://www.youtube.com/channel/TOBOTYOUNGTOYS</referer>
+ <cookieJar></cookieJar>
+ </regex>
+ <thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+ </item>
+
+</items>	
+</channel>
+
+<channel>
+<name>Tobot (Malay Dub) - Musim 1</name>
+<thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
+<externallink>http://myanimasi.ares-project.com/04_Cartoon/Tobot_S1Malay.txt</externallink>
+<info>credited to TOBOTYOUNGTOYS</info>
+</channel>
+
+</channels>
