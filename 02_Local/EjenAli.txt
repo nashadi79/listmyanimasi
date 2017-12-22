@@ -1,0 +1,365 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<!--Ejen Ali Musim 1-->
+
+<channel>
+<name>[COLOR salmon][B]Ejen Ali Musim 1[/B][/COLOR]</name>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLr7CHFmBiVDJWgDBsULSRP14sagDdOwIt</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxSFNaQzhYZk5yckU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxdnJFYUpFVDJqTlE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxN0hONk9kZS1odlE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxNE5DYnFia2hGWjg/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxUXB6WVFBNUQ5a28/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxN0o3Q2xmT3V4QW8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxelRUVWJKalNtcFk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxTXhTRTBmNXZXbUU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxRVBDZW85OEZvUWs/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxc25PWVpXSkQxS2s/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxbGttU2N6SFptRTQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxVkFBR3FOVzRYNG8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR silver]Ejen Ali Musim 1[/COLOR] - [COLOR yellow]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxeEw0Y3hIS3o3anM/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+
+<!--Ejen Ali Musim 2-->
+<channel>
+<name>[COLOR orange][B]Ejen Ali Musim 2[/B][/COLOR]</name>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR yellow]Ejen Ali Musim 2[/COLOR]</title>e
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<link>$doregex[makelist1]</link>
+
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+   <title>[makelist1.param2]</title>
+   <link>$doregex[playpath]</link>
+   <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+   <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+]]></listrepeat>
+<expres>\s<..href="(.*?)" target="_blank">(.*?)<</expres>
+<page>http://www.solidfiles.com/v/BjkQrjmBve67z</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>playpath</name>
+<expres>downloadUrl":"(.*?)"</expres>
+<page>https://www.solidfiles.com[makelist1.param1]</page>
+</regex>
+</item>
+<!--
+<item>
+<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLr7CHFmBiVDJfcy4XivmYFnF9YauIiqWa</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxeXlkMWN5a2E0Tk0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxa3dsdG1tVWhuLVE/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ejen Ali Musim 2[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxYnU3cS1tQW45clk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+-->
+
+<channel>
+<name>[COLOR red][B]Youtube Channel - Ejen Ali[/B][/COLOR]</name>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+
+<items>
+
+<item>
+<title>[COLOR lime]Youtube Channel - Ejen Ali[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>page [makelist2.param1]</title>
+<link>$doregex[makelist3]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres> (.*?),</expres>
+<page>$doregex[get-number]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+            <name>makelist3</name>
+            <listrepeat><![CDATA[
+                <title>[COLOR yellow][makelist3.param2][/COLOR]
+ [makelist3.param3]</title>
+                <link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+                <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres><![CDATA[href="\/watch\?v=(.*?)">(.*?)<.*?> -(.*?)</span></h3>]]></expres>
+            <page>$doregex[get-source-page]</page>
+            <cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-number</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,lists='[makelist.param1]'):
+
+ real = 8 + 2
+
+ liste = list(range(real))
+ return liste
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-source-page</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/channel/UC42ZduLx6o3Nqg04kMuMCEw/videos',page='[makelist2.param1]'):
+
+ import requests
+ import re
+ import json
+
+ page = str(page)
+ print page
+ pageUrl=url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ r1 = requests.get(pageUrl, headers = headers)
+ source = r1.text
+ source =  source.replace('&quot;', '"').replace("'", "'").replace("&amp;", "&")
+ pre = 'https://www.youtube.com'
+ #print pre
+ #page = [makelist2.param1]
+ N = int(float(page))
+
+ if (N > 1):
+
+  for itr in range (1,N):
+    continuex = re.findall('data-uix-load-more-href="(.*?)"', source)[0]
+    continuationx = pre + continuex
+    r = requests.get(continuationx, headers = headers)
+    source = r.text
+    jdata = json.loads(source)
+    source = jdata["load_more_widget_html"]
+    page = jdata["content_html"]
+    page =  page.replace('&quot;', '"').replace("'", "'").replace("&amp;", "&")
+  return page
+   
+ else:
+
+  return source
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Trailer - Akan Datang[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PXd8-G3cF9g</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Trailer - Misi Bermula[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PXqaG9cZLoA</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Trailer  - Ops Banjir[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kVbqQxG2wHw</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Trailer  - Ops Ramadhan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fuuYcAYIm6A</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Trailer  - Ops Syawal[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=08fs0hXv0nk</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Trailer  - Misi Raya[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AVxfSBm0rWQ</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Trailer  - Kecemasan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=smomiY5af4Y</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Simulation Training - BAKAR[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l6Qq6xU5z3I</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Simulation Training - ALI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EHP8kHkic3Y</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Simulation Training - COMOT[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zZAKMibAiLo</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Ejen Ali[/COLOR] - [COLOR violet]Simulation Training - ALICIA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZLjsDL0BUPY</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<item>
+
+</items>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+

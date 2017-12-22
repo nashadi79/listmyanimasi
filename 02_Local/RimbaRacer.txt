@@ -1,0 +1,41 @@
+
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
+<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
+<item>
+
+<item>
+<title>Rimba Racer - Meet The Racer (Play All)</title>
+<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL8-CzRQDY1FKtsTe7mWwC-ohQaiDuISsI</link>
+</item>
+
+<item>
+<title>Rimba Racer - Promo Video</title>
+<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL8-CzRQDY1FI_xlLS_L5vtAVOESfCF6kD</link>
+</item>
+
+<item>
+<title>[COLOR orange]Rimba Racer - Season 1[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lime][makelist.param2][/COLOR]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
+     <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL8-CzRQDY1FIJa6BzJp_rtW_Xx15czbdd</page>
+ <referer>https://www.youtube.com/channel/UCR-Ko5lZgMSit2cprKSC8jQ</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+</item>

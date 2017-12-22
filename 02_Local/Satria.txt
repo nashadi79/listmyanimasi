@@ -1,0 +1,25 @@
+<item>
+<title>[COLOR lime]Satria - The Warriors of the 7 Elements[/COLOR]</title>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<link>$doregex[makelist1]</link>
+
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+   <title>Satria - [makelist1.param2]</title>
+   <link>$doregex[playpath]</link>
+   <thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*?)".*">(.*?)<.*</expres>
+<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/ListSatria.txt</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>playpath</name>
+<expres>file="(.*?)"</expres>
+<page>[makelist1.param1]</page>
+</regex>
+</item>
+

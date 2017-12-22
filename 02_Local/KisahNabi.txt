@@ -1,0 +1,169 @@
+<item>
+<title>Kisah Para Nabi [COLOR lime]Play All[/COLOR]</title>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNkLt6AnIBQhAQ2bx4BMIn4</link>
+</item>
+
+<item>
+<title>Kisah Nabi Adam</title>
+<utube>6JN8q8OcyZ8</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Idris</title>
+<utube>j3T0HFp_hTk</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Nuh</title>
+<utube>lMbfrTHdB5I</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Hud</title>
+<utube>hgPRlfD_9zE</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Salleh</title>
+<utube>d6GQNDhzDU0</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Ibrahim</title>
+<utube>Hr8mLcvp98M</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Luth</title>
+<utube>2imx8mwDtfY</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Ismail</title>
+<utube>qIVxn-dzj_s</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Ishak</title>
+<utube>R8BfFfWRnG0</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Ya'akub</title>
+<utube>c3MUgCK_Io8</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Yusuf</title>
+<utube>DUWl3zZP5HI</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Ayub</title>
+<utube>H06vnai3CK4</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Shuib</title>
+<utube>_90jb6ogvX4</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Musa dan Nabi Harun</title>
+<utube>Zb0j_8UyDUk</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Zulkifli</title>
+<utube>10qcA-C6PFA</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Daud</title>
+<utube>8cIf8PL4E-M</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Sulaiman</title>
+<utube>qGsBfs9W_DI</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Iliyas</title>
+<utube>9Hb0xn0H0h4</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Il'yasaq</title>
+<utube>bnMlNYnjDas</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Yunus</title>
+<utube>gHqBlBFMXi0</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Zakaria dan Nabi Yahya</title>
+<utube>0cU44qgerLU</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Isa</title>
+<utube>QB5qjz1rII4</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Nabi Muhammad Rasulullah SAW</title>
+<utube>HyLJrwjiD1w</utube>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+</item>
+
+

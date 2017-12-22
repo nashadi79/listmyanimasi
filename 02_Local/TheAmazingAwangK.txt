@@ -1,0 +1,126 @@
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Misteri Puteri Melati[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxaDRwRms4eDFVOFU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Gang Jabai[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxMmhqVGtOUjZqTWc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Memori Silam[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxMXBqdTJMdFpwSDA/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Angkara Makhluk Jadian Bahagian 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxRmpzbUY1ZU9idkk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Angkara Makhluk Jadian Bahagian 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxdTlBTlZvb3JtRGs/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Oh My Actor[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxUU10eFV2eTdiSWs/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Derita Kongkang Suci[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxTXozTGwzNzI1ZFU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Lubang Puaka[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxclVaZTJFMG1Jb2s/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Keramat Laut Di Teluk[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxOVRldkY2TDlZRk0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Putera Katak dan Sham[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxTFgtVVR5RE5WZm8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Pertarungan Dua Sejoli[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxRW5FWHNfb0hVb2M/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Mesyuarat Gua[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxTnJkdVBiVTFMQzQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Pendatang Dari Masa Depan[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxWDl1bkQzRmRBRFU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Dalam Hati Ada Taman[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxUi0tbExMRnBOSUU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Makhluk Besi Dari Angkasa[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxQmtpSVFkeG00SHc/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Misi Pendekar Harimau[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxZDVlN05hMVpfTTQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Nostalgia Hutan Hitam[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxRVFtOFpFNWFveVU/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Pergaduhan Terhebat Badang Dan Harimau Sado[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxcXV3UzlFaEpKLVk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+</item>
+

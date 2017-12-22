@@ -1,0 +1,38 @@
+
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
+<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Kampung Boy[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPuZ68U_k5H8__N6DATNByY</link>
+<thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR orange]Kampung Boy[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
+	 <fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtPuZ68U_k5H8__N6DATNByY</page>
+ <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
+</item>
+
+
+
+

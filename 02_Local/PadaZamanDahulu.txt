@@ -1,0 +1,153 @@
+<item>
+<title>[COLOR green]Pada Zaman Dahulu[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtN0rnCrjLwo4QqIZowpt8Fo</link>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>Singa dan Tikus</title>
+<utube>-N4SXNnn-B8</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kura-kura dan Itik</title>
+<utube>pmCpZHiVmFk</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Anjing dan Bayang-Bayang</title>
+<utube>_shgUoJyP0U</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Cawi dan Harimau </title>
+<utube>EzBA4Y4et3o</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kambing dan Buaya</title>
+<utube>dfcFmgU8QyU</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Bangau</title>
+<utube>B1ik48ePu6k</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Ayam dan Helang</title>
+<utube>4_hqi4say4g</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Belalang dan Semut</title>
+<utube>ANJPvt9jC-0</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Semut, Merpati dan Gajah</title>
+<utube>X-3LmmqNTAg</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Sang Kancil dan Harimau</title>
+<utube>-un-RKZwDq0</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Sang Kancil Mengira Buaya</title>
+<utube>rEWdjrWMDRg</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Tali Pinggang Hikmat</title>
+<utube>IP3h8kZlruo</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Sang Kancil Menjadi Hakim</title>
+<utube>VDeNtlR4WFQ</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Sang Kancil Dengan Gergasi</title>
+<utube>4tWfnrPpmTc</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Sang Kancil Dan Gong Raja Sulaiman</title>
+<utube>xkWmh10UhW8</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Pekasam Mata Harimau</title>
+<utube>6hrSBimsxB4</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Sang Kancil Dengan Singa</title>
+<utube>AXOcE9cGP-E</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Jangan Bersahabat Dengan Kera</title>
+<utube>CyDJSQgsEUI</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Kisah Tempurung Kura-kura yang retak</title>
+<utube>JKLHtTd8qJM</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Serigala Yang Nakal</title>
+<utube>VFGdG3olP2Y</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Sang Kancil Dan Perigi Buta</title>
+<utube>gtsxyhoK0to</utube>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+</item>
