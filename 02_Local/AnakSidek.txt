@@ -1,169 +1,35 @@
+<item>
+<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST ALL[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
+<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
+<item>
 
 <item>
 <title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR red]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=</link>
 <thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
+<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNF3UQSwBC-wMa6w_YC4rNF</link>
+</item>
 
 <item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Adik Baru & Kasut Bola[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hFZAL8RH2jE</link>
+<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR red]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
+     <fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtNF3UQSwBC-wMa6w_YC4rNF</page>
+ <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
+ <cookieJar></cookieJar>
+ </regex>
 <thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
+</item>
 
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Api Oh Api[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hjgHfHNtRnw</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Banjir Kilat[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qgyxmed70d4</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Basikal Baru & Muslihat Bun Dan Biawak[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aCz9kPiNS4c</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Bun Bersunat & Ajib Patah Tangan[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dca_325fHm4</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Bun Dan Bidadari[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=woUO-SgLUFE</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Bun Dilamun Cinta[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WY3Mq2tyeFw</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Cabaran[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ena5oAJMiNg</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Dugaan Bulan Puasa & Malang Di Aidilfitri[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UAJxsvckhtQ</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Goal[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fPVQdl16B6o</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Ikan Membawa Padah[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dt9Q2ID3GZg</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Kasih Ibu[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zmfeuaD3aBE</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Kehilangan[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cCLN4n3dm4Y</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Malang Tak Berbau[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HWgksAgFyuM</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Membelah Awan[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=80diOH6fPgo</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Mulanya Disini[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dt9Q2ID3GZg</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Nakal[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TupUrT747jk</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Rahsia Dalam Guni[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z09KlI1kcB0</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Reban Ayam Berhantu[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZhaHt3tbYk0</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Sempena Aidilfitri[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=agQgBuiVUf4</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Sidek Yang Nakal[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RxB_cAjdEhE</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Suka Menjadi Duka[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=okkRZBfTi10</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR violet]Ubat Tradisional[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KXwOchDp4DQ</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
 

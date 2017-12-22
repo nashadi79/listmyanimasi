@@ -1,7 +1,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
