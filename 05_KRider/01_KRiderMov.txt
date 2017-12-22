@@ -1,0 +1,200 @@
+<!--SOLIDFILES-->
+<item>
+<title>[COLOR blue][B]LINK SOURCE 1[/B][/COLOR]</title>
+<link>http://myanimasi.ares-project.com/home.txt</link>
+<thumbnail>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Kamen Rider Gaim vs Ressha Sentai Toqger[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/nxzomgz43/KamenRider_GaimVsRessha.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/RqgWdQkvydm38</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider × Super Sentai: Super Hero Taisen[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/40trdig8z/KamenRider__SuperSentaiSuperHeroTaisen.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/NGkMwdp25qd4L</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider × Kamen Rider Gaim and Wizard: The Fateful Sengoku Movie Battle[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/5h59vnj5v/KamenRider_GaimNWizardTheFatefulSengokuMovieBatt.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/2ZKKYBPKaWjVg</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]OOO, Den-O, All Riders: Let's Go Kamen Riders[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/u414t7t1f/Krider_Let_s_Go_Kamen_Riders.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/aWmpmm7v7j2Mx</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]The Legend of Heroes Alain Chapter 2[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/8o906ridf/kamen_rider_ghost_the_heroic_legend_of_alain.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/jey4GaqndV5g2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider Kabuto: God Speed Love[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/5z0fbi8qr/Krider_KabutoGodSpeedLove.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/8NWqgXkvRKxyB</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider vs Ultraman[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/7thv6zl4z/Ultrmn_vs_Kmn_Rdr_VI.png</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/zdQmrNMvzA36M</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider Ichigou[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/cutum3hz7/KamenRiderTheFirst.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/w8XwVz3XQvPrr</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider Drive Saga: Kamen Rider Mach / Kamen Rider Heart[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/412y4zv0j/KRider_HeartMach.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/nNymxk2VkVBPG</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider × Kamen Rider Ghost and Drive: Super Movie War Genesis[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/ojoniku6b/Kamen_Rider_Super_Movie_War_Genesis.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/53rp3kxYYPvG3</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR red]Kamen Rider Decade: All Riders vs. Dai-Shocker[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/hlkjcmw1v/Krider_AllRiderVsDaiShocker.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>https://www.solidfiles.com/v/m3yK5neXwP8vy</page><referer></referer></regex>
+</item>
+
+<!--GDRIVE-->
+<item>
+<title>[COLOR blue][B]LINK SOURCE 2[/B][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvN3BRWU5jeTRKTmM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR green]Kamen Rider ZO[/COLOR] - [COLOR yellow][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQR1hEOWpvaUJMX28/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/d9lljpm0z/image.png</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider Den-O[/COLOR] - [COLOR yellow]Im Born[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1iSlldUK2UZOWPh26sRc2UTX_epe9tNgr/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/vdmirq0fn/KRODen_Im_Born.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider Ghost[/COLOR] - [COLOR yellow]Rebirth[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1DHibPp5gwI2a5aJilwc0VEFbJZD0-isQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/ed3mj1v43/KRGhost_Rebirth.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider Gaim vs Ressha Sentai Toqger[/COLOR] - [COLOR yellow][/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQQlJtV3hUbkcwTFk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/nxzomgz43/KamenRider_GaimVsRessha.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider × Super Sentai[/COLOR] - [COLOR yellow]Super Hero Taisen[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQUFZSRmx2VEpsNWs/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/40trdig8z/KamenRider__SuperSentaiSuperHeroTaisen.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider × Kamen Rider Gaim & Wizard: [/COLOR] - [COLOR yellow]The Fateful Sengoku Movie Battle[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQSVQ2eHk0LTA0OTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/5h59vnj5v/KamenRider_GaimNWizardTheFatefulSengokuMovieBatt.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]OOO, Den-O, All Riders: [/COLOR] - [COLOR yellow]Let's Go Kamen Riders[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQdGYzTjgzV1FVdHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/u414t7t1f/Krider_Let_s_Go_Kamen_Riders.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider × Kamen Rider Ghost & Drive: [/COLOR] - [COLOR yellow]Super Movie War Genesis[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQT1FDUFhWZl9fVW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/ojoniku6b/Kamen_Rider_Super_Movie_War_Genesis.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider Decade: [/COLOR] - [COLOR yellow]All Riders vs. Dai-Shocker[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQeVVCOS1JS0dncnc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/hlkjcmw1v/Krider_AllRiderVsDaiShocker.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider[/COLOR] - [COLOR yellow]vs Ultraman[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQQWVGSFdCLXZEOHM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/7thv6zl4z/Ultrmn_vs_Kmn_Rdr_VI.png</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider × Kamen Rider Wizard & Fourze[/COLOR] - [COLOR yellow]Movie War Ultimatum[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQRmJNd2EtN2hrOW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/sz72nu6kj/KRider_Fouze_Movie_War_Ultimatum.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider Kabuto[/COLOR] - [COLOR yellow]God Speed Love[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQSEJZUWcxVW0zeDA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/5z0fbi8qr/Krider_KabutoGodSpeedLove.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider[/COLOR] - [COLOR yellow] Ichigou[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQdF9iWEk5MXkwd28/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cutum3hz7/KamenRiderTheFirst.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider Drive Saga[/COLOR] - [COLOR yellow]Kamen Rider Mach / Kamen Rider Heart[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQWV9TV081azV6c3c/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/412y4zv0j/KRider_HeartMach.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Kamen Rider [/COLOR] - [COLOR yellow]The Legend of Heroes Alain Chapter 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B_vfTZ6AConQa2N6a3h3WjRST2M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/8o906ridf/kamen_rider_ghost_the_heroic_legend_of_alain.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
+</item>
+
