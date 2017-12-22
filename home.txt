@@ -52,39 +52,16 @@
 
 <channels>
 
-<!--
-<channel>
-<name>[COLOR yellow] .-.-. [/COLOR][COLOR red]L[/COLOR][COLOR lime]I[/COLOR][COLOR green]V[/COLOR][COLOR yellow]E [/COLOR][COLOR blue]T[/COLOR][COLOR greenyellow]V[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
-<thumbnail>http://s19.postimg.org/nppg1jx6r/kids_channel.jpg<thumbnail>
-<fanart>http://s19.postimg.org/jhz96jl4z/kids_channel_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/00_LiveTV/LiveTV.txt</externallink>
-<info></info>
-</channel>
--->
-<channel>
-<name>[COLOR orange][B] TERIMA KASIH PADA PEMINAT MYANIMASI. [/B][/COLOR]</name>
-<thumbnail>http://techunzipped.com/my_content/uploads/2016/12/thank-you-for-your-support.jpg</thumbnail>
-<fanart>http://techunzipped.com/my_content/uploads/2016/12/thank-you-for-your-support.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/01_Filem%20Animasi/movies.txt</externallink>
-<info></info>
-</channel>
-<channel>
-<name>[COLOR lime][B]SEKIRANYA ADA REZEKI KITA BERJUMPA LAGI.![/B][/COLOR]</name>
-<thumbnail>http://techunzipped.com/my_content/uploads/2016/12/thank-you-for-your-support.jpg</thumbnail>
-<fanart>http://techunzipped.com/my_content/uploads/2016/12/thank-you-for-your-support.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/01_Filem%20Animasi/movies.txt</externallink>
-<info></info>
-</channel>
-
 <channel>
 <name>[COLOR yellow][B] .-.-. [/B][/COLOR][COLOR yellow][B]F[/B][/COLOR][COLOR red][B]I[/B][/COLOR][COLOR lime][B]L[/B][/COLOR][COLOR green][B]E[/B][/COLOR][COLOR yellow][B]M [/B][/COLOR][COLOR blue][B]A[/B][/COLOR][COLOR greenyellow][B]N[/B][/COLOR][COLOR salmon][B]I[/B][/COLOR][COLOR skyblue][B]M[/B][/COLOR][COLOR red][B]A[/B][/COLOR][COLOR violet][B]S[/B][/COLOR][COLOR orange][B]I [/B][/COLOR][COLOR yellow][B] .-.-. [/B][/COLOR]</name>
 <thumbnail>http://s19.postimg.org/7bog33mkj/fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/7ljsd12bn/boboiboy_thumb.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/01_Filem%20Animasi/movies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_Filem%20Animasi/movies.txt</externallink>
 <info></info>
 </channel>
 
 <!---subFilemAnimasi 01 Trailer Filem Animasi -->
+
 <channel>
 <name>Kompilasi Trailer Animasi</name>
 <thumbnail>https://s19.postimg.org/fs5ool2gz/animation_trailer.jpg</thumbnail>
@@ -95,7 +72,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -135,89 +112,17 @@
 <name>Filem Animasi ([COLOR orange]Malay[/COLOR][COLOR violet] Dub[/COLOR])</name>
 <thumbnail>http://s19.postimg.org/7bog33mkj/fanart.jpg<thumbnail>
 <fanart>http://s19.postimg.org/7ljsd12bn/boboiboy_thumb.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/01_Filem%20Animasi/movies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_Filem%20Animasi/movies.txt</externallink>
 <info></info>
 </channel>
-
-<!---FilemAnimasi 03 Cinemaindo.TV -->
-<!--
-<channel>
-<name>Filem Animasi ([COLOR green]from [/COLOR][COLOR orange]CINEMAINDO.TV[/COLOR])</name>
-<thumbnail>http://cinemaindo.tv/wp-content/uploads/2015/07/logo.png</thumbnail>
-<fanart>http://cinemaindo.tv/wp-content/uploads/2015/07/logo.png</fanart>
-<info>credit to KODIM for make this list for MyAnimasi :)</info>
-<items>
-
-<item>
-<title>[COLOR yellow]Animasi [/COLOR][COLOR red]sub Indon [/COLOR][COLOR green]from [/COLOR][COLOR orange]CINEMAINDO.TV[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>http://cinemaindo.tv/wp-content/uploads/2015/07/logo.png</thumbnail>
-<info>credit to KODIM for make this list for MyAnimasi :)</info>
-
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR lime][makelist.param2] [/COLOR]</title>
-        <link>$doregex[makelist2]</link>
-        <thumbnail>http://cinemaindo.tv/wp-content/uploads/2015/07/logo.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[<li><a.class=.*?href=\"(.*?)\".title=\"(.*?)\".alt]]></expres>
-<page>http://cinemaindo.tv/genres/animation/</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-  <name>makelist2</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR skyblue] [makelist.param2][/COLOR]</title>
-        <link>$doregex[makelist3]</link>
-        <thumbnail>http://cinemaindo.tv/wp-content/uploads/2015/07/logo.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href=\"(.*?)\".(?:>acefile)]]></expres>
-<page>[makelist.param1]</page>
-<referer>[makelist.param1]</referer>
-</regex>
-
-<regex>
-  <name>makelist3</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red] [makelist.param2][/COLOR]</title>
-        <link>$doregex[makelist4]</link>
-        <thumbnail>http://cinemaindo.tv/wp-content/uploads/2015/07/logo.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[<iframe.src=\"//(.*?)\".width]]></expres>
-<page>[makelist.param1][makelist2.param1]</page>
-<referer>[makelist2.param1]</referer>
-</regex>
-
-<regex>
-  <name>makelist4</name>
-  <expres>file:."(.*?)"</expres>
-  <page>http://[makelist3.param1]</page>
-</regex>
-
-</item>
-</items>
-
-</channel>
--->
-<!---FilemAnimasi 04 Animation DramaIndo -->
-<!--
-<channel>
-<name>Filem Animasi ([COLOR green]from [/COLOR][COLOR yellow]DRAMAINDO[/COLOR])</name>
-<thumbnail>http://dramaindo.com/wp-content/uploads/2016/02/logo-1.png<thumbnail>
-<fanart>http://dramaindo.com/wp-content/uploads/2016/02/logo-1.png</fanart>
-<externallink>http://myanimasi.ares-project.com/01_Filem%20Animasi/DramaIndo.txt</externallink>
-<info></info>
-</channel>
--->
 
 <!-- JUST FOR KIDS -->
+
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR lime]J[/COLOR][COLOR red]U[/COLOR][COLOR lime]S[/COLOR][COLOR green]T [/COLOR][COLOR yellow]F[/COLOR][COLOR blue]O[/COLOR][COLOR greenyellow]R [/COLOR][COLOR salmon]K[/COLOR][COLOR skyblue]I[/COLOR][COLOR red]D[/COLOR][COLOR violet]S[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/00_FootNote/footnote.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/00_FootNote/footnote.txt</externallink>
 <info></info>
 </channel>
 
@@ -225,7 +130,7 @@
 <name>[COLOR yellow]Didi and Friends[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/DidiFriend.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/DidiFriend.txt</externallink>
 <info></info>
 </channel>
 
@@ -233,7 +138,7 @@
 <name>[COLOR yellow]Kids Show and Telemovie[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://myanimasi.ares-project.com/01_KidsChannel/KidsShowTelemovie.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/KidsShowTelemovie.txt</externallink>
 <info></info>
 </channel>
 
@@ -241,7 +146,7 @@
 <name>[COLOR yellow]Kompilasi Lagu Animasi[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/01_KidsChannel/KidsSongChannel.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/KidsSongChannel.txt</externallink>
 <info></info>
 </channel>
 
@@ -249,7 +154,7 @@
 <name>[COLOR yellow]Jom Belajar[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/cvltgh6mb/jombelajar_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/ojfvb0vr7/jombelajar_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/01_KidsChannel/JomBelajar.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/JomBelajar.txt</externallink>
 <info></info>
 </channel>
 
@@ -257,23 +162,15 @@
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]A[/COLOR][COLOR violet]S[/COLOR][COLOR orange]I [/COLOR][COLOR red]T[/COLOR][COLOR yellow]E[/COLOR][COLOR red]M[/COLOR][COLOR lime]P[/COLOR][COLOR green]A[/COLOR][COLOR yellow]T[/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>http://s19.postimg.org/mj4fngef7/icon.png</thumbnail>
 <fanart>http://s19.postimg.org/7bog33mkj/fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/00_FootNote/footnote.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/00_FootNote/footnote.txt</externallink>
 <info></info>
 </channel>
-<!--
-<channel>
-<name>Ini Kartun Rare.. [COLOR lime]Must Watch[/COLOR]</name>
-<thumbnail>http://s19.postimg.org/7r7fqejgj/my_animasi_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/dqv6u248z/my_animasi_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/RareMustWatch.txt</externallink>
-<info></info>
-</channel>
--->
+
 <channel>
 <name>[COLOR orange]Anak-Anak Sidek[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/AnakSidek.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/AnakSidek.txt</externallink>
 <info></info>
 </channel>
 
@@ -281,7 +178,7 @@
 <name>[COLOR orange]Boboi Boy The Series[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_BoboiBoy/00_HomeBoboi.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/00_HomeBoboi.txt</externallink>
 <info></info>
 </channel>
 
@@ -293,7 +190,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -333,7 +230,7 @@
 <name>[COLOR orange]Bola Kampung The Series[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/BolaKg.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/BolaKg.txt</externallink>
 <info></info>
 </channel>
 
@@ -356,7 +253,7 @@
    <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/BudakBesi/budak-besi-my-klik.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="(.*?)".*">(.*?)<.*</expres>
-<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/ListBudakBesi.txt</page>
+<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/ListBudakBesi.txt</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -378,7 +275,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -419,7 +316,7 @@
 <name>[COLOR orange]Ejen Ali[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/EjenAli.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/EjenAli.txt</externallink>
 <info></info>
 </channel>
 
@@ -431,7 +328,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -475,7 +372,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -515,7 +412,7 @@
 <name>[COLOR orange]Kampung Boy[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/KgBoy.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KgBoy.txt</externallink>
 <info></info>
 </channel>
 
@@ -523,7 +420,7 @@
 <name>[COLOR orange]Keluang Man[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/KeluangMan.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KeluangMan.txt</externallink>
 <info></info>
 </channel>
 
@@ -531,7 +428,7 @@
 <name>[COLOR orange]Kisah Para Nabi[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/KisahNabi.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KisahNabi.txt</externallink>
 <info>Islam Itu Indah</info>
 </channel>
 
@@ -543,7 +440,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -587,7 +484,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -627,7 +524,7 @@
 <name>[COLOR orange]Pada Zaman Dahulu[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/PadaZamanDahulu.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/PadaZamanDahulu.txt</externallink>
 <info></info>
 </channel>
 
@@ -635,7 +532,7 @@
 <name>[COLOR orange]Puteri[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/d1hylq3gj/puteri_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/4576hscub/puteri_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/Puteri.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Puteri.txt</externallink>
 <info></info>
 </channel>
 
@@ -658,7 +555,7 @@
    <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/PuteriDelimaSakti/s3/e4/PuteriDelimaSakti-s3-e4-thumbnail.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="(.*?)".*">(.*?)<.*</expres>
-<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/List_PuteriDelSak.txt</page>
+<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/List_PuteriDelSak.txt</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -676,7 +573,7 @@
 <name>[COLOR orange]Rimba Racer[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/RimbaRacer.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/RimbaRacer.txt</externallink>
 <info></info>
 </channel>
 
@@ -688,7 +585,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -728,7 +625,7 @@
 <name>[COLOR orange]Satria[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/Satria.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Satria.txt</externallink>
 <info>Satria - The Warriors of the 7 Elements' story centers on boy Hang Tuah and follows the Satria, warriors of the seven elements, as they strive to save their princess Hang Li Po from the seven-member Suliman group who kidnapped her. The Satria are determined to avenge the death of their master, killed by the Suliman, and protect the sovereignty of Melaka.</info>
 </channel>
 
@@ -736,7 +633,7 @@
 <name>[COLOR orange]The Amazing Awang Khenit[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/TheAmazingAwangK.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/TheAmazingAwangK.txt</externallink>
 <info></info>
 </channel>
 
@@ -744,7 +641,7 @@
 <name>[COLOR orange]Upin Ipin The Series[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_UpinIpin/00_Home_UpinIpin.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_UpinIpin/00_Home_UpinIpin.txt</externallink>
 <info></info>
 </channel>
 
@@ -752,7 +649,7 @@
 <name>[COLOR orange]Usop Sontorian[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/hd6kaqadf/Usop_Sontorian_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/vicdcjjer/Usop_Sontorian_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/02_Local/UsopSonto.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/UsopSonto.txt</externallink>
 <info></info>
 </channel>
 
@@ -760,88 +657,15 @@
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]E[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>https://s19.postimg.org/vn4z34if7/anime_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/pxoqitc8z/anime_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/00_FootNote/footnote.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/00_FootNote/footnote.txt</externallink>
 <info></info>
 </channel>
 
-<!--
-<channel>
-<name>[COLOR lime]Popular Anime [/COLOR][COLOR orange]by Animeku.tv[/COLOR]</name>
-<thumbnail>http://animeku.tv/wp-content/themes/animeku/images/logo.png</thumbnail>
-<fanart>https://s19.postimg.org/pxoqitc8z/anime_fanart.jpg</fanart>
-<info></info>
-<items>
-<item>
-<title>[COLOR orange]Popular Anime[/COLOR][COLOR silver] (Malay Sub)[/COLOR]</title>
-<link>$doregex[poplist]</link>
-<thumbnail>http://animeku.tv/wp-content/themes/animeku/images/logo.png</thumbnail>
-<regex>
-  <name>poplist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR green][poplist.param4][/COLOR]</title>
-        <link>$doregex[makelist]</link>
-        <thumbnail>[poplist.param2]</thumbnail>
-]]></listrepeat>
-<expres>li>\n<..href="(.*?)"><.mg.width=......height=......src="(.*?)"(.*?)">(.*?)<.a></expres>
-<page>http://animeku.tv/popular-anime</page>
-<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR blue][poplist.param4] [/COLOR][COLOR green][makelist.param2][/COLOR]</title>
-        <link>$doregex[makelist2]</link>
-        <thumbnail>[poplist.param2]</thumbnail>
-]]></listrepeat>
-<expres>span.class="leftoff"><..href="(.*?)">(.*?)<.span</expres>
-<page>[poplist.param1]</page>
-<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-  <name>makelist2</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR blue][poplist.param4] [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
-        <link>$doregex[makelist3]</link>
-        <thumbnail>[poplist.param2]</thumbnail>
-]]></listrepeat>
-<expres>a.href='(.*?)'>\n<....class="imgrapi">\n<(.*?)<.div>\n<.pan.class="play"><.span>\n<.iv.class="title"><.pan>mp4upload<.span</expres>
-<page>[makelist.param1]</page>
-<referer>http://animeku.tv/popular-anime</referer>
-<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-  <name>makelist3</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR blue][poplist.param4] [/COLOR][COLOR lime][makelist.param2][/COLOR]</title>
-        <link>$doregex[makelist4]&amp;redirect=0</link>
-        <thumbnail>[poplist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[<iframe src="(.*?)"]]></expres>
-<page>[makelist2.param1]</page>
-<referer>http://animeku.tv/popular-anime</referer>
-<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>makelist4</name>
-<expres><![CDATA["file":."(.*?)"]]></expres>
-<page>[makelist3.param1]</page>
-<referer>http://animeku.tv/popular-anime</referer>
-<agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>  
-</items> 
-</channel>
--->
 <channel>
 <name>[COLOR skyblue]Bleach[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/sdv5aejpf/bleach_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/Bleach.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Bleach.txt</externallink>
 <info></info>
 </channel>
 
@@ -849,7 +673,7 @@
 <name>[COLOR skyblue]Chibi Maruko Chan[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/ChibiMaruko.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/ChibiMaruko.txt</externallink>
 <info></info>
 </channel>
 
@@ -861,7 +685,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -901,7 +725,7 @@
 <name>[COLOR skyblue]Crayon Shin Chan[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_ShinChan/00_home_shinchan.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_ShinChan/00_home_shinchan.txt</externallink>
 <info>Crayon Shin-chan (クレヨンしんちゃん Kureyon Shinchan) merupakan siri komik dan anime yang direka oleh Yoshito Usui. Siri ini mengisahkan gelagat seorang budak berumur lima tahun dan keluarganya yang berlatarkan sebuah rumah di bandar Kasukabe, Saitama, Jepun.</info>
 </channel>
 
@@ -909,7 +733,7 @@
 <name>[COLOR skyblue]Dash Yonkuro[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/fre0klpfn/dashyonkuro_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/4drh9eewz/Dash_Yonkuro_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/DashYonkuro.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/DashYonkuro.txt</externallink>
 <info></info>
 </channel>
 
@@ -917,7 +741,7 @@
 <name>[COLOR skyblue]Detektif Conan[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/gmrnxpon7/dekconan_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/r8bj9puyr/dekconan_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Det_Conan/DetConanMain.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Det_Conan/DetConanMain.txt</externallink>
 <info></info>
 </channel>
 
@@ -925,7 +749,7 @@
 <name>[COLOR skyblue]Doraemon[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Doraemon/subhome_doraemon.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/subhome_doraemon.txt</externallink>
 <info></info>
 </channel>
 
@@ -933,67 +757,15 @@
 <name>[COLOR skyblue]Dragon Ball[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_DragonBall/subhome_DragonBall.txt</externallink>
-<info></info>
-</channel>
-<!--
-<channel>
-<name>[COLOR skyblue]EyeShield 21[/COLOR]</name>
-<thumbnail>http://animeku.tv/wp-content/uploads/2015/06/Eyeshield-21-Subtitle-Indonesia.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/7a/9d/01/7a9d01c4544cb8f691c5d4cc94b641d8.jpg</fanart>
-<items>
-<item>
-<title>[COLOR lime]EyeShield 21[/COLOR]</title>
-<thumbnail>http://animeku.tv/wp-content/uploads/2015/06/Eyeshield-21-Subtitle-Indonesia.jpg</thumbnail>
-<link>$doregex[makelist1]</link>
-
-<regex>
-<name>makelist1</name>
-<listrepeat><![CDATA[
-   <title>[makelist1.param2]</title>
-   <link>http://bookdl.online/s1/Anime/Ended/Eyeshield%2021/[makelist1.param1]</link>
-   <thumbnail>http://animeku.tv/wp-content/uploads/2015/06/Eyeshield-21-Subtitle-Indonesia.jpg</thumbnail>
-]]></listrepeat>
-<expres>a href="(.*?)">(.*?)<</expres>
-<page>http://bookdl.online/s1/Anime/Ended/Eyeshield%2021/</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-</items>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/subhome_DragonBall.txt</externallink>
 <info></info>
 </channel>
 
-<channel>
-<name>[COLOR skyblue]Fullmetal Alchemist Brotherhood[/COLOR]</name>
-<thumbnail>http://animeku.tv/wp-content/uploads/2015/07/Fullmetal-Alchemist-Brotherhood-Subtitle-Indonesia.jpg</thumbnail>
-<fanart>https://secure.netflix.com/us/boxshots/tv_sdp_s/70204981.jpg</fanart>
-<items>
-<item>
-<title>[COLOR lime]Fullmetal Alchemist Brotherhood[/COLOR]</title>
-<thumbnail>http://animeku.tv/wp-content/uploads/2015/07/Fullmetal-Alchemist-Brotherhood-Subtitle-Indonesia.jpg</thumbnail>
-<link>$doregex[makelist1]</link>
-
-<regex>
-<name>makelist1</name>
-<listrepeat><![CDATA[
-   <title>[makelist1.param2]</title>
-   <link>http://bookdl.online/s1/Anime/Ended/Fullmetal%20Alchemist%20Brotherhood/[makelist1.param1]</link>
-   <thumbnail>http://animeku.tv/wp-content/uploads/2015/07/Fullmetal-Alchemist-Brotherhood-Subtitle-Indonesia.jpg</thumbnail>
-]]></listrepeat>
-<expres>a href="(.*?)">(.*?)<</expres>
-<page>http://bookdl.online/s1/Anime/Ended/Fullmetal%20Alchemist%20Brotherhood/</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-</items>
-<info></info>
-</channel>
--->
 <channel>
 <name>[COLOR skyblue]Gundam[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Gundam/00_Gundam_Page.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/00_Gundam_Page.txt</externallink>
 <info>Sunrise</info>
 </channel>
 
@@ -1001,7 +773,7 @@
 <name>[COLOR skyblue]Hagemaru[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/Hagemaru.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Hagemaru.txt</externallink>
 <info></info>
 </channel>
 
@@ -1009,7 +781,7 @@
 <name>[COLOR skyblue]Initial D[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/f62dachkz/initial_D_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/j15rcx0qr/initial_D_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/InitalD.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/InitalD.txt</externallink>
 <info></info>
 </channel>
 
@@ -1017,7 +789,7 @@
 <name>[COLOR skyblue]Magic Kaito[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/c7u7a0p4z/magickaito_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/um4qe01fn/magickaito_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/MagicKaito.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/MagicKaito.txt</externallink>
 <info>Magic Kaito is a Japanese manga series written and illustrated by Gosho Aoyama, that began in Shogakukan's Weekly Shōnen Sunday in 1987. The story tells of a phantom thief named Kaito Kid</info>
 </channel>
 
@@ -1025,7 +797,7 @@
 <name>[COLOR skyblue]Naruto[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/elfherbwf/naruto_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/Naruto.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Naruto.txt</externallink>
 <info>Naruto Shippuden the Movie (劇場版NARUTO−ナルト− 疾風伝 Gekijōban Naruto Shippūden?) is the fourth overall in the Naruto film series and the first Naruto Shippuden film, directed by Hajime Kamegaki and written by Junki Takegami.</info>
 </channel>
 
@@ -1037,7 +809,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1081,7 +853,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1121,74 +893,15 @@
 <name>[COLOR skyblue]One Piece[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_OnePiece/subhome_OnePiece.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_OnePiece/subhome_OnePiece.txt</externallink>
 <info>One Piece (Japanese: ワンピース Hepburn: Wan Pīsu?) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's Weekly Shōnen Jump magazine since July 19, 1997, with the chapters collected into eighty-two tankōbon volumes to date. One Piece follows the adventures of Monkey D. Luffy, a young man whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his diverse crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world's ultimate treasure known as "One Piece" in order to become the next King of the Pirates.</info>
 </channel>
-<!--
-<channel>
-<name>[COLOR skyblue]Pokemon[/COLOR]</name>
-<thumbnail>https://s19.postimg.org/cf39x5zk3/pokemon_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/4xph47kn7/pokemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Anime/Pokemon.txt</externallink>
-<info></info>
-</channel>
--->
-<!--
-<channel>
-<name>[COLOR yellow] .-.-. [/COLOR][COLOR greenyellow]C[/COLOR][COLOR salmon]L[/COLOR][COLOR skyblue]A[/COLOR][COLOR red]S[/COLOR][COLOR violet]S[/COLOR][COLOR orange]I[/COLOR][COLOR red]C[/COLOR][COLOR violet] C[/COLOR][COLOR orange]A[/COLOR][COLOR silver]R[/COLOR][COLOR blue]T[/COLOR][COLOR greenyellow]O[/COLOR][COLOR salmon]O[/COLOR][COLOR skyblue]N[/COLOR][COLOR green]S[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
-<thumbnail>https://superrepo.org/static/images/icons/original/plugin.video.supercartoons.png.pagespeed.ce.FkzCSgWjBP.png</thumbnail>
-<fanart>https://superrepo.org/static/images/icons/original/plugin.video.supercartoons.png.pagespeed.ce.FkzCSgWjBP.png</fanart>
-<items>
-
-<item>
-<title>By Character</title>
-
-<link>$doregex[makelist1]</link>
-
-<regex>
-<name>makelist1</name>
-<listrepeat><![CDATA[
-   <title>[makelist1.param3]</title>
-   <link>$doregex[makelist2]</link>
-   <thumbnail>http://www.supercartoons.net[makelist1.param2]</thumbnail>
-]]></listrepeat>
-
-<expres>a href="(.*?)">.*\s*\Wimg width="100%" data-qazy="true" src="(.*?)" alt="(.*?)"</expres>
-<page>http://www.supercartoons.net/characters/1</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param3]</title>
-   <link>$doregex[get-playpath]&amp;redirect=0</link>
-   <thumbnail>http://www.supercartoons.net[makelist2.param2]</thumbnail>
-]]></listrepeat>
-
-<expres>a href="(.*?)">.*\s*\Wimg width="100%" data-qazy="true" src="(.*?)" alt="(.*?)"</expres>
-<page>http://www.supercartoons.net[makelist1.param1]</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-playpath</name>
-<expres>file: '(.*?)'</expres>
-<page>http://www.supercartoons.net[makelist2.param1]</page>
-<page>http://www.supercartoons.net[makelist1.param1]</page>
-</regex>
-</item>
-
-</items>
-<info>by Supercartoons.Net</info>
-</channel>
--->
 
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]A[/COLOR][COLOR violet]S[/COLOR][COLOR orange]I [/COLOR][COLOR red]L[/COLOR][COLOR violet]U[/COLOR][COLOR orange]A[/COLOR][COLOR silver]R [/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>http://s19.postimg.org/mj4fngef7/icon.png</thumbnail>
 <fanart>http://s19.postimg.org/7bog33mkj/fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/00_FootNote/footnote.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/00_FootNote/footnote.txt</externallink>
 <info></info>
 </channel>
 
@@ -1200,7 +913,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1236,7 +949,6 @@
 <info>Adit Sopo Jarwo adalah sebuah filem animasi dari Indonesia dan disiarkan di MNCTV</info>
 </channel>
 
-
 <channel>
 <name>Bravestarr</name>
 <thumbnail>https://s19.postimg.org/ncn49gtdv/bravestar_thumb.jpg</thumbnail>
@@ -1245,7 +957,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1289,7 +1001,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1333,7 +1045,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1369,12 +1081,11 @@
 <info></info>
 </channel>
 
-
 <channel>
 <name>Dora The Explorer</name>
 <thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Dora.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Dora.txt</externallink>
 <info>"Dora the Explorer" features the adventures of young Dora, her monkey Boots, Backpack and other animated friends. In each episode, viewers join Dora on an adventure in an animated world set inside a computer. The titular character seeks viewers' help in solving a puzzle or mystery she faces in each episode.</info>
 </channel>
 
@@ -1386,7 +1097,7 @@
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1417,7 +1128,7 @@
 <name>Flash and Dash</name>
 <thumbnail>https://s19.postimg.org/53p0zq9qb/flashanddash_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/d7x54gw5f/flashanddash_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/FlashDash.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/FlashDash.txt</externallink>
 <info>Flash and Dash, is a 2007 Chinese animated series created by Auldey and based on their line of radio-controlled cars. The original series ran for 26 episodes and saw distribution in various countries across the world. There are two theme songs: the Chinese theme song is the original theme "Flash! Dash!" and the English version is the unleashed theme "Feel the Fire! Feel the Speed!" written by John Mitchell and Tom Keenlyside.
 An English version, created by Ocean Productions,began airing in the United Kingdom on Cartoon Network Too on November 7, 2009. The broadcast was produced in a partnership between Danbar, a company distributing the toyline in Europe, and Turner Media Innovations.
 The series received two followups, the 40-episode sequel Race-Tin: Flash and Dash 2 in 2007 and the 26 episode reboot Race-Tin: Flash and Dash S in 2012.</info>
@@ -1431,7 +1142,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1475,7 +1186,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1512,7 +1223,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1585,7 +1296,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Jungle Book</name>
 <thumbnail>http://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/JungleBook_00.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/JungleBook_00.txt</externallink>
 <info></info>
 </channel>
 
@@ -1593,7 +1304,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Larva</name>
 <thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Larva.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Larva.txt</externallink>
 <info></info>
 </channel>
 
@@ -1601,7 +1312,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Mr Bean</name>
 <thumbnail>http://s19.postimg.org/xmkbuivpb/mrbean_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/r7laxuozn/mrbean_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/MrBean.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/MrBean.txt</externallink>
 <info></info>
 </channel>
 
@@ -1613,7 +1324,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1653,7 +1364,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Paddle Pop</name>
 <thumbnail>http://s19.postimg.org/i79wso7gj/paddlepop_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/9nqiuwz43/paddlepop_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/PaddlePop.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/PaddlePop.txt</externallink>
 <info></info>
 </channel>
 
@@ -1661,7 +1372,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Pororo (Korean Series)</name>
 <thumbnail>http://s19.postimg.org/lsnnhekg3/pororo_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tk4dfyolf/pororo_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Pororo.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Pororo.txt</externallink>
 <info>A little penguin named Pororo lives on an ice island with his friends Poby the polar bear, Eddy the fox, Loopy the beaver, and Crong the green dinosaur!</info>
 </channel>
 
@@ -1673,7 +1384,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1713,7 +1424,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>RoboCar Poli (Korean Series)</name>
 <thumbnail>http://s19.postimg.org/z1wz3rjsz/robocarpoly_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/vh13kjf9f/robocarpoly_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/RobocarPoli.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/RobocarPoli.txt</externallink>
 <info>Robocar Poli is a South Korean animated children's television series created by RoiVisual. The series released its first episode on Educational Broadcasting System in 2011, and has aired for four seasons.</info>
 </channel>
 
@@ -1725,7 +1436,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1765,7 +1476,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>SpongeBob Square Pants</name>
 <thumbnail>http://s19.postimg.org/exn63dybn/Sponge_Bob_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/ewd89ywhv/Sponge_Bob_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/SpongeBob.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/SpongeBob.txt</externallink>
 <info></info>
 </channel>
 <!--
@@ -1773,7 +1484,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Super Wings</name>
 <thumbnail>http://s19.postimg.org/dcy2zwhkz/superwings_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gva2waigz/superwings_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/SuperWings.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/SuperWings.txt</externallink>
 <info>Super Wings is an animated cartoon series co-produced by South Korea's EBS and FunnyFlux Entertainment, China's QianQi Animation, and the United States' Little Airplane Productions.</info>
 </channel>
 -->
@@ -1781,7 +1492,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Tayo (Korean Series)</name>
 <thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Tayo.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tayo.txt</externallink>
 <info>Tayo the Little Bus is a South Korean computer-animated television series created by Iconix Entertainment and Educational Broadcasting System of Seoul. The show was produced with the help of Seoul mayor Oh Se-hoon's administration.</info>
 </channel>
 
@@ -1789,7 +1500,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Thundercats</name>
 <thumbnail>https://s19.postimg.org/cammorooz/thundercats_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/43umx6ymb/thundercats_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/ThunderC.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/ThunderC.txt</externallink>
 <info>ThunderCats is an American animated series based on a group of cat-like humanoid aliens. The show was created by Tobin "Ted" Wolf and animated by Japanese animation studio Pacific Animation Corporation.</info>
 </channel>
 
@@ -1797,7 +1508,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Timmy Time</name>
 <thumbnail>http://s19.postimg.org/r6gvxfe4j/timmy_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/izow5uo1v/timmy_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Timmy.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Timmy.txt</externallink>
 <info>Timmy is a little lamb with a lot to learn as he heads off to nursery school. An "only lamb," he's had his own way most of the time, and he hasn't had to consider other people's feelings or share. But when he goes to Nursery, a cozy little school in an old farm building nestled in rolling hills, Timmy will have to learn to take others' feelings into account. Harriet Heron and Osbourne Owl, who run Nursery, make sure Timmy and his schoolmates stay on track as they paint, sing, play and learn together each day</info>
 </channel>
 
@@ -1805,7 +1516,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Tobot (Korean Series)</name>
 <thumbnail>http://s19.postimg.org/f6517im83/Tobot_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Tobot_00Mainpage.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tobot_00Mainpage.txt</externallink>
 <info>Tobot is a South Korean animated television series produced by Young Toys and Retrobot. The series features transforming cars and some of them are designed after Kia Motors vehicles.</info>
 </channel>
 
@@ -1813,7 +1524,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>Voltron - Defender of the Universe</name>
 <thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Voltron.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Voltron.txt</externallink>
 <info>Voltron: Defender of the Universe is an American animated television series that features a team of astronauts who pilot a giant Super Robot known as "Voltron"</info>
 </channel>
 
@@ -1821,7 +1532,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]T[/COLOR][COLOR red]O[/COLOR][COLOR lime]K[/COLOR][COLOR green]U[/COLOR][COLOR silver]S[/COLOR][COLOR yellow]A[/COLOR][COLOR blue]T[/COLOR][COLOR greenyellow]S[/COLOR][COLOR salmon]U [/COLOR][COLOR skyblue]H[/COLOR][COLOR red]E[/COLOR][COLOR violet]R[/COLOR][COLOR orange]O[/COLOR][COLOR silver]E[/COLOR][COLOR blue]S [/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>https://s19.postimg.org/jfk28ivur/tokusatsu_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/p2gf5zydf/tokusatsu_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/00_FootNote/footnote.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/00_FootNote/footnote.txt</externallink>
 <info>Tokusatsu (特撮?) is any Japanese live-action film or television drama that features considerable use of special effects (tokusatsu literally translates as "special filming" in Japanese).
 Tokusatsu entertainment often deals with science fiction, fantasy or horror, but movies and television shows in other genres can sometimes count as tokusatsu as well. The most popular types of tokusatsu include kaiju monster movies like the Godzilla and Gamera film series; superhero TV serials such as the Kamen Rider and Metal Hero; and mecha series like Giant Robo. Some tokusatsu television programs combine several of these subgenres, for example the Ultraman and Super Sentai series.
 Tokusatsu is one of the most popular forms of Japanese entertainment, but most tokusatsu movies and television programs are not widely known outside Asia.</info>
@@ -1831,7 +1542,7 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 <name>Garo</name>
 <thumbnail>https://s19.postimg.org/pnbat3hz7/garo_makairetsuden_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c54egt5tv/garo_makairetsuden_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/05_Garo/Garo.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/05_Garo/Garo.txt</externallink>
 <info></info>
 </channel>
 
@@ -1839,7 +1550,7 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 <name>Ultraman</name>
 <thumbnail>https://s19.postimg.org/yrxqrm1tv/ultraman_thumb.png</thumbnail>
 <fanart>https://s19.postimg.org/otcs54seb/ultraman_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/05_Ultraman/00_ultra_mainpage.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/05_Ultraman/00_ultra_mainpage.txt</externallink>
 <info></info>
 </channel>
 
@@ -1847,7 +1558,7 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 <name>Space Sheriff Gavan / Sharivan / Shaider</name>
 <thumbnail>https://s19.postimg.org/6x3grxyv7/gaban_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/56kfqghc3/gavan_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/05_Gaban/00_home_gaban.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/05_Gaban/00_home_gaban.txt</externallink>
 <info></info>
 </channel>
 
@@ -1855,7 +1566,7 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 <name>Kamen Rider</name>
 <thumbnail>https://s19.postimg.org/ysh4oei83/kamen_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/05_KRider/00_krider_mainpage.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/05_KRider/00_krider_mainpage.txt</externallink>
 <info>Kamen Rider (仮面ライダー Kamen Raidā?, Masked Rider) is a tokusatsu superhero television series and weekly science fiction manga created by manga artist Shotaro Ishinomori. It debuted on television on April 3, 1971, and ran until February 10, 1973, airing on the Mainichi Broadcasting System and NET TV (now TV Asahi)</info>
 </channel>
 
@@ -1869,7 +1580,7 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 
 <item>
 <title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
+<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
 <thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
 <fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
 <item>
@@ -1903,13 +1614,35 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 <info></info>
 </channel>
 
-
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR orange]V[/COLOR][COLOR red]I[/COLOR][COLOR lime]D[/COLOR][COLOR green]E[/COLOR][COLOR silver]O [/COLOR][COLOR yellow]G[/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]M[/COLOR][COLOR salmon]E[/COLOR][COLOR skyblue]S [/COLOR][COLOR red]M[/COLOR][COLOR violet]O[/COLOR][COLOR orange]V[/COLOR][COLOR silver]I[/COLOR][COLOR blue]E [/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>http://s19.postimg.org/4yn1w3xkz/videogames_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/hora975j7/videogames_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/06_VGamesMov/subhome_videogames.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/06_VGamesMov/videogames_01_lego.txt</externallink>
 <info>Animasi dari permainan video popular (PS3, XBOX, WII, PC) dijadikan dalam bentuk cerita animasi</info>
+</channel>
+
+<channel>
+<name>Lego Movie</name>
+<thumbnail>http://s19.postimg.org/70njacvk3/legogames_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/4x8ioy6df/legogames.png</fanart>
+<externallink>hhttps://raw.githubusercontent.com/nashadi79/listmyanimasi/master/06_VGamesMov/videogames_01_lego.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Minecraft Movie</name>
+<thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/06_VGamesMov/videogames_02_minescraft.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>PS3/XBOX/PC Games Movie</name>
+<thumbnail>https://s19.postimg.org/gcqjmkmdf/vidgames.jpg</thumbnail>
+<fanart>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/06_VGamesMov/videogames_03_gamer.txt</externallink>
 </channel>
 
 </channels>
