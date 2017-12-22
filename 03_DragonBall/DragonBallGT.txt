@@ -1,0 +1,448 @@
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvRHBTaXZoSVN6d0E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvTmQ5VzNrdmp1TjQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvUkVucVRzZksyRDg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvNE9CRU1HVllYUEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvdUdJdWhQRC1kSW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvd0NxUHdraW9ya2M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBva1h2UzJXYWtkREE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvUk53RU00UFhvMTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvRDUxRXp1alNLS2c/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvd0o2d0NTRHE1ZjQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvN1hSQnAyakQ4eW8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvSlpQUTV5aVdLcjA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvQUJUcTRoLU9UeEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvMDFOdTgzc2pVeEk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvTGRaOXByRnp4UE0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 16[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvdlVOdjVEalprUEE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 17[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvcXlsNUU0eU9HX0k/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 18[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvVG5hV0xSUlhLbkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 19[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvN1FVQmF3cjdjamM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 20[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvQnhBUFk0TlQ5T2s/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 21[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBveThjLXNYN21Rdjg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 22[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvWUxZWFF0X3FORXc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 23[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvckROLWJNOEkwRmM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 24[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvaVFMcWtuMTdFRjQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 25[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvWkd6R0ZBWnd6SkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 26[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvSnRrUzVRU21LMkE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 27[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvSW9DU1NzSFdHZTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 28[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvTGdlSmRPT3pyTm8/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 29[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvdzBlMDhoR2VBVUk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 30[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvcW5KSEJSd3drX1k/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 31[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvOTJPS2RXX3JpQVU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 32[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvU2F3OEZBcjVVN0k/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 33[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvQ2N3REl3ZDRxS2M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 34[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvMG9ManJQa1F2NFE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 35[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvQzFmdFJVYmNHNFE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 36[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvWWh1MUtVRVpPUXc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 37[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBva0pWOWo4N1dtOTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 38[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvMXJFN3dTb0gyaE0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 39[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvOVlIQTJULW5DSUE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 40[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvUXBXck81SEFLWWc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 41[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvS2NaU21rRTNnVkU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 42[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvX0NZQ3BKaXFVSVE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 43[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvMlF2bWdLUk56dms/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 44[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBveTBGV2txTlFZTTA/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 45[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvdTVwRlNFLWNfUHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 46[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvZ0YxY3lrWVNXa28/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 47[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvWVcyNS1ibXE5d00/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 48[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvbENMTW56eDBpazg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 49[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvdlFldEg4NGlKUnM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 50[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvVVRNQUZ1dW9rTTQ/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 51[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvT1VWRDJsN19XWE0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 52[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvUUF2Z0NaLWNsWEk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 53[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvbV9YLTBCVkh0UTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 54[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvd29oQjg3UW1Ienc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 55[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvNFNFRnZYek5nTUE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 56[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvLTQ0ckJjQXJZakk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 57[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvbGtRdHYyZzR4eHc/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 58[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvUFNfTnkwdEJOUTg/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 59[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvQ3BoRXpJZWY2d2M/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 60[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvSnpYcDBhYTI3dlE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 61[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBveWNXNFdNaFZaOGM/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 62[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvQl9DNFdSRXJtVEk/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 63[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBva2tORFhrZWt1dVE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Dragon Ball GT[/COLOR] - [COLOR silver]Ep 64 (END)[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/0B2rSlxuC-EBvM2tKQndweXlWbUE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
+</item>
+

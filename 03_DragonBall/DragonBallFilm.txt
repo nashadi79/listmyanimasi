@@ -1,0 +1,196 @@
+<item>
+<title>[COLOR green]Dragon Ball Movie 01[/COLOR] - [COLOR yellow] The Dead Zone [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/MgVZ2KDPZnDka</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 02[/COLOR] - [COLOR yellow] The World's Strongest [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/aWegZy8Xm8Wvg</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 03[/COLOR] - [COLOR yellow] The Tree Of Might [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/53QpdxMxr7nQ4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 04[/COLOR] - [COLOR yellow] Lord Slug[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/RqGZPj7zvRVe5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 05[/COLOR] - [COLOR yellow] Cooler's Revenge [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/4AmvQja2xn7xm</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 06[/COLOR] - [COLOR yellow] The Return of Cooler [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/k3rg7k2aLjMKN</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 07[/COLOR] - [COLOR yellow] Super Android 13[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/62y8zLQ67YaNn</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 08[/COLOR] - [COLOR yellow]Broly - The Legendary Super Saiyan[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/MgVZM7w5v5Pap</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 09[/COLOR] - [COLOR yellow] Bojack Unbound! [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/MgVZddjDKaPZ7</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 10[/COLOR] - [COLOR yellow] Broly Second Coming[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/62y8QapX7KxA2</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 11[/COLOR] - [COLOR yellow] Bio Broly[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/MgVZ88daDDz2Q</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 12[/COLOR] - [COLOR yellow] Fusion Reborn [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/DkzZq8wL8Y26y</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 13[/COLOR] - [COLOR yellow] Wrath Of The Dragon [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/WwzgYZYvyNGVm</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 14[/COLOR] - [COLOR yellow]Battle of Gods[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/MgVZ8VB8Kyqg4</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Movie 15[/COLOR] - [COLOR yellow]Resurrection F[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/VvAZp66v7ndRg</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball OVA 03[/COLOR] - [COLOR yellow]Episode Of Bardock[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/gWpg5d2GmMzgn</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball OVA 02[/COLOR] - [COLOR yellow]Yo..Son Goku and His Friends Return[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/rZNVMZywp7Nw5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball OVA 01[/COLOR] - [COLOR yellow]Plan To Destroy The Saiyajins[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/VvAZpN58AYwGz</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Z Movie Special 2[/COLOR] - [COLOR yellow]The History Of Trunks[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/NGeZPvMAPkAW8</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Z Movie Special 1[/COLOR] - [COLOR yellow]Bardock Father of Goku[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/WwzgpgwY6xgpP</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball[/COLOR] - [COLOR yellow]Goku vs Luffy vs Toriko[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/q6XW2dx57v5Nx</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Special 1[/COLOR] - [COLOR yellow]Goku's Traffic Safety[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/aWegqerAZe7XA</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball Special 2[/COLOR] - [COLOR yellow]Goku's Fire Brigade[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/VvAZBKRpye7eR</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball GT The Movie[/COLOR] - [COLOR yellow]A Heroes Legacy[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/xqGYAnzzBD7M5</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball (Kid) Movie 4 [/COLOR] - [COLOR yellow] The Path to Power [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/BzBZjYM84WGwK</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball (Kid) Movie 3[/COLOR] - [COLOR yellow] Mystical Adventure [/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/gWpgRvqDKgw4P</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball (Kid) Movie 2[/COLOR] - [COLOR yellow]Sleeping Princess in Devil's Castle[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/p3xNA2deB4LBe</page><referer></referer></regex>
+</item>
+<item>
+<title>[COLOR green]Dragon Ball (Kid) Movie 1[/COLOR] - [COLOR yellow]Curse of the Blood Rubies[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<regex><name>url</name><expres>downloadUrl":"(.*?)"</expres><page>http://www.solidfiles.com/v/WwzgxAwB5jdpk</page><referer></referer></regex>
+</item>
