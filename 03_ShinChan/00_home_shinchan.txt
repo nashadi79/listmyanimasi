@@ -7,7 +7,7 @@
 <name>[COLOR salmon]Crayon Shin Chan - Movie[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_ShinChan/ShinChanMovie.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_ShinChan/ShinChanMovie.txt</externallink>
 <info></info>
 </channel>
 
@@ -15,7 +15,7 @@
 <name>[COLOR violet]Crayon Shin Chan - Series[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_ShinChan/ShinChanSeries.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_ShinChan/ShinChanSeries.txt</externallink>
 <info></info>
 </channel>
 
