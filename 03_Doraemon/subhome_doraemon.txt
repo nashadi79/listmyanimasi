@@ -6,7 +6,7 @@
 <name>Doraemon Telemovie</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Doraemon/00dora_telemovie.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/00dora_telemovie.txt</externallink>
 <info></info>
 </channel>
 
@@ -14,7 +14,7 @@
 <name>Doraemon Series Page 01</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Doraemon/01dora_seriesUC.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/01dora_seriesUC.txt</externallink>
 <info></info>
 </channel>
 
@@ -22,7 +22,7 @@
 <name>Doraemon Series Page 02</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Doraemon/02dora_seriesUC.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/02dora_seriesUC.txt</externallink>
 <info></info>
 </channel>
 
@@ -30,7 +30,7 @@
 <name>Doraemon Series Page 03</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Doraemon/03dora_seriesGD.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/03dora_seriesGD.txt</externallink>
 <info></info>
 </channel>
 
@@ -38,7 +38,7 @@
 <name>Doraemon Series Page 04</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Doraemon/04dora_seriesSF.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/04dora_seriesSF.txt</externallink>
 <info></info>
 </channel>
 
