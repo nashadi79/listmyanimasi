@@ -6,7 +6,7 @@
 <name>Gundam Build Fighters</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Gundam/03_Gundam_BuildFighter.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/03_Gundam_BuildFighter.txt</externallink>
 <info></info>
 </channel>
 
@@ -14,7 +14,7 @@
 <name>Gundam Brave Battle Warrior</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Gundam/02_Gundam_BattleWarrior.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/02_Gundam_BattleWarrior.txt</externallink>
 <info></info>
 </channel>
 
@@ -22,7 +22,7 @@
 <name>Mobile Suit Gundam - Iron Blooded Orphans (Season 1)</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Gundam/01_Gundam_MobileSuit_IronBloodS1.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/01_Gundam_MobileSuit_IronBloodS1.txt</externallink>
 <info></info>
 </channel>
 
@@ -30,7 +30,7 @@
 <name>Mobile Suit Gundam - Unicorn RE0096</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Gundam/04_Gundam_Unicorn%20RE0096.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/04_Gundam_Unicorn%20RE0096.txt</externallink>
 <info></info>
 </channel>
 
@@ -38,7 +38,7 @@
 <name>Mobile Suit Gundam - Iron Blooded Orphans (Season 2)</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Gundam/06_Gundam_MobileSuit_IronBloodS2.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/06_Gundam_MobileSuit_IronBloodS2.txt</externallink>
 <info></info>
 </channel>
 
@@ -46,7 +46,7 @@
 <name>Gundam Build Fighters Try</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c7fn0nolf/gundam_fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_Gundam/05_Gundam_BuildFighterTRY.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Gundam/05_Gundam_BuildFighterTRY.txt</externallink>
 <info></info>
 </channel>
 
