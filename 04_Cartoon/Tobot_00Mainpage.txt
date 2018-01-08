@@ -6,7 +6,7 @@
 <name>Tobot (Season 1 - 19)</name>
 <thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Tobot_All.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tobot_All.txt</externallink>
 <info>credited to TOBOTYOUNGTOYS</info>
 </channel>
 
@@ -59,7 +59,7 @@
 <name>Tobot (Malay Dub) - Musim 1</name>
 <thumbnail>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/04_Cartoon/Tobot_S1Malay.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tobot_S1Malay.txt</externallink>
 <info>credited to TOBOTYOUNGTOYS</info>
 </channel>
 
