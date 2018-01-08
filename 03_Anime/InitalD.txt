@@ -25,11 +25,11 @@
 <fanart>http://s19.postimg.org/j15rcx0qr/initial_D_fanart.jpg</fanart>
 <link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPEN3M6mkKB0AjQtJLAfa2w</link>
 </item>
-
+<!--
 <item>
 <title>Inital D - Stage 5 (Play All)</title>
 <thumbnail>http://s19.postimg.org/f62dachkz/initial_D_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/j15rcx0qr/initial_D_fanart.jpg</fanart>
 <link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLU74sWt2P5-0d3WqYu6P6fJU_HiFXz2y1</link>
 </item>
-
+-->
