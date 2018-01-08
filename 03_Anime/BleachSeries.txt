@@ -10,7 +10,7 @@
    <thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="(.*?)".title="(.*?)"</expres>
-<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/List_BleachSeries.txt</page>
+<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/List_BleachSeries.txt</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
