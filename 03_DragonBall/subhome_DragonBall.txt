@@ -6,7 +6,7 @@
 <name>[COLOR orange]Dragon Ball Film[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_DragonBall/DragonBallFilm.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/DragonBallFilm.txt</externallink>
 <info>The Dragon Ball films are animated films made based on the Dragon Ball manga and its four animated TV series, Dragon Ball, Dragon Ball Z, Dragon Ball Super , and Dragon Ball GT.</info>
 </channel>
 
@@ -14,7 +14,7 @@
 <name>[COLOR red]Dragon Ball Super[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_DragonBall/DragonBallSuper.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/DragonBallSuper.txt</externallink>
 <info></info>
 </channel>
 
@@ -22,7 +22,7 @@
 <name>[COLOR yellow]Dragon Ball GT[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/q7a0s03wj/dragonballGT_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/mme58rzcz/dragonballGT_Fanart.png</fanart>
-<externallink>http://myanimasi.ares-project.com/03_DragonBall/DragonBallGT.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/DragonBallGT.txt</externallink>
 <info></info>
 </channel>
 
@@ -30,7 +30,7 @@
 <name>[COLOR lime]Dragon Ball Kai[/COLOR]</name>
 <thumbnail>https://s19.postimg.org/98x6dedvn/dragon_ball_z_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/5nwpgfjyb/dragon_ball_z_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/03_DragonBall/DragonBallKai.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/DragonBallKai.txt</externallink>
 <info></info>
 </channel>
 
