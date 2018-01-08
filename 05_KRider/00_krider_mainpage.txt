@@ -6,7 +6,7 @@
 <name>Compilations Kamen Rider Movie</name>
 <thumbnail>https://s19.postimg.org/ysh4oei83/kamen_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
-<externallink>http://myanimasi.ares-project.com/05_KRider/01_KRiderMov.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/05_KRider/01_KRiderMov.txt</externallink>
 <info></info>
 </channel>
 
