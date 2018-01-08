@@ -10,18 +10,11 @@
 <title>Rimba Racer - Meet The Racer (Play All)</title>
 <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PL8-CzRQDY1FKtsTe7mWwC-ohQaiDuISsI</link>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLlpGwobf4_XiMM60WxUyvBmEuO-dIgWpZ</link>
 </item>
 
 <item>
-<title>Rimba Racer - Promo Video</title>
-<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PL8-CzRQDY1FI_xlLS_L5vtAVOESfCF6kD</link>
-</item>
-
-<item>
-<title>[COLOR orange]Rimba Racer - Season 1[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR orange]Rimba Racer - Season 1 (Eng)[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -32,8 +25,28 @@
      <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
  ]]></listrepeat>
  <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL8-CzRQDY1FIJa6BzJp_rtW_Xx15czbdd</page>
- <referer>https://www.youtube.com/channel/UCR-Ko5lZgMSit2cprKSC8jQ</referer>
+ <page>https://www.youtube.com/playlist?list=PL6O2OkQby160iKnzW1NfAmXG0cfHTBdpx</page>
+ <referer>https://www.youtube.com/channel/UCPA6hhedN9EauPw916hSyvA</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Rimba Racer - Musim 1 (Malay)[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lime][makelist.param2][/COLOR]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
+     <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLlpGwobf4_Xjy2BTPKQ-YjPF3iiIG_4_l</page>
+ <referer>https://www.youtube.com/channel/UC_hIm8ZLBh-0zdvrkI0vR6w</referer>
  <cookieJar></cookieJar>
  </regex>
 <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
