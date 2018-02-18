@@ -26,6 +26,26 @@
 </item>
 
 <item>
+<title>Kompilasi Kids Noise Studio - [COLOR yellow]Sirah Nabi[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>https://i.ytimg.com/vi/mMiVvDSOv1M/mqdefault.jpg</thumbnail>
+     <fanart>https://i.ytimg.com/vi/mMiVvDSOv1M/mqdefault.jpg</fanart>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLjRdJy61VtucsxK_9WuYjExBQfu7g7k7C</page>
+ <referer>https://www.youtube.com/channel/UC8ujWl3o33tU7wQgC1kG4fw</referer>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://i.ytimg.com/vi/mMiVvDSOv1M/mqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/mMiVvDSOv1M/mqdefault.jpg</fanart>
+</item>
+
+<item>
 <title>Kompilasi Kids Noise Studio - Muslim Kids Learn Islam [COLOR lime]Play All[/COLOR]</title>
 <thumbnail>http://s19.postimg.org/cvltgh6mb/jombelajar_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/ojfvb0vr7/jombelajar_fanart.png</fanart>
