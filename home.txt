@@ -226,6 +226,14 @@
 </channel>
 
 <channel>
+<name>Aqil Story</name>
+<thumbnail>https://s19.postimg.org/xvyps6axf/aqil.png</thumbnail>
+<fanart>https://s19.postimg.org/skjt7gwkj/aqil-fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Aqil.txt</externallink>
+<info>Aqil Story is an excellent series to teach kids about morals and Islamic values in an entertaining way. The main character Aqil depicts how to live by the teachings of the Quran and Sunnah. His exemplary conduct would push kids to become better individuals and live a meaningful life.</info>
+</channel>
+
+<channel>
 <name>Boboi Boy The Series</name>
 <thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
@@ -852,7 +860,7 @@
 <info>Naruto Shippuden the Movie (劇場版NARUTO−ナルト− 疾風伝 Gekijōban Naruto Shippūden?) is the fourth overall in the Naruto film series and the first Naruto Shippuden film, directed by Hajime Kamegaki and written by Junki Takegami.</info>
 </channel>
 
-<channel>
+<channel><!--to check-->
 <name>Ninja Hattori</name>
 <thumbnail>https://s19.postimg.org/dojvbn077/ninjahatori_thb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/by0ua5io3/ninjahottori_fanart.png</fanart>
