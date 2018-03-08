@@ -119,172 +119,236 @@
 <items>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 1][/COLOR]</title>
+<title>[COLOR red]Ejen Ali Musim 2 (EP01) [/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Aj0EYAJFvHE</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP01) [/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FQXAVVhV6Fk</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP01) [/COLOR] - [COLOR orange] Misi : Akademi [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=omFYV9zbP10</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 1][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP02) [/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ILMnv-kstDw</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP02) [/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SbVYLTUWLFE</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP02) [/COLOR] - [COLOR orange] Misi : Orientasi [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vNF8ovvxxOQ</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Main [Bahagian 1][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP03) [/COLOR] - [COLOR orange] Misi : Main [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AMxU1bCvKsQ</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Main [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP03) [/COLOR] - [COLOR orange] Misi : Main [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hhiegS2MmeI</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Main [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP03) [/COLOR] - [COLOR orange] Misi : Main [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wyiR3pE1b2U</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : ANALOG [Bahagian 1][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP04) [/COLOR] - [COLOR orange] Misi : Analog [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zMPQ-CrVj40</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : ANALOG [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP04) [/COLOR] - [COLOR orange] Misi : Analog [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qC5wmpZomEs</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : ANALOG [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP04) [/COLOR] - [COLOR orange] Misi : Analog [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=upQ_HpcO-7E</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : CABAR [Bahagian 1][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP05) [/COLOR] - [COLOR orange] Misi : Cabar [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h4aeNRHIquc</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : CABAR [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP05) [/COLOR] - [COLOR orange] Misi : Cabar [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lMksHWqocag</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : CABAR [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP05) [/COLOR] - [COLOR orange] Misi : Cabar [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9cjq0VGPVg8</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : SUSU [Bahagian 1][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP06) [/COLOR] - [COLOR orange] Misi : Susu [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FDS9ev_NotY</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : SUSU [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP06) [/COLOR] - [COLOR orange] Misi : Susu [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q_Chhcgwcms</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : SUSU [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP06) [/COLOR] - [COLOR orange] Misi : Susu [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BGRAGH2ycfM</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 1][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP07) [/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H2BztsAdZTc</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP07)[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mXj6-JDeRFI</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP07)[/COLOR] - [COLOR orange]Misi : Kembali [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qR0ZiUUgl0I</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 1][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP08)[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tMGt7LSOH3M</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 2][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP08)[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 2][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gSTpf6b-ZMY</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<item>
+</item>
 
 <item>
-<title>[COLOR red]Ejen Ali Musim 2[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 3][/COLOR]</title>
+<title>[COLOR red] Ejen Ali Musim 2 (EP08)[/COLOR] - [COLOR orange] Misi : Tujuan [Bahagian 3][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gSTpf6b-ZMY</link>
 <thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
 <item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP09)[/COLOR] - [COLOR ]Misi : Peranan [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=msvW40agdew</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP09)[/COLOR] - [COLOR ]Misi : Peranan [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=orNFy6e4qmY</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP09)[/COLOR] - [COLOR ]Misi : Peranan [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2yPBRSuwj0M</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP10)[/COLOR] - [COLOR ]Misi : Atlas [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sV6wJmO29fs</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP10)[/COLOR] - [COLOR ]Misi : Atlas [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ysBh4lPhgRs</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP10)[/COLOR] - [COLOR ]Misi : Atlas [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zh8EHoEhA8U</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP11)[/COLOR] - [COLOR ]Misi : Harapan [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lBDJvg_cOEw</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP11)[/COLOR] - [COLOR ]Misi : Harapan [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WS62ixcW6_A</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP11)[/COLOR] - [COLOR ]Misi : Harapan [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YUsxsd3oa1U</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
 
 </items>
 <info></info>
