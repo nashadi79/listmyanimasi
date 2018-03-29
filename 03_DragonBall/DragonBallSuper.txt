@@ -13,21 +13,6 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball S<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 1[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkNjAwWElUSWNkU0k/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 2[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkQUpCN2xFck1RUDg/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
 <urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUlZwY3NtaVJXdW8/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
@@ -713,596 +698,212 @@
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
-uper[/COLOR] - [COLOR green]Ep 3[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUlZwY3NtaVJXdW8/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 4[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUUh5OGIzVDBySlE/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 5[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkVkxZWmx4Zms0LVk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 6[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkbC1ua1gzMUJSYkE/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 7[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkYmVsYjUwbTJKMGs/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 8[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkNGVBMHNyTFU3QXM/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 9[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkTTIyV3RTdjRLWUE/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 10[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkMEI3QWxUUWlnaHc/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 11[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkaUwtVGJwb01KdGs/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 12[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkVjRabXFpMHBwaFk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 13[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkZ1FkMTJYVFBRZzQ/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 14[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkWkFPSnpKZXUwRzg/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 15[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkLU9iTUJGRzRQSXM/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 16[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkaXgxYzFTOENqaEE/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 17[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkX01RX3ljWTRtcFE/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 18[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRXpFTHpfU0c5SUk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 19[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkeE5LU1NiU1dDSU0/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 20[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkR24zbVVGcGQtajA/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 21[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkSFJRZHM0WWE0clE/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 22[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkYVg4NnowQVZrZkk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 23[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkOVVleUc0UjVOREk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 24[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkdWVaaWNjWEQ1M0k/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 25[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkWDVqS3hPNThpSWM/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 26[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkaXA0YlRCQjhQSHc/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 27[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkMWpwOFI5RW5LZ28/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 28[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkbHZRR1Q3TWo1NWM/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 29[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkQVBVZTgxdC1EWEU/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 30[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkb2lsVmdQSzZ0SkE/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 31[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkdmJPdGFDSzhvM2s/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 32[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkTmFkM3JpbzBHTW8/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 33[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkSVFQM2JlVWNhNG8/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 34[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkTl9wazVMQ2RzZTA/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 35[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkalJLTERuczJoRm8/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 36[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkTFlERzJEa25wZjQ/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 37[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkdV9yLWRDZFRtWms/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 38[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRnVuSDJqS0ZiTms/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 39[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkTU9SUDRkRExtSlk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 40[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkY1dGMklDdGNHenc/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 41[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkNE5rUG5iS2wxMzg/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 42[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkcDlvcUZEVHh2ckk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 43[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkeXhzSXJLa3RKRmc/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 44[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkb2ZsbUxGOE1KYzg/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 45[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRHREWTdmaU9fLXM/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 46[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkVGt6QXIwZ05xcms/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 47[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkZFJOUHhrOVVOX0k/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 48[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkZjVwOEpPZ0tacUU/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 49[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkZkR0TzdlbU53ekk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 50[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUGwwQXZXcWp5cDQ/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 51[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkdnJfYl94RHR6TWc/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 52[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkak4ybDVVX3BkOGs/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 53[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkd2xjZ0xJU0d4am8/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 54[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRElGOE5CcHYtbGc/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 55[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkNFF3aEJER3Rvdkk/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 56[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkS05kbk9OVU1RdTQ/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 57[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkOWpaVkpLaW1FYUU/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
-</item>
-
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 58[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRHNZcUJJRy1LemM/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 101[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1iWIwlQ8MfEs3KmFebxbLiUc1MhhiSDbH/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 59[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkdGF5VTVWbzVJSU0/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 102[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1Hh9dl3e_ae7ix0bZLUZrMou-M3qXLbiT/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 60[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkc25taDViMDR1bnM/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 103[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1AUqADIf5gSlDmqcJ79uC0VsQYldZY36Z/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 61[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkSW1hMk1kMFQyR1k/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 104[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1_TCJbjPSz_56UDJCxp6FULgGg7AFmuV_/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 62[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkX21HbkdpcjBIdEU/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 105[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1bijlct4eyHav3wRJic9FpbAJpp4fGTHa/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 63[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkNVkyTzlFSGpoQXc/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 106[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/17suTkCnF6uJ9oRVNKxoE0H9JagOkSL11/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 64[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkQmdpbk1wNVcwRUk/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 107[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1EhoG3OI_B0gXjuOWSOP_Ct9mJmviDDJp/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 65[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUFNUbENyVGc4aVE/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 108[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/10WdWKpIh6t2YbfftAYTsCvv0D9EWCU6p/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 66[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkSGl3S2FkM3hlMk0/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 109-110[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1gkwowfo_8OVVpXmSKksY8-_r6CrCQ_Si/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 67[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUjl5bXRZQjdjNjA/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 111[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1Pjd29ajpfzJabDng2BalVQ4209Xm1PtW/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 68[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRmZMMEFrcVFSc3c/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 112[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1fEv8Zlj99JSLVMVhe6OjrSNw3EGCqpq7/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 69[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkVWRTanlsazZaSk0/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 113[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1cecj-onrDcQCLnU_3We_Scipsqb7r87u/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 70[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRmltWXVxVDhSOEk/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 114[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1djfWdZlNTe_b1Ln5BYCAprAohHJhS3P5/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 71[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkenRsYXdYbkdTUTg/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 115[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/19_B1wa_8H9l6sm6II-sXSBF8-AzlpFCu/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 72[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkZTIxOWV4ckZQbnM/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 116[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1SPYQAlyUZNF8--g2sruvHcCslMWRapIW/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 73[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkNnpiY2tmZ2E4emM/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 117[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1Z8cJoFXjZMY8JZzQURbILgtPU6Y8pbwq/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 74[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkSUZtX1pnTVVsOVE/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 118[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/19pUDaSAp6618MN9UXkVvl4ojvEGBGt6d/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 75[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkNzBGbGhJWlotVFk/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 119[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/10OB09m1d6uheeZtFM9J0LFd_Fm6WIM91/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 76[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUDlLcFp3VXFJbjg/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 120[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1FFAcxJ7Y52eYGuadjwgnwz8AgxQ-qjkH/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 77[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkMzVLX0FuZ1VHTm8/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 121[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1NJ-fO6eNotY6mMnt1_isNIkYOcFHNqNH/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 78[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkc3BiV0djRDRaOUE/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 122[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1MadDb7h9j8ud8C-wsMLXHaV7cATgwZhE/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 79[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkaXI5b2M2aHRkSUk/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 123[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/11loe6wR6dZwohpK-axGnwIiIz9nTInz0/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 80[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkQWsyLVdtVFZXalU/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 124[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1_gBk0uc365rJCjz_ibizIL44K63iv9PB/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 81[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkMnpOS3hZSlZ5ZHM/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 125[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1VB5WwrDn43Ve9bVQxTrzFnhzcc3QJH2I/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 82[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRmhZdUNXekZRYTA/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 126[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1pKWqnkGGEhCUHARcMLLhHJInLzFVTP-u/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 83[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkRUxrWnZscHFQMkE/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 127[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1dCqlgwgNH9BZejeLW1UNDEsL2garE30W/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 84[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkTFAtbHZRWUFYMGM/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 128[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/13ncoEkwB4dbtHJnNCMWAXm0c6TvBVRgE/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 85[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkUnhZdExnbU5IY2M/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 129[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1SXUrPJJ2JY9rkQnv0iPY5EKf25DSyrTK/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 86[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkaDZYUjJCT2lwd1E/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 130[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1EnPSd0fFq5jeG8MCTjuS4YXcT0fU7BFX/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR green]Ep 87[/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/0B87_2ZcUBajkZ1NGY1FQTnB0SGM/view?usp=sharing</urlsolve>
+<title>[COLOR yellow]Dragon Ball Super[/COLOR] - [COLOR lime]Ep 131[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1PSsboB450U9nghkfnRCdtOtNHkYoPUNV/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/bm5xcxdj7/dragon_ball_super_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/xk2e6psjn/dragon_ball_super_fanart.jpg</fanart>
 </item>
