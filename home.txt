@@ -805,6 +805,14 @@
 </channel>
 
 <channel>
+<name>Digimon</name>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Digimon/sub_Digimon.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
 <name>Doraemon</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
@@ -1145,14 +1153,6 @@
  </item>
 
 </items>
-<info></info>
-</channel>
-
-<channel>
-<name>Digimon</name>
-<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Digimon/sub_Digimon.txt</externallink>
 <info></info>
 </channel>
 
