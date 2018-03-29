@@ -1,0 +1,21 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR orange]Digimon Adventure 1[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Digimon/02_Digimon_AvdS1.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR orange]Digimon Tamers[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Digimon/01_Digimon_Tamers.txt</externallink>
+<info></info>
+</channel>
+
+</channels>

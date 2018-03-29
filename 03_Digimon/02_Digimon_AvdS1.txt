@@ -1,0 +1,378 @@
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 1[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1kh6FQvb3SzwNd_peoYe3qYqfs3JUxamp/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 2[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/10RzdJhjh-w-otH13633RLOWn6zySnAt5/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 3[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1-1pdrsnUJgDIG_AuWEsyQwzxNrKxG6DT/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 4[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1IOZOK4L18-8EuAco3quYFD2em1UfELX3/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 5[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1KScrf-yqBLI64YQn0ll9kBV9-HhGgjSz/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 6[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1Z-4w1LQyNbnnBEwDZHducs0UHOLre9q-/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 7[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/14MwJUBrRI3BOBth5OeULqBql7nst9wNv/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 8[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1uu4mRHGVEzr44t2DT-4IHF26VsLcRPpV/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 9[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1ur-TmgIoESbQtBbELcU1xdF_cmpncJy-/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 10[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1a_JEVMcnUNynVX2Nv27SQZrPuca2P2wG/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 11[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1bCvkIIuffjCz67vI10nS25HO5FX_-MDh/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 12[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1TVJpqyUNNfLCFtG6U4Sd74lLOG0IqAUi/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 13[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1JlyWovYEtOKgGOwmcXNDbLsfX09JjGTW/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 14[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1b1xdWUrGalUYeCczuxphztk4gLLHYfT5/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 15[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1ELwHUn55QgqR4YxWbCQkIqKdGCir5ElN/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 16[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1GRBEGmKNgpHvZxVwtXOPxwqmzzpQo36K/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 17[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1mUZhxb1uv_UBkNAGz_sJMMLLM3hR-iFw/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 18[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1S04SlQNVKjbc9aARxLh_8J_bJ_SH891A/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 19[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1y3n7T2DuGR3IUWi1e3HTmoqemvbefTWn/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 20[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1XO31_XUaDIiZv2beM_J_cVhf4W4xCh6E/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 21[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1sbhYvSnrXppf76PSDalQTSeebe9Mbuj9/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 22[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1RF38N5lvLsPcanHM8ZCm5wzob1kcEJJC/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 23[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1YsdSEiRrTsawUkivyHNuCLVojczBH12f/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 24[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1yNaDTZR5ahYti3NjbWBPUhjHJpo95JeH/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 25[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1E08hk7lpcSUvWBtWQJ-jn6oXmsPCsmZ_/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 26[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1L-tTKKjkevub15RnlQd3oSwD6iKp2vVX/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 27[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1pLcREhHHvMr-DR6JUfwhHMCW2SzcQgO7/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 28[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1GtA8DL-9f_V95uxxIsgbqHYPLHOlfhBj/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 29[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1axnt2LKbJBcx1sobY_J5hwVZrVDI5Ffl/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 30[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/125E9JkFlJDYStcM35UlRWGaDHihXWfW7/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 31[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1UHFx0AuJ68THhG_u-lrpOKjZTEdZNCgj/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 32[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1NNT5dSJIXwnIF9Gy52KGNQqFNQ9Utqwa/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 33[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1ooWbEKfgKVllpTbyxQug-bFMP30bHee0/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 34[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/13F_t4ssX8nGWNcmFb4CbAgUclh2uuvXE/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 35[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1Fctogn7TeBCNcVgBX3baD16jGNdxAVBr/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 36[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1UjUGMP4F2GsVmKn77oOlx3I65pP6WPKw/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 37[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1P8HRSB7Ozf0MVJtD2zhTOLRTDRdpgtuL/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 38[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1q4sK-zpJTHfaea2YVCLrwM3J2PyuKRQa/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 39[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/120_PckzPqLT7vznboDALYcoRGpwqCjcH/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 40[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1794ctfl49V3oKDupVfmkwoQ81d9qWHgi/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 41[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1xxSW50NCBNbrgLVcb0gjDBb70Z579ORp/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 42[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1ibH_kGlAJL0E25kJfC7GHwT_SrAPiAdv/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 43[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1okl36GjjFZGS4SAFmGaYd2dRGhte6ADd/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 44[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1tamubre3ey4aICZrVFywVX9bI3gqK8s_/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 45[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1ouX2BHxaCz0gw8vV7_CjC2Huc-SoxV-s/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 46[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1TUz6e6Ry49Uqm442hWMQR5fR6RUZ4Ldl/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 47[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1zCVzRaszpnahmoch9RS3YEEvlw40OLtz/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 48[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1ZfI6xZFUvuNy1a7tgTs5g9nPUn8JTs0o/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 49[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1L3ylF_niU_FQyLZrFbUAw2N5NyG9ajpP/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 50[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1DPMUPbxiiYyAWKK2Hs0liwsa8gF_mEuD/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 51[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1TtulB1_71VXI_y96yD-WXuMAPpUmRz-g/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 52[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1RwOdgW0rn8nu1Ihxe613nZ3UbDLCjqKU/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 53[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1Pmn7PahvKtiKE0pHi6LeYY-3Qf23IDF-/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Digimon Adventure S1[/COLOR] - [COLOR lime]Ep 54[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1GXaHDWs-nL0qYqH1AGFNn9ebHqXQqsXF/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
+</item>
+
