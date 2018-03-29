@@ -957,6 +957,14 @@
 </channel>
 
 <channel>
+<name>Pokemon</name>
+<thumbnail>https://s19.postimg.org/cf39x5zk3/pokemon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/4xph47kn7/pokemon_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Pokemon/subPokemonPage.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]A[/COLOR][COLOR violet]S[/COLOR][COLOR orange]I [/COLOR][COLOR red]L[/COLOR][COLOR violet]U[/COLOR][COLOR orange]A[/COLOR][COLOR silver]R [/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>http://s19.postimg.org/mj4fngef7/icon.png</thumbnail>
 <fanart>http://s19.postimg.org/7bog33mkj/fanart.jpg</fanart>
