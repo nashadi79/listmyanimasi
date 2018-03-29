@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR orange]Pokemon Movie[/COLOR]</name>
+<thumbnail>https://s19.postimg.org/cf39x5zk3/pokemon_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/4xph47kn7/pokemon_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Pokemon/01_PokeM_Movie.txt</externallink>
+<info></info>
+</channel>
+
+</channels>
