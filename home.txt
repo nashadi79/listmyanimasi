@@ -1554,7 +1554,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/SpongeBob.txt</externallink>
 <info></info>
 </channel>
-<!--
+
 <channel>
 <name>Super Wings</name>
 <thumbnail>http://s19.postimg.org/dcy2zwhkz/superwings_thumb.jpg</thumbnail>
@@ -1562,7 +1562,7 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/SuperWings.txt</externallink>
 <info>Super Wings is an animated cartoon series co-produced by South Korea's EBS and FunnyFlux Entertainment, China's QianQi Animation, and the United States' Little Airplane Productions.</info>
 </channel>
--->
+
 <channel>
 <name>Tayo (Korean Series)</name>
 <thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
