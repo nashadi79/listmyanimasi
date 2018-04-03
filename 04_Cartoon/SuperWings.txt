@@ -1,3 +1,4 @@
+<!--
 <item>
 <title>[COLOR orange]Superwings[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLHkrfgPTyGJY9TikxEC2EboP2L4J0auD8</link>
@@ -24,7 +25,7 @@
 <thumbnail>http://s19.postimg.org/dcy2zwhkz/superwings_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gva2waigz/superwings_fanart.jpg</fanart>
 </item>
-
+-->
 <!-- SuperWings Kumpul Bagi -->
 <item>
 <title>[COLOR red]Super Wings[/COLOR]</title>
