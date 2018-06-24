@@ -349,6 +349,47 @@
 <fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP12)[/COLOR] - [COLOR orange]Misi : Diez [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TLAuW3lZFuY</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP12)[/COLOR] - [COLOR orange]Misi : Diez [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Imv1d-5MvTA</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP12)[/COLOR] - [COLOR orange]Misi : Diez [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kq8COX-O_ac</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP13)[/COLOR] - [COLOR orange]Misi : Legasi [Bahagian 1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rsq-PXBmskk</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP13)[/COLOR] - [COLOR orange]Misi : Legasi [Bahagian 2][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EBsqmFBisgc</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] Ejen Ali Musim 2 (EP13)[/COLOR] - [COLOR orange]Misi : Legasi [Bahagian 3][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-6F8xutXTfk</link>
+<thumbnail>http://s19.postimg.org/nwhs6mg3n/ejenali_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+</item>
 
 </items>
 <info></info>
