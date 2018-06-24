@@ -40,7 +40,7 @@
         <thumbnail>/thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://k-bagi.com/Rasendriya/ongoing-super-wings-288317/list,1,3</page>
+<page>http://k-bagi.com/Josele89/super-wings-627333/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
  
