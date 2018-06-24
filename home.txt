@@ -1210,6 +1210,14 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 </channel>
 
 <channel>
+<name>Gravity Falls</name>
+<thumbnail>https://s19.postimg.cc/htk0uw4zn/gravityfall_fart.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/htk0uw4zn/gravityfall_fart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Gravityfall.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
 <name>Gazoon</name>
 <thumbnail>https://s19.postimg.org/itfh1p0w3/gazoon_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/97hb7nkcj/Gazoon_fanart.jpg</fanart>
