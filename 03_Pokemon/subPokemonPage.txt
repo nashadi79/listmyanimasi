@@ -29,7 +29,7 @@
         <thumbnail>/thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/ryndya/pokemon-best-wishes-389408/list,1,4</page>
+<page>http://k-bagi.com/ryndya/pokemon-best-wishes-389408/list,1,4</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -38,8 +38,8 @@
 import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
 
- ref = 'http://kbagi.com/' 
- url='http://kbagi.com[makelist.param1]'
+ ref = 'http://k-bagi.com/' 
+ url='http://k-bagi.com[makelist.param1]'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
             'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
  session = requests.Session()
@@ -48,17 +48,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nr = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
  nrj=json.loads(nr)
  nr = nrj['Content']
  r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
  data_a ={'__RequestVerificationToken': r2 , 'Username': 'demodemo' , 'Password' : 'adryanlist'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ nr1 = requests.post('http://k-bagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
  print nr1.headers['Set-Cookie']
  rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
  rv1['.ASPXAUTH_v2'] = rasp
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ nr3 = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
  r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
  print r3
  return r3
@@ -82,7 +82,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <thumbnail>/thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/ryndya/pokemon-best-wishes-season-2-389409/list,1,2</page>
+<page>http://k-bagi.com/ryndya/pokemon-best-wishes-season-2-389409/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -91,8 +91,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
 
- ref = 'http://kbagi.com/' 
- url='http://kbagi.com[makelist.param1]'
+ ref = 'http://k-bagi.com/' 
+ url='http://k-bagi.com[makelist.param1]'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
             'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
  session = requests.Session()
@@ -101,17 +101,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nr = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
  nrj=json.loads(nr)
  nr = nrj['Content']
  r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
  data_a ={'__RequestVerificationToken': r2 , 'Username': 'demodemo' , 'Password' : 'adryanlist'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ nr1 = requests.post('http://k-bagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
  print nr1.headers['Set-Cookie']
  rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
  rv1['.ASPXAUTH_v2'] = rasp
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ nr3 = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
  r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
  print r3
  return r3
@@ -135,7 +135,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <thumbnail>/thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/ryndya/pokemon-best-wishes-season-2-episode-n-389410/list,1,1</page>
+<page>http://k-bagi.com/ryndya/pokemon-best-wishes-season-2-episode-n-389410/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -144,8 +144,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
 
- ref = 'http://kbagi.com/' 
- url='http://kbagi.com[makelist.param1]'
+ ref = 'http://k-bagi.com/' 
+ url='http://k-bagi.com[makelist.param1]'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
             'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
  session = requests.Session()
@@ -154,17 +154,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nr = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
  nrj=json.loads(nr)
  nr = nrj['Content']
  r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
  data_a ={'__RequestVerificationToken': r2 , 'Username': 'demodemo' , 'Password' : 'adryanlist'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ nr1 = requests.post('http://k-bagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
  print nr1.headers['Set-Cookie']
  rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
  rv1['.ASPXAUTH_v2'] = rasp
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ nr3 = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
  r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
  print r3
  return r3
@@ -188,7 +188,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <thumbnail>/thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/ryndya/pokemon-best-wishes-season-2-episode-da-389411/list,1,1</page>
+<page>http://k-bagi.com/ryndya/pokemon-best-wishes-season-2-episode-da-389411/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -197,8 +197,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
 
- ref = 'http://kbagi.com/' 
- url='http://kbagi.com[makelist.param1]'
+ ref = 'http://k-bagi.com/' 
+ url='http://k-bagi.com[makelist.param1]'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
             'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
  session = requests.Session()
@@ -207,17 +207,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nr = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
  nrj=json.loads(nr)
  nr = nrj['Content']
  r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
  data_a ={'__RequestVerificationToken': r2 , 'Username': 'demodemo' , 'Password' : 'adryanlist'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ nr1 = requests.post('http://k-bagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
  print nr1.headers['Set-Cookie']
  rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
  rv1['.ASPXAUTH_v2'] = rasp
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ nr3 = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
  r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
  print r3
  return r3
@@ -241,7 +241,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <thumbnail>/thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/ryndya/pokemon-xy-389413/list,1,3</page>
+<page>http://k-bagi.com/ryndya/pokemon-xy-389413/list,1,3</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -250,8 +250,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
 
- ref = 'http://kbagi.com/' 
- url='http://kbagi.com[makelist.param1]'
+ ref = 'http://k-bagi.com/' 
+ url='http://k-bagi.com[makelist.param1]'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
             'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
  session = requests.Session()
@@ -260,17 +260,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nr = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
  nrj=json.loads(nr)
  nr = nrj['Content']
  r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
  data_a ={'__RequestVerificationToken': r2 , 'Username': 'demodemo' , 'Password' : 'adryanlist'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ nr1 = requests.post('http://k-bagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
  print nr1.headers['Set-Cookie']
  rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
  rv1['.ASPXAUTH_v2'] = rasp
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ nr3 = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
  r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
  print r3
  return r3
