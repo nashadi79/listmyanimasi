@@ -805,14 +805,6 @@
 </channel>
 
 <channel>
-<name>Digimon</name>
-<thumbnail>https://s19.postimg.org/cxgm00h7n/Digimon_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/dmzecd2bn/digimon_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Digimon/sub_Digimon.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>Doraemon</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
@@ -962,14 +954,6 @@
 <fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_OnePiece/subhome_OnePiece.txt</externallink>
 <info>One Piece (Japanese: ワンピース Hepburn: Wan Pīsu?) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's Weekly Shōnen Jump magazine since July 19, 1997, with the chapters collected into eighty-two tankōbon volumes to date. One Piece follows the adventures of Monkey D. Luffy, a young man whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his diverse crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world's ultimate treasure known as "One Piece" in order to become the next King of the Pirates.</info>
-</channel>
-
-<channel>
-<name>Pokemon</name>
-<thumbnail>https://s19.postimg.org/cf39x5zk3/pokemon_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/4xph47kn7/pokemon_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Pokemon/subPokemonPage.txt</externallink>
-<info></info>
 </channel>
 
 <channel>
@@ -1207,14 +1191,6 @@
 <info>Flash and Dash, is a 2007 Chinese animated series created by Auldey and based on their line of radio-controlled cars. The original series ran for 26 episodes and saw distribution in various countries across the world. There are two theme songs: the Chinese theme song is the original theme "Flash! Dash!" and the English version is the unleashed theme "Feel the Fire! Feel the Speed!" written by John Mitchell and Tom Keenlyside.
 An English version, created by Ocean Productions,began airing in the United Kingdom on Cartoon Network Too on November 7, 2009. The broadcast was produced in a partnership between Danbar, a company distributing the toyline in Europe, and Turner Media Innovations.
 The series received two followups, the 40-episode sequel Race-Tin: Flash and Dash 2 in 2007 and the 26 episode reboot Race-Tin: Flash and Dash S in 2012.</info>
-</channel>
-
-<channel>
-<name>Gravity Falls</name>
-<thumbnail>https://s19.postimg.cc/htk0uw4zn/gravityfall_fart.jpg</thumbnail>
-<fanart>https://s19.postimg.cc/htk0uw4zn/gravityfall_fart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Gravityfall.txt</externallink>
-<info></info>
 </channel>
 
 <channel>
@@ -1561,14 +1537,6 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <fanart>http://s19.postimg.org/ewd89ywhv/Sponge_Bob_fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/SpongeBob.txt</externallink>
 <info></info>
-</channel>
-
-<channel>
-<name>Super Wings</name>
-<thumbnail>http://s19.postimg.org/dcy2zwhkz/superwings_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/gva2waigz/superwings_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/SuperWings.txt</externallink>
-<info>Super Wings is an animated cartoon series co-produced by South Korea's EBS and FunnyFlux Entertainment, China's QianQi Animation, and the United States' Little Airplane Productions.</info>
 </channel>
 
 <channel>
