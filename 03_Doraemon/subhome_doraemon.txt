@@ -11,22 +11,6 @@
 </channel>
 
 <channel>
-<name>Doraemon Series Page 01</name>
-<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/01dora_seriesUC.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Doraemon Series Page 02</name>
-<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/02dora_seriesUC.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>Doraemon Series Page 03</name>
 <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
