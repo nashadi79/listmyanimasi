@@ -1532,27 +1532,11 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 </channel>
 
 <channel>
-<name>SpongeBob Square Pants</name>
-<thumbnail>http://s19.postimg.org/exn63dybn/Sponge_Bob_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/ewd89ywhv/Sponge_Bob_fanart.png</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/SpongeBob.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>Tayo (Korean Series)</name>
 <thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tayo.txt</externallink>
 <info>Tayo the Little Bus is a South Korean computer-animated television series created by Iconix Entertainment and Educational Broadcasting System of Seoul. The show was produced with the help of Seoul mayor Oh Se-hoon's administration.</info>
-</channel>
-
-<channel>
-<name>Thundercats</name>
-<thumbnail>https://s19.postimg.org/cammorooz/thundercats_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/43umx6ymb/thundercats_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/ThunderC.txt</externallink>
-<info>ThunderCats is an American animated series based on a group of cat-like humanoid aliens. The show was created by Tobin "Ted" Wolf and animated by Japanese animation studio Pacific Animation Corporation.</info>
 </channel>
 
 <channel>
