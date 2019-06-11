@@ -3,14 +3,6 @@
 <channels>
 
 <channel>
-<name>Space Sheriff Sharivan</name>
-<thumbnail>https://s19.postimg.org/6x3grxyv7/gaban_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/56kfqghc3/gavan_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/05_Gaban/01_sharivan.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>Kompilasi Gaban Movie</name>
 <thumbnail>https://s19.postimg.org/6x3grxyv7/gaban_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/56kfqghc3/gavan_fanart.jpg</fanart>
