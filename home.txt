@@ -104,21 +104,11 @@
 <channels>
 
 <channel>
-<name>[COLOR yellow][B] .-.-. [/B][/COLOR][COLOR yellow][B]Y[/B][/COLOR][COLOR red][B]O[/B][/COLOR][COLOR lime][B]U[/B][/COLOR][COLOR green][B]T[/B][/COLOR][COLOR yellow][B]U[/B][/COLOR][COLOR blue][B]B[/B][/COLOR][COLOR greenyellow][B]E [/B][/COLOR][COLOR salmon][B]C[/B][/COLOR][COLOR skyblue][B]O[/B][/COLOR][COLOR red][B]L[/B][/COLOR][COLOR violet][B]L[/B][/COLOR][COLOR orange][B]E[/B][/COLOR][COLOR yellow][B]C[/B][/COLOR][COLOR red][B]T[/B][/COLOR][COLOR lime][B]I[/B][/COLOR][COLOR green][B]O[/B][/COLOR][COLOR yellow][B]N[/B][/COLOR]E [/B][/COLOR][COLOR yellow][B] .-.-. [/B][/COLOR]</name>
+<name>[COLOR yellow][B] .-.-. [/B][/COLOR][COLOR yellow][B]Y[/B][/COLOR][COLOR red][B]O[/B][/COLOR][COLOR lime][B]U[/B][/COLOR][COLOR green][B]T[/B][/COLOR][COLOR yellow][B]U[/B][/COLOR][COLOR blue][B]B[/B][/COLOR][COLOR greenyellow][B]E [/B][/COLOR][COLOR salmon][B]C[/B][/COLOR][COLOR skyblue][B]O[/B][/COLOR][COLOR red][B]L[/B][/COLOR][COLOR violet][B]L[/B][/COLOR][COLOR orange][B]E[/B][/COLOR][COLOR yellow][B]C[/B][/COLOR][COLOR red][B]T[/B][/COLOR][COLOR lime][B]I[/B][/COLOR][COLOR green][B]O[/B][/COLOR][COLOR yellow][B]N[/B][/COLOR][COLOR yellow][B] .-.-. [/B][/COLOR]</name>
 <thumbnail>http://s19.postimg.org/7bog33mkj/fanart.jpg</thumbnail>
 <fanart>http://s19.postimg.org/7ljsd12bn/boboiboy_thumb.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_Filem%20Animasi/movies.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>MyAnimasi Collection</name>
-<thumbnail>http://s19.postimg.org/7r7fqejgj/my_animasi_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/dqv6u248z/my_animasi_fanart.jpg</fanart>
-<items>
-
 <item>
-<title>MyAnimasi (Youtube Channel)</title>
+<title>MYAnimasi on Youtube</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -135,10 +125,52 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-</items>
 <info></info>
 </channel>
+
+
+<!---Filem Animasi 02 Filem Animasi Malay Dub -->
+
+<channel>
+<name>[COLOR yellow][B] .-.-. [/B][/COLOR][COLOR yellow][B]F[/B][/COLOR][COLOR red][B]I[/B][/COLOR][COLOR lime][B]L[/B][/COLOR][COLOR green][B]E[/B][/COLOR][COLOR yellow][B]M [/B][/COLOR][COLOR blue][B]A[/B][/COLOR][COLOR greenyellow][B]N[/B][/COLOR][COLOR salmon][B]I[/B][/COLOR][COLOR skyblue][B]M[/B][/COLOR][COLOR red][B]A[/B][/COLOR][COLOR violet][B]S[/B][/COLOR][COLOR orange][B]I [/B][/COLOR][COLOR yellow][B] .-.-. [/B][/COLOR]</name>
+<thumbnail>http://s19.postimg.org/7bog33mkj/fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/7ljsd12bn/boboiboy_thumb.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_Filem%20Animasi/movies.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Filem Animasi List 1 ([COLOR orange]Malay[/COLOR][COLOR violet] Dub[/COLOR])</name>
+<thumbnail>http://s19.postimg.org/7bog33mkj/fanart.jpg<thumbnail>
+<fanart>http://s19.postimg.org/7ljsd12bn/boboiboy_thumb.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_Filem%20Animasi/movies.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Filem Animasi List 2 ([COLOR orange]YOU[/COLOR][COLOR violet]TUBE[/COLOR])</name>
+<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
+<items>
+
+<item>
+<title>Filem Animasi ([COLOR orange]YOU[/COLOR][COLOR violet]TUBE[/COLOR])</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CfYAloG8cY-pOh6ngzs44SE</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CfYAloG8cY-pOh6ngzs44SE".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
+</regex>
+<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
+</item>
 
 <!-- JUST FOR KIDS -->
 
@@ -157,7 +189,26 @@
 <items>
 
 <item>
-<title>Didi and Friends Official</title>
+<title>Lagu Didi and Friends</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CdJSff4Dp2Qq8hlI1d9fNde</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CdJSff4Dp2Qq8hlI1d9fNde".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
+</regex>
+<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Didi and Friends Official Youtube</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -169,11 +220,11 @@
    <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/user/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
+<page>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
 </regex>
 <thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-</item
+</item>
 
 </items>
 <info></info>
