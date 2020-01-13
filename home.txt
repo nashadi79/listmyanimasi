@@ -147,31 +147,6 @@
 <info></info>
 </channel>
 
-<channel>
-<name>Filem Animasi List 2 ([COLOR orange]YOU[/COLOR][COLOR violet]TUBE[/COLOR])</name>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>Filem Animasi ([COLOR orange]YOU[/COLOR][COLOR violet]TUBE[/COLOR])</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title> [makelist.param1]</title>
-   <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CfYAloG8cY-pOh6ngzs44SE</jsonrpc>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[playlist\?list=PLA8QYsDvh0CfYAloG8cY-pOh6ngzs44SE".*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
-</regex>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-</item>
-
 <!-- JUST FOR KIDS -->
 
 <channel>
@@ -196,7 +171,7 @@
 <listrepeat><![CDATA[
    <title> [makelist.param1]</title>
    <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CdJSff4Dp2Qq8hlI1d9fNde</jsonrpc>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CdJSff4Dp2Qq8hlI1d9fNde/</jsonrpc>
    <thumbnail></thumbnail>
    <fanart></fanart>
 ]]></listrepeat>
