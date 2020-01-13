@@ -1,4 +1,23 @@
 <item>
+<title>[COLOR green][B]MyAnimasi (Youtube Channel)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CfYAloG8cY-pOh6ngzs44SE/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CfYAloG8cY-pOh6ngzs44SE".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR silver]Boboi Boy The Movie[/COLOR] - [COLOR yellow][/COLOR]</title>
 <urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxaXhaWjJmeVk2LWc/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.org/4u14aydvn/boboiboythemovie_thumb.jpg</thumbnail>
