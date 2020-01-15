@@ -1,0 +1,84 @@
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Masak-Masak[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1vgbkTC34QG0C9X-obTzCDOptt-CGZJd8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Idola Misteri[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1GgNf7owWSG3bgPzlFJ7HA_CsDP1feTem/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Ngantuknya[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/18Px7Ycml2_7D6KQFPEO_TCdTUQjzhpRj/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Mana Rembo[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/16HW5exD_aVOSaD0HAMx_CjrqBDrCiQ55/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Pensel Ajaib[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1MW_rjbghXbIWEF1PI0uL3yq2WXhAXHZf/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Zoo Sayang[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1s8HY2SC3um5Jxdhrw4KBpLeRg33TsCYh/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Apa Benda Tu[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1f-IIS7Z5HJ_PfMb4b3in4PJWGJRzE0YJ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Untuk Prestasi[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1yXFACVVFweE9Jrpr1PfZxQQZB-5LGPVQ/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Aku Sebuah Buku[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/15AQcbE6OVx_aIgL_b61jF06tGA8exKYm/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Dah Besar[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1yd27GoExGrAbSg4BRVdt1TX_JDU5Z9le/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Kain Perca[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1_cz7x4T2xu-s9IQf71ZkMH6GGrYFWLl0/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin Musim 12[/COLOR] - [COLOR red]Tanya Sama Pokok[/COLOR]</title>
+<urlsolve>https://drive.google.com/file/d/1qpzCgjaIgqgHgBFRRxI7PXwcO753-t_8/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+

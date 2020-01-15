@@ -91,6 +91,22 @@
 </channel>
 
 <channel>
+<name>Upin Ipin Musim 12</name>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_UpinIpin/upin12.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Upin Ipin Musim 13</name>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_UpinIpin/upin13.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
 <name>Upin Ipin Series - Kembara Ke Pulau Harta Karun</name>
 <thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
 <fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
