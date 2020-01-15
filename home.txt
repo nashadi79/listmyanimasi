@@ -105,8 +105,8 @@
 
 <channel>
 <name>[COLOR yellow][B] .-.-. [/B][/COLOR][COLOR yellow][B]Y[/B][/COLOR][COLOR red][B]O[/B][/COLOR][COLOR lime][B]U[/B][/COLOR][COLOR green][B]T[/B][/COLOR][COLOR yellow][B]U[/B][/COLOR][COLOR blue][B]B[/B][/COLOR][COLOR greenyellow][B]E [/B][/COLOR][COLOR salmon][B]C[/B][/COLOR][COLOR skyblue][B]O[/B][/COLOR][COLOR red][B]L[/B][/COLOR][COLOR violet][B]L[/B][/COLOR][COLOR orange][B]E[/B][/COLOR][COLOR yellow][B]C[/B][/COLOR][COLOR red][B]T[/B][/COLOR][COLOR lime][B]I[/B][/COLOR][COLOR green][B]O[/B][/COLOR][COLOR yellow][B]N[/B][/COLOR][COLOR yellow][B] .-.-. [/B][/COLOR]</name>
-<thumbnail>http://s19.postimg.org/7bog33mkj/fanart.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7ljsd12bn/boboiboy_thumb.jpg</fanart>
+<thumbnail>https://i.postimg.cc/WpSNNz3D/fanart.jpg</thumbnail>
+<fanart>https://i.postimg.cc/dQn3T6HF/boboiboy-thumb.jpg</fanart>
 <item>
 <title>MYAnimasi on Youtube</title>
 <link>$doregex[makelist]</link>
