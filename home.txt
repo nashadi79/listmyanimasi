@@ -752,7 +752,26 @@
 <name>Chibi Maruko Chan</name>
 <thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/ChibiMaruko.txt</externallink>
+<items>
+<item>
+<title>[COLOR orange]Chibi Maruko Chan[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CckNv602-0xmcC7mzz3g8Ej/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CckNv602-0xmcC7mzz3g8Ej".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
+</regex>
+<thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9qh72qo77/chibimaruka_fanart.png</fanart>
+</item>
+</items>
 <info></info>
 </channel>
 
