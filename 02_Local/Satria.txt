@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR green]Satria 7 Pahlawan[/COLOR] - [COLOR silver][/COLOR]</title>
+<title>[COLOR green]Satria 7 Pahlawan[/COLOR] - [COLOR silver]on Youtube[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -16,3 +16,137 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkWFp1Z29ERld5RUU/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkd200OHZITHE1NXc/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 3[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkS2VZWGt4bnBZU1k/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 4[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkV2tQdjlySUxnelk/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 5[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkM1lrM0VEaXdZMzg/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 6[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkbnhZLVNmbTI3YVk/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 7[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkNmFZMlNyRWkyZWc/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 8[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkb05Wczd0SDhpTkE/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 9[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkNHlESGdlZi01b0U/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 10[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkUTJYTFBTYUtaNmM/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 11[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkelNsMU11S0YyNEU/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 12[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkeWhuS2lKQkJfcWc/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 13[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkcXB0R0ZXYWEzck0/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 14[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkWVJFdzlmNEpSTUU/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 15[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkLXlIejJLXzJhSVE/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 16[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkS1g2ODZuQ3pIX1k/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 17[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkZlM3THJoeElqbnM/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 18[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkWTd4VHNxdnFoVWs/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR silver]Satria - The Warriors of the 7 Elements[/COLOR] - [COLOR yellow]Ep 19[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B87_2ZcUBajkcHNMemJ1SXVlQ3c/preview</link>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<item>
+
