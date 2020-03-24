@@ -140,7 +140,7 @@
 </channel>
 
 <channel>
-<name>Filem Animasi List 1 ([COLOR orange]Malay[/COLOR][COLOR violet] Dub[/COLOR])</name>
+<name>Filem Animasi ([COLOR orange]Malay[/COLOR][COLOR violet] Dub[/COLOR])</name>
 <thumbnail>http://s19.postimg.org/7bog33mkj/fanart.jpg<thumbnail>
 <fanart>http://s19.postimg.org/7ljsd12bn/boboiboy_thumb.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_Filem%20Animasi/movies.txt</externallink>
@@ -154,54 +154,6 @@
 <thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/00_FootNote/footnote.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Didi and Friends</name>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>Lagu Didi and Friends</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title> [makelist.param1]</title>
-   <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CdJSff4Dp2Qq8hlI1d9fNde/</jsonrpc>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[playlist\?list=PLA8QYsDvh0CdJSff4Dp2Qq8hlI1d9fNde".*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
-</regex>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Didi and Friends Official Youtube</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title> [makelist.param2]</title>
-   <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
-</regex>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-</item>
-
-</items>
 <info></info>
 </channel>
 
@@ -261,6 +213,7 @@
 <info></info>
 </channel>
 
+<!--
 <channel>
 <name>Budak Besi</name>
 <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/BudakBesi/budak-besi-my-klik.jpg</thumbnail>
@@ -338,6 +291,7 @@
 <info>Dunia Eicak is a Malaysian animated series produced by Addeen Multimedia. The show's plot centers on a boy, nicknamed Eicak, who discovers 'friends' in the most unexpected world. Dunia Eicak is a 3D animation series about appreciating friends, practicing good values, even when sometimes all you really want to do is run away.
 </info>
 </channel>
+-->
 
 <channel>
 <name>Ejen Ali</name>
@@ -347,6 +301,23 @@
 <info></info>
 </channel>
 
+<channel>
+<name>Kampung Boy</name>
+<thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KgBoy.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Keluang Man</name>
+<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KeluangMan.txt</externallink>
+<info></info>
+</channel>
+
+<!--
 <channel>
 <name>GO-3 Elemental Wheel</name>
 <thumbnail>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</thumbnail>
@@ -433,22 +404,6 @@
 
 </items>
 <info>Impian REMI, an animated series by Tudidut Studio</info>
-</channel>
-
-<channel>
-<name>Kampung Boy</name>
-<thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KgBoy.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Keluang Man</name>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KeluangMan.txt</externallink>
-<info></info>
 </channel>
 
 <channel>
@@ -655,6 +610,7 @@
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Satria.txt</externallink>
 <info>Satria - The Warriors of the 7 Elements' story centers on boy Hang Tuah and follows the Satria, warriors of the seven elements, as they strive to save their princess Hang Li Po from the seven-member Suliman group who kidnapped her. The Satria are determined to avenge the death of their master, killed by the Suliman, and protect the sovereignty of Melaka.</info>
 </channel>
+-->
 
 <channel>
 <name>The Amazing Awang Khenit</name>
