@@ -1,19 +1,18 @@
 <item>
-<title>[COLOR blue]Kisah Zaman Dahulu[/COLOR] - [COLOR yellow][/COLOR]</title>
+<title>[COLOR lime]Kartun Lama[/COLOR] - [COLOR blue]Mesti Tengok[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
    <title> [makelist.param1]</title>
    <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0Ceg87FwXCBs_QZ4_O8MPC4N/</jsonrpc>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CeOjlJi-CBc9udy734Tq9rY/</jsonrpc>
    <thumbnail></thumbnail>
    <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[playlist\?list=PLA8QYsDvh0Ceg87FwXCBs_QZ4_O8MPC4N.*?>(.*?)<]]></expres>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CeOjlJi-CBc9udy734Tq9rY.*?>(.*?)<]]></expres>
 <page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
