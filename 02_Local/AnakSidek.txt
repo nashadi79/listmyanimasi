@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR silver]Anak Anak Sidek[/COLOR] - [COLOR yellow][/COLOR]</title>
+<title>[COLOR lime]Anak Anak Sidek[/COLOR] - [COLOR yellow][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
