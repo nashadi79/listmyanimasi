@@ -1,10 +1,10 @@
 <item>
-<title>[COLOR grreen]Kampung Boy[/COLOR] - [COLOR red][/COLOR]</title>
+<title>[COLOR green]Kampung Boy[/COLOR] - [COLOR red][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-   <title> [makelist.param1]</title>
+   <title>[COLOR lime] [makelist.param1][/COLOR]</title>
    <link>IgnoreMe</link>
    <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CfIzN3HQy9ZSDGL-hu2MBIX/</jsonrpc>
    <thumbnail></thumbnail>
