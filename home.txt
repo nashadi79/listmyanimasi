@@ -293,6 +293,7 @@
 <info></info>
 </channel>
 
+<!-- GDRIVE -->
 <channel>
 <name>Satria</name>
 <thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
@@ -317,217 +318,8 @@
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/UsopSonto.txt</externallink>
 <info></info>
 </channel>
-<!--
-<channel>
-<name>Budak Besi</name>
-<thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/BudakBesi/budak-besi-my-klik.jpg</thumbnail>
-<fanart>http://rtm-images.gluempsapp.com/1024x576/episode/BudakBesi/Budak%20Besi%20BG.jpg</fanart>
-<items>
 
-<item>
-<title>[COLOR yellow]Budak Besi[/COLOR]</title>
-<thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/BudakBesi/budak-besi-my-klik.jpg</thumbnail>
-<link>$doregex[makelist1]</link>
-
-<regex>
-<name>makelist1</name>
-<listrepeat><![CDATA[
-   <title>Budak Besi - [makelist1.param2]</title>
-   <link>$doregex[playpath]</link>
-   <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/BudakBesi/budak-besi-my-klik.jpg</thumbnail>
-]]></listrepeat>
-<expres>a href="(.*?)".*">(.*?)<.*</expres>
-<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/ListBudakBesi.txt</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>playpath</name>
-<expres>file="(.*?)"</expres>
-<page>[makelist1.param1]</page>
-</regex>
-</item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
-<name>Dunia Eicak</name>
-<thumbnail>https://s19.postimg.org/aaq1ec2ir/DuniaEicak_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/n0podol37/DuniaEicak.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Dunia Eicak[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPodkMGeg21mUrDTvCgDdOn</link>
-<thumbnail>https://s19.postimg.org/aaq1ec2ir/DuniaEicak_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/n0podol37/DuniaEicak.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Dunia Eicak[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/aaq1ec2ir/DuniaEicak_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/n0podol37/DuniaEicak.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtPodkMGeg21mUrDTvCgDdOn</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/aaq1ec2ir/DuniaEicak_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/n0podol37/DuniaEicak.jpg</fanart>
-</item>
-
-</items>
-<info>Dunia Eicak is a Malaysian animated series produced by Addeen Multimedia. The show's plot centers on a boy, nicknamed Eicak, who discovers 'friends' in the most unexpected world. Dunia Eicak is a 3D animation series about appreciating friends, practicing good values, even when sometimes all you really want to do is run away.
-</info>
-</channel>
-
-<channel>
-<name>GO-3 Elemental Wheel</name>
-<thumbnail>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</thumbnail>
-<fanart>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]GO-3 Elemental Wheel[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL_Br331M3f_6TNnI89YgQwG07ChbuJZPa</link>
-<thumbnail>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</thumbnail>
-<fanart>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]GO-3 Elemental Wheel[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</thumbnail>
-     <fanart>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL_Br331M3f_6TNnI89YgQwG07ChbuJZPa</page>
- <referer>https://www.youtube.com/channel/monsta</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</thumbnail>
-<fanart>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</fanart>
-</item>
-
-</items>
-<info>GO-3 Elemental Wheel, an animated series by Xevetor Sdn Bhd. In the year 2250, Planet Xevo has been weakened due to evil forces. To restore back the planet's strenght, Aeron, May and Dren must seek for the 9 Magical Crystal that carries the power that can save their planet</info>
-</channel>
-
-<channel>
-<name>Impian Remi</name>
-<thumbnail>http://www.monsta.com/img/animationspic/Animations-Impian%20Remi.jpg</thumbnail>
-<fanart>http://www.monsta.com/img/featuredanim/Animations-ImpianRemi-main.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Impian Remi[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL_Br331M3f_7YelvKOwGDSHLzmPG9kmy9</link>
-<thumbnail>http://www.monsta.com/img/animationspic/Animations-Impian%20Remi.jpg</thumbnail>
-<fanart>http://www.monsta.com/img/featuredanim/Animations-ImpianRemi-main.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Impian Remi[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://www.monsta.com/img/animationspic/Animations-Impian%20Remi.jpg</thumbnail>
-     <fanart>http://www.monsta.com/img/featuredanim/Animations-ImpianRemi-main.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL_Br331M3f_7YelvKOwGDSHLzmPG9kmy9</page>
- <referer>https://www.youtube.com/channel/monsta</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://www.monsta.com/img/animationspic/Animations-Impian%20Remi.jpg</thumbnail>
-<fanart>http://www.monsta.com/img/featuredanim/Animations-ImpianRemi-main.jpg</fanart>
-</item>
-
-</items>
-<info>Impian REMI, an animated series by Tudidut Studio</info>
-</channel>
-
-<channel>
-<name>Oko Lele</name>
-<thumbnail>http://tomatoanimation.com/wordpress/wp-content/uploads/2017/04/okolele_poster_horizontal.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/fVediosQGXg/maxresdefault.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Oko Lele[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL_Br331M3f_69nQQAwcX53PxaU9BLsq_b</link>
-<thumbnail>http://tomatoanimation.com/wordpress/wp-content/uploads/2017/04/okolele_poster_horizontal.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/fVediosQGXg/maxresdefault.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Oko Lele[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://tomatoanimation.com/wordpress/wp-content/uploads/2017/04/okolele_poster_horizontal.jpg</thumbnail>
-     <fanart>https://i.ytimg.com/vi/fVediosQGXg/maxresdefault.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL_Br331M3f_69nQQAwcX53PxaU9BLsq_b</page>
- <referer>https://www.youtube.com/channel/monsta</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://tomatoanimation.com/wordpress/wp-content/uploads/2017/04/okolele_poster_horizontal.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/fVediosQGXg/maxresdefault.jpg</fanart>
-</item>
-
-</items>
-<info>Oko Lele, an animated series by Metal Brain Studio</info>
-</channel>
-
+<!--Youtube Channel Subscribe-->
 <channel>
 <name>Omar dan Hana</name>
 <thumbnail>https://i.ytimg.com/vi/U7Ro_u1YaFs/hqdefault_live.jpg</thumbnail>
@@ -535,37 +327,22 @@
 <items>
 
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Omar dan Hana[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6</link>
-<thumbnail>https://i.ytimg.com/vi/U7Ro_u1YaFs/hqdefault_live.jpg</thumbnail>
-<fanart>https://s3-ap-southeast-1.amazonaws.com/ams-data-bucket/production/images/omarhana.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Omar dan Hana[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR lime]Kisah Omar dan Hana[/COLOR] - [COLOR red]by Omar and Hana Youtube Channel[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://i.ytimg.com/vi/U7Ro_u1YaFs/hqdefault_live.jpg</thumbnail>
-     <fanart>https://s3-ap-southeast-1.amazonaws.com/ams-data-bucket/production/images/omarhana.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6</page>
- <referer>https://www.youtube.com/channel/UCiZL26ScfRZDdEAkkPJgJbA</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://i.ytimg.com/vi/U7Ro_u1YaFs/hqdefault_live.jpg</thumbnail>
-<fanart>https://s3-ap-southeast-1.amazonaws.com/ams-data-bucket/production/images/omarhana.jpg</fanart>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLyGEmW7O18z0cfPmjI8xgShs4Z0gklpVh/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLyGEmW7O18z0cfPmjI8xgShs4Z0gklpVh.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCiZL26ScfRZDdEAkkPJgJbA/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 </items>
@@ -573,35 +350,29 @@
 </channel>
 
 <channel>
-<name>Puteri Delima Sakti</name>
-<thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/PuteriDelimaSakti/s3/e4/PuteriDelimaSakti-s3-e4-thumbnail.jpg</thumbnail>
-<fanart>http://rtm-images.gluempsapp.com/1024x576/episode/PuteriDelimaSakti/s3/Screen%20Shot%202016-12-12%20at%204.40.03%20PM.png</fanart>
-<items>
+<name>BeyBlade Burst</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
 
 <item>
-<title>[COLOR yellow]Puteri Delima Sakti[/COLOR]</title>
-<thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/PuteriDelimaSakti/s3/e4/PuteriDelimaSakti-s3-e4-thumbnail.jpg</thumbnail>
-<link>$doregex[makelist1]</link>
-
+<title>[COLOR silver]BeyBlade Burst[/COLOR] - [COLOR yellow]by MONSTA[/COLOR]</title>
+<link>$doregex[makelist]</link>
 <regex>
-<name>makelist1</name>
+<name>makelist</name>
 <listrepeat><![CDATA[
-   <title>Puteri Delima Sakti - [makelist1.param2]</title>
-   <link>$doregex[playpath]</link>
-   <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/PuteriDelimaSakti/s3/e4/PuteriDelimaSakti-s3-e4-thumbnail.jpg</thumbnail>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL_Br331M3f_6Qubu43oBi9k4YAh4A7mWb/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
 ]]></listrepeat>
-<expres>a href="(.*?)".*">(.*?)<.*</expres>
-<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/List_PuteriDelSak.txt</page>
-<cookieJar></cookieJar>
+<expres><![CDATA[playlist\?list=PL_Br331M3f_6Qubu43oBi9k4YAh4A7mWb.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCfqDvjXc2jbAzaeqlIggkkg/playlists</page>
 </regex>
-<regex>
-<name>playpath</name>
-<expres>file="(.*?)"</expres>
-<page>[makelist1.param1]</page>
-</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
-</items>
 <info></info>
 </channel>
 
@@ -612,44 +383,27 @@
 <items>
 
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Saladin: The Animated Series[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtN8w_2K_BJ2SqNB7X7HQAYD</link>
-<thumbnail>https://s19.postimg.org/ov7495xhf/saladin_fanart.jpg</thumbnail>
-<fanart>https://s19.postimg.org/c52vw2pj7/saladin_thumb.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Saladin: The Animated Series[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR yellow]Animasi Saladin[/COLOR] - [COLOR blue][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/ov7495xhf/saladin_fanart.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/c52vw2pj7/saladin_thumb.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtN8w_2K_BJ2SqNB7X7HQAYD</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/ov7495xhf/saladin_fanart.jpg</thumbnail>
-<fanart>https://s19.postimg.org/c52vw2pj7/saladin_thumb.jpg</fanart>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLAerzc2LVOtN8w_2K_BJ2SqNB7X7HQAYD/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLAerzc2LVOtN8w_2K_BJ2SqNB7X7HQAYD.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 </items>
 <info>Saladin ialah sebuah projek animasi yang diilhamkan daripada riwayat Salah Al-Din Yusuf Ibni Ayub, wira Islam yang menyatukan para Muslimin menghadapi Perang Salib pada abad ke-12.</info>
 </channel>
-
--->
 
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]E[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
