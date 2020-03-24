@@ -222,14 +222,6 @@
 </channel>
 
 <channel>
-<name>Jom Belajar</name>
-<thumbnail>http://s19.postimg.org/cvltgh6mb/jombelajar_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/ojfvb0vr7/jombelajar_fanart.png</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/01_KidsChannel/JomBelajar.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]A[/COLOR][COLOR violet]S[/COLOR][COLOR orange]I [/COLOR][COLOR red]T[/COLOR][COLOR yellow]E[/COLOR][COLOR red]M[/COLOR][COLOR lime]P[/COLOR][COLOR green]A[/COLOR][COLOR yellow]T[/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
 <thumbnail>http://s19.postimg.org/mj4fngef7/icon.png</thumbnail>
 <fanart>http://s19.postimg.org/7bog33mkj/fanart.jpg</fanart>
