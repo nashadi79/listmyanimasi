@@ -1,6 +1,5 @@
-<!-- YOUTUBE Omar & Hana - Lagu Kanak-Kanak Islam -->
 <item>
-<title>[COLOR orange]Kompilasi Lagu Islamik- Omar dan Hana[/COLOR]</title>
+<title>[COLOR silver]Kompilasi Lagu Omar dan Hana[/COLOR] - [COLOR yellow]Islamik Song[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -11,16 +10,15 @@
    <thumbnail></thumbnail>
    <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[playlist\?list=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6".*?>(.*?)<]]></expres>
+<expres><![CDATA[playlist\?list=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6.*?>(.*?)<]]></expres>
 <page>https://www.youtube.com/channel/UCiZL26ScfRZDdEAkkPJgJbA/playlists</page>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://1.bp.blogspot.com/-1ZPF9zmtGo8/WUcIrXiQ0hI/AAAAAAAASCs/keVVxBzH9Y4C-g8t5R_8UMS8pJVPcGTzwCLcBGAs/s1600/Official-Poster-Main-Sama-Sama.png</thumbnail>
+<fanart>https://d3avoj45mekucs.cloudfront.net/astrogempak/media/3gadismanis_images/omar.jpg</fanart>
 </item>
 
-<!-- YOUTUBE Omar & Hana - Lagu Kanak-Kanak Islam -->
 <item>
-<title>[COLOR orange]Kompilasi Lagu English - Omar dan Hana[/COLOR]</title>
+<title>[COLOR silver]Kompilasi Lagu Omar dan Hana[/COLOR] - [COLOR yellow]English Song[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -31,164 +29,257 @@
    <thumbnail></thumbnail>
    <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[playlist\?list=PLyGEmW7O18z3L5ACpaexEs0bT-a1fHT4B".*?>(.*?)<]]></expres>
+<expres><![CDATA[playlist\?list=PLyGEmW7O18z3L5ACpaexEs0bT-a1fHT4B.*?>(.*?)<]]></expres>
 <page>https://www.youtube.com/channel/UCiZL26ScfRZDdEAkkPJgJbA/playlists</page>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-1ZPF9zmtGo8/WUcIrXiQ0hI/AAAAAAAASCs/keVVxBzH9Y4C-g8t5R_8UMS8pJVPcGTzwCLcBGAs/s1600/Official-Poster-Main-Sama-Sama.png</thumbnail>
+<fanart>https://d3avoj45mekucs.cloudfront.net/astrogempak/media/3gadismanis_images/omar.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Upin Ipin [/COLOR] - [COLOR red]Sing Along[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLdm4JCUOHx8596LTR6voWv0awcuLAuFoa/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLdm4JCUOHx8596LTR6voWv0awcuLAuFoa.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCR1c65UsjpaVgcLKa7eM1tg/playlists</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
-
 <item>
-<title>Kompilasi Upin dan Ipin - Sing Along [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLdm4JCUOHx8596LTR6voWv0awcuLAuFoa</link>
-<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<title>[COLOR orange]Kompilasi Lagu Didi and Friends[/COLOR] - [COLOR lime]Musim 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL5B7QzKgckD1e6Atw6Ji7KZbVb5TZv0JZ/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL5B7QzKgckD1e6Atw6Ji7KZbVb5TZv0JZ.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Kompilasi Didi and Friends - Sing Along Musim 1[COLOR lime] Play All[/COLOR]</title>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL5B7QzKgckD1e6Atw6Ji7KZbVb5TZv0JZ</link>
+<title>[COLOR orange]Kompilasi Lagu Didi and Friends[/COLOR] - [COLOR lime]Musim 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL5B7QzKgckD0-2GNlN381c0_igcMhxs-n/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL5B7QzKgckD0-2GNlN381c0_igcMhxs-n.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Kompilasi Didi and Friends - Sing Along Musim 2[COLOR lime] Play All[/COLOR]</title>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL5B7QzKgckD0-2GNlN381c0_igcMhxs-n</link>
+<title>[COLOR orange]Kompilasi Lagu Didi and Friends[/COLOR] - [COLOR lime]Musim 3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL5B7QzKgckD2Y1G80Atx_DdJmiP2Yd5AP/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL5B7QzKgckD2Y1G80Atx_DdJmiP2Yd5AP.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Kompilasi Lagu Kanak-Kanak : Alif dan Sofia[COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLpN1iV-zkK8sHI_-BwJ53RdEcMHVUyAd-</link>
-<thumbnail>https://i.ytimg.com/vi/UUsbX7lgH6g/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/UUsbX7lgH6g/maxresdefault.jpg</fanart>
+<title>[COLOR orange]Kompilasi Lagu Didi and Friends[/COLOR] - [COLOR lime]Musim 4[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL5B7QzKgckD3w-bsRWDYOZD5YlFRd7Zsj/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL5B7QzKgckD3w-bsRWDYOZD5YlFRd7Zsj.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Kompilasi Lagu Kanak-Kanak : Alif dan Mimi[COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLDd2VACsmQD0yFA3AD0gcRA3KEoTCYftC</link>
-<thumbnail>http://s19.postimg.org/uw38fibk3/arieskids_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/nrlf6h4ar/arieskids_fanart.jpg</fanart>
+<title>[COLOR yelllow]Lagu Alif dan Sofia[/COLOR] - [COLOR purple][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLpN1iV-zkK8sHI_-BwJ53RdEcMHVUyAd-/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLpN1iV-zkK8sHI_-BwJ53RdEcMHVUyAd-.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCrlQUHyPUhIXjaKjCuh3BbQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Kompilasi Lagu Anak PASTI [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLSzNCU1ovTxYZq6Ejzju77VhIG2MM0Xvm</link>
-<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
+<title>[COLOR green]Lagu Kanak-Kanak Alif dan Mimi[/COLOR] - [COLOR yellow][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLDd2VACsmQD0yFA3AD0gcRA3KEoTCYftC/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLDd2VACsmQD0yFA3AD0gcRA3KEoTCYftC.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCglV70i9cVTeLGNnl1G8EEw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Kompilasi Lagu Kanak-Kanak - Bibitsku Vol 1</title>
-<utube>fgUjoIQZZM4</utube>
-<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
+<title>[COLOR lime]Disney Song[/COLOR] - [COLOR red]Moana[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLAerzc2LVOtOt_9TmJYyMPR0zh-eSOvpH/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLAerzc2LVOtOt_9TmJYyMPR0zh-eSOvpH.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Kompilasi Lagu Kanak-Kanak - Bibitsku Vol 2</title>
-<utube>ag6-rpR1Wuo</utube>
-<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
+<title>[COLOR lime]Disney Song[/COLOR] - [COLOR red]Frozen Malay[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLAerzc2LVOtMl0GfOriCi4TXz4-M95wgm/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLAerzc2LVOtMl0GfOriCi4TXz4-M95wgm.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Disney Moana - Sing Along [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOt_9TmJYyMPR0zh-eSOvpH</link>
-<thumbnail>https://s19.postimg.org/nwdstbow3/moana_fanart.jpg</thumbnail>
-<fanart>https://s19.postimg.org/nwdstbow3/moana_fanart.jpg</fanart>
+<title>[COLOR lime]Disney Song[/COLOR] - [COLOR red]Frozen English[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLAerzc2LVOtMiwfseR53_n9EMLY170svC/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLAerzc2LVOtMiwfseR53_n9EMLY170svC.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Disney Brave - Sing Along [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtP6vU1Y1Iq__w3AetZVUhMZ</link>
-<thumbnail>http://s19.postimg.org/f76c3wf7n/brave_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/bz1uqusxv/brave_fanart.jpg</fanart>
+<title>[COLOR silver]Bob The Builder[/COLOR] - [COLOR lime]Sing Along[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLp5-fNEA0RnJwsLV2OFJ_b1xT0oqZq97m/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLp5-fNEA0RnJwsLV2OFJ_b1xT0oqZq97m.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCZLYbETi-hygKzyCerJ5daw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Disney Frozen (English) - Sing Along [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMiwfseR53_n9EMLY170svC</link>
-<thumbnail>http://s19.postimg.org/ekc0s47pf/frozen_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/c1lqdowlf/frozen_fanart.jpg</fanart>
+<title>[COLOR blue]Badanamu[/COLOR] - [COLOR silver]Nursery Rhyme[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLzAVL_ayaL5SM2xWRub28Xz-qad7btiCl/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLzAVL_ayaL5SM2xWRub28Xz-qad7btiCl.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/badanamu01/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>Disney Frozen (Malay) - Jom Nyanyi [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMl0GfOriCi4TXz4-M95wgm</link>
-<thumbnail>http://s19.postimg.org/ekc0s47pf/frozen_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/c1lqdowlf/frozen_fanart.jpg</fanart>
-
+<title>[COLOR red]Pororo[/COLOR] - [COLOR blue]Nursery Rhyme[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLif0g7abcI4cMuERAHPnd5HqUQj3jF1iM/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLif0g7abcI4cMuERAHPnd5HqUQj3jF1iM.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCAmia3u27mHY-Y6c-lwakAQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-
-<item>
-<title>Bob The Builder - Sing Along [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMkTPW2Hc2hLehxjMGgqBCy</link>
-<thumbnail>http://s19.postimg.org/ea4i8rt37/Bob_the_Builder_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/p8frqyhoj/Bob_the_Builder_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Disney Frozen (Malay) - Jom Nyanyi [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMl0GfOriCi4TXz4-M95wgm</link>
-<thumbnail>http://s19.postimg.org/ekc0s47pf/frozen_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/c1lqdowlf/frozen_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Kompilasi Lagu Kanak-Kanak - Badanamu Vol 1</title>
-<utube>Vcn3lzZ5Y0o</utube>
-<thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Pororo - Sing Along Vol 1 [COLOR lime]Play All[/COLOR]</title>
-<utube>B35Ao9rAmM4</utube>
-<thumbnail>http://s19.postimg.org/lsnnhekg3/pororo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tk4dfyolf/pororo_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Pororo - Sing Along Vol 2 [COLOR lime]Play All[/COLOR]</title>
-<utube>EymGXCP6J60</utube>
-<thumbnail>http://s19.postimg.org/lsnnhekg3/pororo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tk4dfyolf/pororo_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Tayo - Sing Along [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtOJQyVOnWTx50hYMEmkCiHR</link>
-<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
-</item>
-
-<item>
-<title>Tayo - Nursery Rhymes  [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNWVLbggtsKK9TSRFEpH199</link>
-<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
-</item>
-
-<item>
-<title>Larva - Nursery Rhymes  [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNHib6wmE53qNbGMhuzFb-k</link>
-<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Kompilasi Lagu Anak Anak Indonesia [COLOR lime]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPt_nnhOaiVRG9RjQ6GVOfJ</link>
-<thumbnail>http://4.bp.blogspot.com/-wM7RJY3XeO4/VlkliMKTUXI/AAAAAAAACs8/lzoVYQWik5Q/s1600/lagu-anak-indonesia.png</thumbnail>
-<fanart>http://4.bp.blogspot.com/-wM7RJY3XeO4/VlkliMKTUXI/AAAAAAAACs8/lzoVYQWik5Q/s1600/lagu-anak-indonesia.png</fanart>
-</item>
-
-
-
-
 
