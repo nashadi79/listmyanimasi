@@ -13,7 +13,7 @@
 
 <!-- CHICHI CHACHA -->
 <channel>
-<name>[COLOR lime]Kids Show[/COLOR]</name>
+<name>[COLOR lime]TV Show Kanak-Kanak[/COLOR]</name>
 <thumbnail>http://s19.postimg.org/nvf8mq9s3/kidssong_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/3zj976sqr/kidssong_fanart.jpg</fanart>
 <items>

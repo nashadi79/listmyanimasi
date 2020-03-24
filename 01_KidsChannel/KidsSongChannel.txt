@@ -1,9 +1,44 @@
+<!-- YOUTUBE Omar & Hana - Lagu Kanak-Kanak Islam -->
 <item>
-<title>[COLOR orange]Kompilasi Lagu - Omar dan Hana[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6</link>
-<thumbnail>https://i.ytimg.com/vi/U7Ro_u1YaFs/hqdefault_live.jpg</thumbnail>
-<fanart>https://s3-ap-southeast-1.amazonaws.com/ams-data-bucket/production/images/omarhana.jpg</fanart>
+<title>[COLOR orange]Kompilasi Lagu Islamik- Omar dan Hana[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCiZL26ScfRZDdEAkkPJgJbA/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<!-- YOUTUBE Omar & Hana - Lagu Kanak-Kanak Islam -->
 <item>
+<title>[COLOR orange]Kompilasi Lagu English - Omar dan Hana[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLyGEmW7O18z3L5ACpaexEs0bT-a1fHT4B/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLyGEmW7O18z3L5ACpaexEs0bT-a1fHT4B".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCiZL26ScfRZDdEAkkPJgJbA/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 <item>
 <title>Kompilasi Upin dan Ipin - Sing Along [COLOR lime]Play All[/COLOR]</title>
