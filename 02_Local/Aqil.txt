@@ -1,37 +1,42 @@
-
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Aqil Story[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLWojXFMZ-4r9tLukfq3ln_feUHXcxR5jb</link>
-<thumbnail>https://s19.postimg.org/xvyps6axf/aqil.png</thumbnail>
-<fanart>https://s19.postimg.org/skjt7gwkj/aqil-fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Aqil Story[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR lime]Aqil Story[/COLOR] - [COLOR blue]Siri 1[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/xvyps6axf/aqil.png</thumbnail>
-	 <fanart>https://s19.postimg.org/skjt7gwkj/aqil-fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLWojXFMZ-4r9tLukfq3ln_feUHXcxR5jb</page>
- <referer>https://www.youtube.com/channel/akilstory</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/xvyps6axf/aqil.png</thumbnail>
-<fanart>https://s19.postimg.org/skjt7gwkj/aqil-fanart.jpg</fanart>
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLWojXFMZ-4r9tLukfq3ln_feUHXcxR5jb/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLWojXFMZ-4r9tLukfq3ln_feUHXcxR5jb.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCUM4uhcMyVFqn1OnKaVNZeQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Aqil Story[/COLOR] - [COLOR blue]Siri 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLWojXFMZ-4r-x8ZaHYkShxvlvtpSDI9ph/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLWojXFMZ-4r-x8ZaHYkShxvlvtpSDI9ph.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCUM4uhcMyVFqn1OnKaVNZeQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 
 

@@ -1,35 +1,19 @@
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST ALL[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR red]Play All[/COLOR]</title>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNF3UQSwBC-wMa6w_YC4rNF</link>
-</item>
-
-<item>
-<title>[COLOR greenyellow]Anak Anak Sidek[/COLOR] - [COLOR red]List All[/COLOR]</title>
+<title>[COLOR silver]Anak Anak Sidek[/COLOR] - [COLOR yellow][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-     <fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtNF3UQSwBC-wMa6w_YC4rNF</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-
 

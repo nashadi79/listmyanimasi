@@ -1,108 +1,20 @@
+<!-- OFFICIAL YOUTUBE -->
 
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST ALL[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 1[/COLOR][COLOR silver] (List All)[/COLOR]</title>
+<title>[COLOR orange]Bola Kampung[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-	 <fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLpZvyQNUgRjL60oKLmh8wgceYSqQCuwAA</page>
- <referer>https://www.youtube.com/channel/UCd9vMMANlz7DggZgvxI3SoQ</referer>
- <cookieJar></cookieJar>
- </regex>
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCd9vMMANlz7DggZgvxI3SoQ/playlists</page>
+</regex>
 <thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 2[/COLOR][COLOR silver] (List All)[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-	 <fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLpZvyQNUgRjLknCjpvC6X8gKDzeJhRHAh</page>
- <referer>https://www.youtube.com/channel/UCd9vMMANlz7DggZgvxI3SoQ</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 3[/COLOR][COLOR silver] (List All)[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-	 <fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLpZvyQNUgRjIUrvcflNYEG9ew9RMeCbjf</page>
- <referer>https://www.youtube.com/channel/UCd9vMMANlz7DggZgvxI3SoQ</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]Musim 4[/COLOR][COLOR silver] (List All)[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-	 <fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLpZvyQNUgRjJZJVd53TN9nv2ZsP2A-7Pc</page>
- <referer>https://www.youtube.com/channel/UCd9vMMANlz7DggZgvxI3SoQ</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange]Bola Kampung[/COLOR] - [COLOR yellow]X[/COLOR][COLOR silver] (List All)[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-	 <fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLpZvyQNUgRjLiFnGA8ai_U7x5ysxZUGIo</page>
- <referer>https://www.youtube.com/channel/UCd9vMMANlz7DggZgvxI3SoQ</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
-</item>
-

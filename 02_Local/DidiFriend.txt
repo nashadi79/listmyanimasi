@@ -1,90 +1,18 @@
-
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR green]Didi and Friends - Sing Along[/COLOR][COLOR red] Musim 1 [/COLOR][COLOR yellow]Play All[/COLOR]</title>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL5B7QzKgckD1e6Atw6Ji7KZbVb5TZv0JZ</link>
-</item>
-
-<item>
-<title>[COLOR green]Didi and Friends - Sing Along[/COLOR][COLOR red] Musim 1 [/COLOR][COLOR yellow]List All[/COLOR]</title>
+<title>Didi and Friends Official Youtube</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-	 <fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL5B7QzKgckD1e6Atw6Ji7KZbVb5TZv0JZ</page>
- <referer>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q</referer>
- <cookieJar></cookieJar>
- </regex>
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/playlists</page>
+</regex>
 <thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
 <fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
- </item>
-
-<item>
-<title>[COLOR green]Didi and Friends - Sing Along[/COLOR][COLOR red] Musim 2 [/COLOR][COLOR yellow]Play All[/COLOR]</title>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL5B7QzKgckD0-2GNlN381c0_igcMhxs-n</link>
 </item>
-
-<item>
-<title>[COLOR green]Didi and Friends - Sing Along[/COLOR][COLOR red] Musim 2 [/COLOR][COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-	 <fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL5B7QzKgckD0-2GNlN381c0_igcMhxs-n</page>
- <referer>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
- </item>
-
- <item>
-<title>[COLOR green]Didi and Friends - Sing Along [/COLOR][COLOR red]Mandarin [/COLOR][COLOR yellow]Play All[/COLOR]</title>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PPL5B7QzKgckD1Lr4CcqOSpR_cxgre12pUj</link>
-</item>
-
-<item>
-<title>[COLOR green]Didi and Friends - Sing Along [/COLOR][COLOR red]Mandarin [/COLOR][COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-	 <fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL5B7QzKgckD1Lr4CcqOSpR_cxgre12pUj</page>
- <referer>https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
- </item>
-
-
