@@ -1,125 +1,19 @@
 <item>
-<title>Keluang Man (Play All)</title>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLAerzc2LVOtNJpGLjVXrS20edB54OQBzN</link>
+<title>[COLOR red]Keluang Man[/COLOR] - [COLOR yellow][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CdVMCliZ1lfW2BdD2eKUByc/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CdVMCliZ1lfW2BdD2eKUByc.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
-<item>
-<title>Keluang Man - Layan Intro</title>
-<utube>i45_FpnvFl8</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 01</title>
-<utube>R5UcwDNJF_U</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 02 Dendam</title>
-<utube>UbPFcUGtir8</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 03  Mata Batu</title>
-<utube>O9s5VMrhcQY</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 04 Meow</title>
-<utube>Sy6QuQP3i68</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 05 Mentera dan Jampi</title>
-<utube>skLqiT77aeo</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 06 Johan Hitam</title>
-<utube>nMvgJrxLEzY</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 07 Malini</title>
-<utube>vEU0BFjvxUs</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 08 Samurai</title>
-<utube>TKduf9Sqck0</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 09 Insaf</title>
-<utube>HyWE4SEaDbw</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 10 Curang</title>
-<utube>h2avs6AGaHk</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 11 Badut</title>
-<utube>OV1vyjUvjM4</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 12 Peminat Setia</title>
-<utube>YxljBBhnkd4</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 13 Angkara Cat Merah</title>
-<utube>hza5ifqJcxk</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod 14 Teringat</title>
-<utube>lDYtQQF9SHY</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod - Samudera</title>
-<utube>MNMOk1PNZLA</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Keluang Man Episod - Insaf Kambing Man</title>
-<utube>SvIa3TzX5Rk</utube>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-</item>
