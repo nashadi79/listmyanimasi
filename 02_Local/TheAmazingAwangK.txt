@@ -1,4 +1,23 @@
 <item>
+<title>[COLOR silver]The Amazing Awang Khenit[/COLOR] - [COLOR yellow]Youtube[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLCH9HOS7GPMDCYC6sygATRB0ejCPNyk5S/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLCH9HOS7GPMDCYC6sygATRB0ejCPNyk5S.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCtV6D3JOXDbtZm50eiVjCAA/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]Amazing Awang Khenit[/COLOR] - [COLOR lime]Misteri Puteri Melati[/COLOR]</title>
 <urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxaDRwRms4eDFVOFU/view?usp=sharing</urlsolve>
 <thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
