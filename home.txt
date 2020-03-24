@@ -413,6 +413,31 @@
 <info></info>
 </channel>
 
+<!--GDRIVE-->
+<channel>
+<name>Doraemon</name>
+<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/subhome_doraemon.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Dragon Ball</name>
+<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/subhome_DragonBall.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Crayon Shin Chan</name>
+<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_ShinChan/00_home_shinchan.txt</externallink>
+<info>Crayon Shin-chan (クレヨンしんちゃん Kureyon Shinchan) merupakan siri komik dan anime yang direka oleh Yoshito Usui. Siri ini mengisahkan gelagat seorang budak berumur lima tahun dan keluarganya yang berlatarkan sebuah rumah di bandar Kasukabe, Saitama, Jepun.</info>
+</channel>
+
 <channel>
 <name>Bleach</name>
 <thumbnail>https://s19.postimg.org/rx5ca86kj/bleach_thumb.jpg</thumbnail>
@@ -421,6 +446,39 @@
 <info></info>
 </channel>
 
+<channel>
+<name>Detektif Conan</name>
+<thumbnail>http://s19.postimg.org/gmrnxpon7/dekconan_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/r8bj9puyr/dekconan_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/DetConanMain.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Magic Kaito</name>
+<thumbnail>https://s19.postimg.org/c7u7a0p4z/magickaito_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/um4qe01fn/magickaito_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/MagicKaito.txt</externallink>
+<info>Magic Kaito is a Japanese manga series written and illustrated by Gosho Aoyama, that began in Shogakukan's Weekly Shōnen Sunday in 1987. The story tells of a phantom thief named Kaito Kid</info>
+</channel>
+
+<channel>
+<name>Naruto</name>
+<thumbnail>http://s19.postimg.org/elfherbwf/naruto_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Naruto.txt</externallink>
+<info>Naruto Shippuden the Movie (劇場版NARUTO−ナルト− 疾風伝 Gekijōban Naruto Shippūden?) is the fourth overall in the Naruto film series and the first Naruto Shippuden film, directed by Hajime Kamegaki and written by Junki Takegami.</info>
+</channel>
+
+<channel>
+<name>One Piece</name>
+<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/OnePiece.txt</externallink>
+<info>One Piece (Japanese: ワンピース Hepburn: Wan Pīsu?) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's Weekly Shōnen Jump magazine since July 19, 1997, with the chapters collected into eighty-two tankōbon volumes to date. One Piece follows the adventures of Monkey D. Luffy, a young man whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his diverse crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world's ultimate treasure known as "One Piece" in order to become the next King of the Pirates.</info>
+</channel>
+
+<!--YOUTUBE MYANIMASI PLAYLIST-->
 <channel>
 <name>Chibi Maruko Chan</name>
 <thumbnail>http://s19.postimg.org/m6dwwhhj7/chibimaruka_thumb.jpg</thumbnail>
@@ -449,89 +507,31 @@
 </channel>
 
 <channel>
-<name>Captain Tsubasa: Road to 2002</name>
-<thumbnail>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</fanart>
-<items>
-
+<name>Ninja Hattori</name>
+<thumbnail>https://s19.postimg.org/dojvbn077/ninjahatori_thb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/by0ua5io3/ninjahottori_fanart.png</fanart>
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Captain Tsubasa: Road to 2002[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLwTdXrQbuWtGu5RGeWdZheFZFgu2S1sZL</link>
-<thumbnail>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Captain Tsubasa: Road to 2002[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR silver]Ninja Hattori[/COLOR] - [COLOR yellow][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</thumbnail>
-     <fanart>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLwTdXrQbuWtGu5RGeWdZheFZFgu2S1sZL</page>
- <referer>https://www.youtube.com/channel/rizkiwahid</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</fanart>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CcVgGJRbxgeRuv2myP7z6nq/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CcVgGJRbxgeRuv2myP7z6nq.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-
-</items>
-<info>Captain Tsubasa (Japanese: キャプテン翼 Hepburn: Kyaputen Tsubasa?),,[1] is a popular long-running Japanese manga, animation, and video game series, originally created by Yōichi Takahashi in 1981. The series mainly revolves around the sport of Association football focusing on captain Tsubasa Oozora (大空 翼 Ōzora Tsubasa?). The series is characterized by dynamic football moves, often stylish and implausible. The plot focuses on Tsubasa's relationship with his friends, rivalry with his opponents, training, competition, and the action and outcome of each football match.</info>
+<info>Ninja Hattori-kun, known as Ninja Hattori in some countries, is a manga series created by Fujiko Fujio, later adapted into a television drama, an anime series, a video game and a live-action movie</info>
 </channel>
 
-<channel>
-<name>Crayon Shin Chan</name>
-<thumbnail>http://s19.postimg.org/miwkuk1z7/shinchan_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/lqtwvcxs3/shinchan_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_ShinChan/00_home_shinchan.txt</externallink>
-<info>Crayon Shin-chan (クレヨンしんちゃん Kureyon Shinchan) merupakan siri komik dan anime yang direka oleh Yoshito Usui. Siri ini mengisahkan gelagat seorang budak berumur lima tahun dan keluarganya yang berlatarkan sebuah rumah di bandar Kasukabe, Saitama, Jepun.</info>
-</channel>
-
-<channel>
-<name>Dash Yonkuro</name>
-<thumbnail>http://s19.postimg.org/fre0klpfn/dashyonkuro_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/4drh9eewz/Dash_Yonkuro_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/DashYonkuro.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Detektif Conan</name>
-<thumbnail>http://s19.postimg.org/gmrnxpon7/dekconan_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/r8bj9puyr/dekconan_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Det_Conan/DetConanMain.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Doraemon</name>
-<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Doraemon/subhome_doraemon.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Dragon Ball</name>
-<thumbnail>https://s19.postimg.org/kp2o8ou6b/dragonball_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/vamjkp0hv/dragonball_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_DragonBall/subhome_DragonBall.txt</externallink>
-<info></info>
-</channel>
-
+<!--YOUTUBE OUTSIDE PLAYLIST-->
 <channel>
 <name>Gundam</name>
 <thumbnail>https://s19.postimg.org/6580a605f/gundam.jpg</thumbnail>
@@ -541,132 +541,80 @@
 </channel>
 
 <channel>
-<name>Hagemaru</name>
-<thumbnail>http://s19.postimg.org/sxd889f5r/hagemaru_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/linwfvtab/hagemaru_fanart.png</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Hagemaru.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Initial D</name>
-<thumbnail>http://s19.postimg.org/f62dachkz/initial_D_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/j15rcx0qr/initial_D_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/InitalD.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Magic Kaito</name>
-<thumbnail>https://s19.postimg.org/c7u7a0p4z/magickaito_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/um4qe01fn/magickaito_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/MagicKaito.txt</externallink>
-<info>Magic Kaito is a Japanese manga series written and illustrated by Gosho Aoyama, that began in Shogakukan's Weekly Shōnen Sunday in 1987. The story tells of a phantom thief named Kaito Kid</info>
-</channel>
-
-<channel>
-<name>Naruto</name>
-<thumbnail>http://s19.postimg.org/elfherbwf/naruto_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/ewwxriscj/naruto_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_Anime/Naruto.txt</externallink>
-<info>Naruto Shippuden the Movie (劇場版NARUTO−ナルト− 疾風伝 Gekijōban Naruto Shippūden?) is the fourth overall in the Naruto film series and the first Naruto Shippuden film, directed by Hajime Kamegaki and written by Junki Takegami.</info>
-</channel>
-
-<channel><!--to check-->
-<name>Ninja Hattori</name>
-<thumbnail>https://s19.postimg.org/dojvbn077/ninjahatori_thb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/by0ua5io3/ninjahottori_fanart.png</fanart>
-<items>
-
+<name>Dash Yonkuro</name>
+<thumbnail>http://s19.postimg.org/fre0klpfn/dashyonkuro_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/4drh9eewz/Dash_Yonkuro_fanart.jpg</fanart>
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Ninja Hattori[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtMWjr8OzCvxqJWjJj2Gy97j</link>
-<thumbnail>https://s19.postimg.org/dojvbn077/ninjahatori_thb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/by0ua5io3/ninjahottori_fanart.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Ninja Hattori[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR silver]Dash Yonkuro[/COLOR] - [COLOR yellow][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/dojvbn077/ninjahatori_thb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/by0ua5io3/ninjahottori_fanart.png</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtMWjr8OzCvxqJWjJj2Gy97j</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/dojvbn077/ninjahatori_thb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/by0ua5io3/ninjahottori_fanart.png</fanart>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLodbcZIa8He37MuoapwVoQKPeVPgQ1hkV/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLodbcZIa8He37MuoapwVoQKPeVPgQ1hkV.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCUb1yGKvOW0uRhW41FcM99Q/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+<info></info>
+</channel>
 
-</items>
-<info>Ninja Hattori-kun, known as Ninja Hattori in some countries, is a manga series created by Fujiko Fujio, later adapted into a television drama, an anime series, a video game and a live-action movie</info>
+<channel>
+<name>Captain Tsubasa: Road to 2002</name>
+<thumbnail>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/KSRkmnXgaHE/maxresdefault.jpg</fanart>
+<item>
+<title>[COLOR lime]Captain Tsubasa[/COLOR] - [COLOR red][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLJswrsz8iHwke3Bs8E5domp4ZHQjMCGuZ/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLJswrsz8iHwke3Bs8E5domp4ZHQjMCGuZ.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCJU3DMtNmz529V6p3WxeW-g/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info>Captain Tsubasa (Japanese: キャプテン翼 Hepburn: Kyaputen Tsubasa?),,[1] is a popular long-running Japanese manga, animation, and video game series, originally created by Yōichi Takahashi in 1981. The series mainly revolves around the sport of Association football focusing on captain Tsubasa Oozora (大空 翼 Ōzora Tsubasa?). The series is characterized by dynamic football moves, often stylish and implausible. The plot focuses on Tsubasa's relationship with his friends, rivalry with his opponents, training, competition, and the action and outcome of each football match.</info>
 </channel>
 
 <channel>
 <name>Ninja Boy Rantaro</name>
 <thumbnail>https://s19.postimg.org/4klgb6ymb/rantaro_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/vh5fjihfn/rantaro_fanart.jpg</fanart>
-<items>
-
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Ninja Boy Rantaro[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtO9jDcC9DfrhKl9DZuQzz6f</link>
-<thumbnail>https://s19.postimg.org/4klgb6ymb/rantaro_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/vh5fjihfn/rantaro_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Ninja Boy Rantaro[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR green]Ninja Boy Rantaro[/COLOR] - [COLOR yellow][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/4klgb6ymb/rantaro_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/vh5fjihfn/rantaro_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtO9jDcC9DfrhKl9DZuQzz6f</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/4klgb6ymb/rantaro_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/vh5fjihfn/rantaro_fanart.jpg</fanart>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLAerzc2LVOtO9jDcC9DfrhKl9DZuQzz6f/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLAerzc2LVOtO9jDcC9DfrhKl9DZuQzz6f.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-
-</items>
 <info>Nintama Rantarō is a Japanese anime series produced by Ajia-do Animation Works and broadcast on NHK since 10 April 1993. It is an adaptation of the manga series Rakudai Ninja Rantarō, written and illustrated by Sōbe Amako</info>
 </channel>
 
-<channel>
-<name>One Piece</name>
-<thumbnail>https://s19.postimg.org/6ixjelpdv/onepiece_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/9oi54t803/onepiece_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/03_OnePiece/subhome_OnePiece.txt</externallink>
-<info>One Piece (Japanese: ワンピース Hepburn: Wan Pīsu?) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's Weekly Shōnen Jump magazine since July 19, 1997, with the chapters collected into eighty-two tankōbon volumes to date. One Piece follows the adventures of Monkey D. Luffy, a young man whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his diverse crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world's ultimate treasure known as "One Piece" in order to become the next King of the Pirates.</info>
-</channel>
 
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]A[/COLOR][COLOR violet]S[/COLOR][COLOR orange]I [/COLOR][COLOR red]L[/COLOR][COLOR violet]U[/COLOR][COLOR orange]A[/COLOR][COLOR silver]R [/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
@@ -676,49 +624,23 @@
 <info></info>
 </channel>
 
+<!--GDRIVE SOLIDFILES-->
 <channel>
-<name>Adit dan Sopo Jarwo (Animasi Indonesia)</name>
-<thumbnail>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Adit dan Sopo Jarwo[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLxyw2wKPo6gXYIeyzhtJKjmVp0lWVEv7n</link>
-<thumbnail>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Adit dan Sopo Jarwo[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</thumbnail>
-     <fanart>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLxyw2wKPo6gXYIeyzhtJKjmVp0lWVEv7n</page>
- <referer>https://www.youtube.com/channel/UCc4BToor90Nc9UtKrR3-S9Q</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/r4o3p5y4f/aditsopojarwo_thumb.jpg</fanart>
- </item>
-
-</items>
-<info>Adit Sopo Jarwo adalah sebuah filem animasi dari Indonesia dan disiarkan di MNCTV</info>
+<name>Dora The Explorer</name>
+<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Dora.txt</externallink>
+<info>"Dora the Explorer" features the adventures of young Dora, her monkey Boots, Backpack and other animated friends. In each episode, viewers join Dora on an adventure in an animated world set inside a computer. The titular character seeks viewers' help in solving a puzzle or mystery she faces in each episode.</info>
 </channel>
+
+<channel>
+<name>Mr Bean</name>
+<thumbnail>http://s19.postimg.org/xmkbuivpb/mrbean_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/r7laxuozn/mrbean_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/MrBean.txt</externallink>
+<info></info>
+</channel>
+<!--to check
 
 <channel>
 <name>Bravestarr</name>
@@ -809,58 +731,6 @@
 </channel>
 
 <channel>
-<name>Descendant Wicked World</name>
-<thumbnail>http://s19.postimg.org/6domea70j/descendants_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/3v2xdllab/descendants_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Descendant Wicked World[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtNCxQUOV_puxf0cv1KF0kcj</link>
-<thumbnail>http://s19.postimg.org/6domea70j/descendants_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/3v2xdllab/descendants_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Descendant Wicked World[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/6domea70j/descendants_thumb.jpg</thumbnail>
-     <fanart>http://s19.postimg.org/3v2xdllab/descendants_fanart.jpg</fanart>>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtNCxQUOV_puxf0cv1KF0kcj</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
- <thumbnail>http://s19.postimg.org/6domea70j/descendants_thumb.jpg</thumbnail>
- <fanart>http://s19.postimg.org/3v2xdllab/descendants_fanart.jpg</fanart>
- </item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
-<name>Dora The Explorer</name>
-<thumbnail>https://s19.postimg.org/fdwwrxadf/dora_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/aqquq5n0j/dora_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Dora.txt</externallink>
-<info>"Dora the Explorer" features the adventures of young Dora, her monkey Boots, Backpack and other animated friends. In each episode, viewers join Dora on an adventure in an animated world set inside a computer. The titular character seeks viewers' help in solving a puzzle or mystery she faces in each episode.</info>
-</channel>
-
-<channel>
 <name>Electro Boys</name>
 <thumbnail>https://lh4.googleusercontent.com/-rL096pgksV4/VGyXemEZR3I/AAAAAAAAAHA/_9cVAzPcSdQ/w360-h321-no/eb.jpg</thumbnail>
 <fanart>https://lh4.googleusercontent.com/-rL096pgksV4/VGyXemEZR3I/AAAAAAAAAHA/_9cVAzPcSdQ/w360-h321-no/eb.jpg</fanart>
@@ -893,16 +763,6 @@
 
 </items>
 <info></info>
-</channel>
-
-<channel>
-<name>Flash and Dash</name>
-<thumbnail>https://s19.postimg.org/53p0zq9qb/flashanddash_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/d7x54gw5f/flashanddash_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/FlashDash.txt</externallink>
-<info>Flash and Dash, is a 2007 Chinese animated series created by Auldey and based on their line of radio-controlled cars. The original series ran for 26 episodes and saw distribution in various countries across the world. There are two theme songs: the Chinese theme song is the original theme "Flash! Dash!" and the English version is the unleashed theme "Feel the Fire! Feel the Speed!" written by John Mitchell and Tom Keenlyside.
-An English version, created by Ocean Productions,began airing in the United Kingdom on Cartoon Network Too on November 7, 2009. The broadcast was produced in a partnership between Danbar, a company distributing the toyline in Europe, and Turner Media Innovations.
-The series received two followups, the 40-episode sequel Race-Tin: Flash and Dash 2 in 2007 and the 26 episode reboot Race-Tin: Flash and Dash S in 2012.</info>
 </channel>
 
 <channel>
@@ -1064,26 +924,10 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 </channel>
 
 <channel>
-<name>Jungle Book</name>
-<thumbnail>http://s19.postimg.org/68kv4lzpf/junglebook_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kqi2clr0j/junglebook.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/JungleBook_00.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>Larva</name>
 <thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Larva.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Mr Bean</name>
-<thumbnail>http://s19.postimg.org/xmkbuivpb/mrbean_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/r7laxuozn/mrbean_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/MrBean.txt</externallink>
 <info></info>
 </channel>
 
@@ -1132,22 +976,6 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 </channel>
 
 <channel>
-<name>Paddle Pop</name>
-<thumbnail>http://s19.postimg.org/i79wso7gj/paddlepop_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/9nqiuwz43/paddlepop_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/PaddlePop.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Pororo (Korean Series)</name>
-<thumbnail>http://s19.postimg.org/lsnnhekg3/pororo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tk4dfyolf/pororo_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Pororo.txt</externallink>
-<info>A little penguin named Pororo lives on an ice island with his friends Poby the polar bear, Eddy the fox, Loopy the beaver, and Crong the green dinosaur!</info>
-</channel>
-
-<channel>
 <name>Roary The Racing Car</name>
 <thumbnail>https://s19.postimg.org/8yf53zi6b/roary_thumb.png</thumbnail>
 <fanart>https://s19.postimg.org/j77m9t683/roary_fanart.jpg</fanart>
@@ -1189,14 +1017,6 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 
 </items>
 <info></info>
-</channel>
-
-<channel>
-<name>RoboCar Poli (Korean Series)</name>
-<thumbnail>http://s19.postimg.org/z1wz3rjsz/robocarpoly_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/vh13kjf9f/robocarpoly_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/RobocarPoli.txt</externallink>
-<info>Robocar Poli is a South Korean animated children's television series created by RoiVisual. The series released its first episode on Educational Broadcasting System in 2011, and has aired for four seasons.</info>
 </channel>
 
 <channel>
@@ -1244,14 +1064,6 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 </channel>
 
 <channel>
-<name>Tayo (Korean Series)</name>
-<thumbnail>http://s19.postimg.org/jvviqkj5v/tayo_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/is6t0v94z/tayo_fanart.png</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tayo.txt</externallink>
-<info>Tayo the Little Bus is a South Korean computer-animated television series created by Iconix Entertainment and Educational Broadcasting System of Seoul. The show was produced with the help of Seoul mayor Oh Se-hoon's administration.</info>
-</channel>
-
-<channel>
 <name>Timmy Time</name>
 <thumbnail>http://s19.postimg.org/r6gvxfe4j/timmy_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/izow5uo1v/timmy_fanart.jpg</fanart>
@@ -1274,6 +1086,8 @@ The series received two followups, the 40-episode sequel Race-Tin: Flash and Das
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Voltron.txt</externallink>
 <info>Voltron: Defender of the Universe is an American animated television series that features a team of astronauts who pilot a giant Super Robot known as "Voltron"</info>
 </channel>
+
+-->
 
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]T[/COLOR][COLOR red]O[/COLOR][COLOR lime]K[/COLOR][COLOR green]U[/COLOR][COLOR silver]S[/COLOR][COLOR yellow]A[/COLOR][COLOR blue]T[/COLOR][COLOR greenyellow]S[/COLOR][COLOR salmon]U [/COLOR][COLOR skyblue]H[/COLOR][COLOR red]E[/COLOR][COLOR violet]R[/COLOR][COLOR orange]O[/COLOR][COLOR silver]E[/COLOR][COLOR blue]S [/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
@@ -1315,50 +1129,6 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 <fanart>https://s19.postimg.org/nrlzjdpz7/kamen_fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/05_KRider/00_krider_mainpage.txt</externallink>
 <info>Kamen Rider (仮面ライダー Kamen Raidā?, Masked Rider) is a tokusatsu superhero television series and weekly science fiction manga created by manga artist Shotaro Ishinomori. It debuted on television on April 3, 1971, and ran until February 10, 1973, airing on the Mainichi Broadcasting System and NET TV (now TV Asahi)</info>
-</channel>
-
-<channel>
-<name>Marvel Super Heroes</name>
-<thumbnail>https://s19.postimg.org/7xhuf7kub/marvel_thumb.png</thumbnail>
-<fanart>https://s19.postimg.org/7jgifm0qr/marvel_fanart.jpg</fanart>
-<info></info>
-
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Marvel Super Heroes Movies Trailer[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtPG9ht1weJ66gstvUI0qHJz</link>
-<thumbnail>https://s19.postimg.org/7xhuf7kub/marvel_thumb.png</thumbnail>
-<fanart>https://s19.postimg.org/7jgifm0qr/marvel_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR lime]List of Marvel Super Heroes Movies Trailer[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/7xhuf7kub/marvel_thumb.png</thumbnail>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtPG9ht1weJ66gstvUI0qHJz</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
- <thumbnail>https://s19.postimg.org/7xhuf7kub/marvel_thumb.png</thumbnail>
- </item>
-
-</items>
-<info></info>
 </channel>
 
 <channel>
