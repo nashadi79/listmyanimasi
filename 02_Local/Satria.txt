@@ -1,25 +1,18 @@
 <item>
-<title>[COLOR lime]Satria - The Warriors of the 7 Elements[/COLOR]</title>
-<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
-<link>$doregex[makelist1]</link>
-
+<title>[COLOR green]Satria 7 Pahlawan[/COLOR] - [COLOR silver][/COLOR]</title>
+<link>$doregex[makelist]</link>
 <regex>
-<name>makelist1</name>
+<name>makelist</name>
 <listrepeat><![CDATA[
-   <title>Satria - [makelist1.param2]</title>
-   <link>$doregex[playpath]</link>
-   <thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CefwWxYtB4D2CAa35qVPstx/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
 ]]></listrepeat>
-<expres>a href="(.*?)".*">(.*?)<.*</expres>
-<page>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/ListSatria.txt</page>
-<cookieJar></cookieJar>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CefwWxYtB4D2CAa35qVPstx.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
 </regex>
-
-<regex>
-<name>playpath</name>
-<expres>file="(.*?)"</expres>
-<page>[makelist1.param1]</page>
-</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-

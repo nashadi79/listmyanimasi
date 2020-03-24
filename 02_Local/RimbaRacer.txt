@@ -1,54 +1,19 @@
-
 <item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>http://myanimasi.ares-project.com/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>Rimba Racer - Meet The Racer (Play All)</title>
-<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLlpGwobf4_XiMM60WxUyvBmEuO-dIgWpZ</link>
-</item>
-
-<item>
-<title>[COLOR orange]Rimba Racer - Season 1 (Eng)[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
+<title>[COLOR silver]Rimba Racer[/COLOR] - [COLOR yellow][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[COLOR lime][makelist.param2][/COLOR]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
-     <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL6O2OkQby160iKnzW1NfAmXG0cfHTBdpx</page>
- <referer>https://www.youtube.com/channel/UCPA6hhedN9EauPw916hSyvA</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+   <title> [makelist.param1]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0Cd-5ide397T2bmGme0CxdTn/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0Cd-5ide397T2bmGme0CxdTn.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpuKOC7MEgmRWXIZqBmigvQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR orange]Rimba Racer - Musim 1 (Malay)[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR lime][makelist.param2][/COLOR]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
-     <fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLlpGwobf4_Xjy2BTPKQ-YjPF3iiIG_4_l</page>
- <referer>https://www.youtube.com/channel/UC_hIm8ZLBh-0zdvrkI0vR6w</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
-</item>
