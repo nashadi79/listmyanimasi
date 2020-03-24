@@ -182,6 +182,30 @@
 </channel>
 
 <channel>
+<name>Boboi Boy The Series</name>
+<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/00_HomeBoboi.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Upin Ipin The Series</name>
+<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_UpinIpin/00_Home_UpinIpin.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Kartun Melayu</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/A_RareMustWatch.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
 <name>Anak-Anak Sidek</name>
 <thumbnail>http://s19.postimg.org/b70iq8r2b/anaksidek_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/7yw1d74sj/anaksidek_fanart.jpg</fanart>
@@ -198,14 +222,6 @@
 </channel>
 
 <channel>
-<name>Boboi Boy The Series</name>
-<thumbnail>http://s19.postimg.org/rcch29szn/boboiboy_S1_fanart.jpg</thumbnail>
-<fanart>http://s19.postimg.org/pabzo0v0j/boboiboy_S1_thumb.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_BoboiBoy/00_HomeBoboi.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>Bola Kampung The Series</name>
 <thumbnail>http://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
@@ -213,6 +229,94 @@
 <info></info>
 </channel>
 
+<channel>
+<name>Didi and Friends</name>
+<thumbnail>http://s19.postimg.org/kwllxxb0j/didiefriends_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/7r63rth4z/didiefriends_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/DidiFriend.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Ejen Ali</name>
+<thumbnail>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</thumbnail>
+<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/EjenAli.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Keluang Man</name>
+<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KeluangMan.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Kampung Boy</name>
+<thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KgBoy.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Kisah Para Nabi</name>
+<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KisahNabi.txt</externallink>
+<info>Islam Itu Indah</info>
+</channel>
+
+<channel>
+<name>Pada Zaman Dahulu</name>
+<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/PadaZamanDahulu.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Puteri</name>
+<thumbnail>http://s19.postimg.org/d1hylq3gj/puteri_thumb.png</thumbnail>
+<fanart>http://s19.postimg.org/4576hscub/puteri_fanart.png</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Puteri.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Rimba Racer</name>
+<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/RimbaRacer.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Satria</name>
+<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Satria.txt</externallink>
+<info>Satria - The Warriors of the 7 Elements' story centers on boy Hang Tuah and follows the Satria, warriors of the seven elements, as they strive to save their princess Hang Li Po from the seven-member Suliman group who kidnapped her. The Satria are determined to avenge the death of their master, killed by the Suliman, and protect the sovereignty of Melaka.</info>
+</channel>
+
+<!-- GDRIVE -->
+<channel>
+<name>The Amazing Awang Khenit</name>
+<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/TheAmazingAwangK.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>Usop Sontorian</name>
+<thumbnail>http://s19.postimg.org/hd6kaqadf/Usop_Sontorian_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/vicdcjjer/Usop_Sontorian_fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/UsopSonto.txt</externallink>
+<info></info>
+</channel>
 <!--
 <channel>
 <name>Budak Besi</name>
@@ -291,33 +395,7 @@
 <info>Dunia Eicak is a Malaysian animated series produced by Addeen Multimedia. The show's plot centers on a boy, nicknamed Eicak, who discovers 'friends' in the most unexpected world. Dunia Eicak is a 3D animation series about appreciating friends, practicing good values, even when sometimes all you really want to do is run away.
 </info>
 </channel>
--->
 
-<channel>
-<name>Ejen Ali</name>
-<thumbnail>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</thumbnail>
-<fanart>http://s19.postimg.org/pa9f1xfcz/ejenali_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/EjenAli.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Kampung Boy</name>
-<thumbnail>http://s19.postimg.org/403f845j7/kgboy_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/b4l8h5csj/kgboyfanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KgBoy.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Keluang Man</name>
-<thumbnail>http://s19.postimg.org/xf4i3dkoz/kluangman_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/kz7s9mrcz/kluangman_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KeluangMan.txt</externallink>
-<info></info>
-</channel>
-
-<!--
 <channel>
 <name>GO-3 Elemental Wheel</name>
 <thumbnail>http://www.monsta.com/img/animationspic/Animations-GO3.jpg</thumbnail>
@@ -404,14 +482,6 @@
 
 </items>
 <info>Impian REMI, an animated series by Tudidut Studio</info>
-</channel>
-
-<channel>
-<name>Kisah Para Nabi</name>
-<thumbnail>http://s19.postimg.org/y6rlfe1hf/kisahnabi_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/55n95zh1f/kisahnabi_fanart2.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/KisahNabi.txt</externallink>
-<info>Islam Itu Indah</info>
 </channel>
 
 <channel>
@@ -503,22 +573,6 @@
 </channel>
 
 <channel>
-<name>Pada Zaman Dahulu</name>
-<thumbnail>http://s19.postimg.org/yzwsyhc03/Pd_Zaman_Dahulu_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/or4bsnnyb/Pd_Zaman_Dahulu_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/PadaZamanDahulu.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Puteri</name>
-<thumbnail>http://s19.postimg.org/d1hylq3gj/puteri_thumb.png</thumbnail>
-<fanart>http://s19.postimg.org/4576hscub/puteri_fanart.png</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Puteri.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
 <name>Puteri Delima Sakti</name>
 <thumbnail>http://rtm-images.gluempsapp.com/320x180/episode/PuteriDelimaSakti/s3/e4/PuteriDelimaSakti-s3-e4-thumbnail.jpg</thumbnail>
 <fanart>http://rtm-images.gluempsapp.com/1024x576/episode/PuteriDelimaSakti/s3/Screen%20Shot%202016-12-12%20at%204.40.03%20PM.png</fanart>
@@ -548,14 +602,6 @@
 </item>
 
 </items>
-<info></info>
-</channel>
-
-<channel>
-<name>Rimba Racer</name>
-<thumbnail>http://s19.postimg.org/dikq603ib/rimbaracer_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/nrd7btrk3/rimbaracer_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/RimbaRacer.txt</externallink>
 <info></info>
 </channel>
 
@@ -603,38 +649,7 @@
 <info>Saladin ialah sebuah projek animasi yang diilhamkan daripada riwayat Salah Al-Din Yusuf Ibni Ayub, wira Islam yang menyatukan para Muslimin menghadapi Perang Salib pada abad ke-12.</info>
 </channel>
 
-<channel>
-<name>Satria</name>
-<thumbnail>https://s19.postimg.org/9rw8z9olf/satria_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/l2ywnmvgj/satria_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/Satria.txt</externallink>
-<info>Satria - The Warriors of the 7 Elements' story centers on boy Hang Tuah and follows the Satria, warriors of the seven elements, as they strive to save their princess Hang Li Po from the seven-member Suliman group who kidnapped her. The Satria are determined to avenge the death of their master, killed by the Suliman, and protect the sovereignty of Melaka.</info>
-</channel>
 -->
-
-<channel>
-<name>The Amazing Awang Khenit</name>
-<thumbnail>http://s19.postimg.org/4vvb9tptv/amazingawangkhenit_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/9ghhor9j7/amazingawangkhenit_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/TheAmazingAwangK.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Upin Ipin The Series</name>
-<thumbnail>http://s19.postimg.org/snk8aqolf/upinipin_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_UpinIpin/00_Home_UpinIpin.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Usop Sontorian</name>
-<thumbnail>http://s19.postimg.org/hd6kaqadf/Usop_Sontorian_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/vicdcjjer/Usop_Sontorian_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/02_Local/UsopSonto.txt</externallink>
-<info></info>
-</channel>
 
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]A[/COLOR][COLOR greenyellow]N[/COLOR][COLOR salmon]I[/COLOR][COLOR skyblue]M[/COLOR][COLOR red]E[/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
