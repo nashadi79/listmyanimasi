@@ -254,50 +254,6 @@
 </channel>
 
 <channel>
-<name>BOING The Play Ranger</name>
-<thumbnail>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</thumbnail>
-<fanart>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]BOING The Play Ranger[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLjj56jET6ece9gih4KNZOf1FehuON8was</link>
-<thumbnail>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</thumbnail>
-<fanart>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]BOING The Play Ranger[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</thumbnail>
-     <fanart>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLjj56jET6ece9gih4KNZOf1FehuON8was</page>
- <referer>https://www.youtube.com/channel/AnimonstaStudios</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</thumbnail>
-<fanart>http://image.ec21.com/company/c/cr/cra/crazybird/upimg/p1-1.jpg</fanart>
-</item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
 <name>Bola Kampung The Series</name>
 <thumbnail>http://s19.postimg.org/3w50e4ao3/bolakgsiri_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/hbs13kj5v/bolakgsiri_fanart.jpg</fanart>
