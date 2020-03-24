@@ -6,14 +6,13 @@
 <listrepeat><![CDATA[
    <title> [makelist.param1]</title>
    <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6/</jsonrpc>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLAerzc2LVOtNF3UQSwBC-wMa6w_YC4rNF/</jsonrpc>
    <thumbnail></thumbnail>
    <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[playlist\?list=PLyGEmW7O18z2S-EN-IEohqPtRGfe_JGJ6.*?>(.*?)<]]></expres>
+<expres><![CDATA[playlist\?list=PLAerzc2LVOtNF3UQSwBC-wMa6w_YC4rNF.*?>(.*?)<]]></expres>
 <page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
