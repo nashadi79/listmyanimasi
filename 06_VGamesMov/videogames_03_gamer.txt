@@ -1,53 +1,95 @@
 <item>
-<title>Gamer Movie (A-G)</title>
+<title>[COLOR lime]Movie Games[/COLOR] - [COLOR red]A - D[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmRGd0tq8bezyN0QFHHtnoEe</page>
- <referer>https://www.youtube.com/channel/gLPLayground</referer>
- <cookieJar></cookieJar>
- </regex>
- <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
- </item>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL1cvljv8vQmRGd0tq8bezyN0QFHHtnoEe/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL1cvljv8vQmRGd0tq8bezyN0QFHHtnoEe.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/gLPLayground/playlists</page>
+</regex>
+<thumbnail>https://mcdn.wallpapersafari.com/medium/11/42/5Y8pTx.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Jv2W0lbgVfY/maxresdefault.jpg</fanart>
+</item>
 
 <item>
-<title>Gamer Movie (H-Q)</title>
+<title>[COLOR lime]Movie Games[/COLOR] - [COLOR pink]E - K[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmSHy85leC3rx5-E8BwpOgZM</page>
- <referer>https://www.youtube.com/channel/gLPLayground</referer>
- <cookieJar></cookieJar>
- </regex>
- <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
- </item>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL1cvljv8vQmTi2NRYbW8Y8eMdQzxfkOfr/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL1cvljv8vQmTi2NRYbW8Y8eMdQzxfkOfr.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/gLPLayground/playlists</page>
+</regex>
+<thumbnail>https://mcdn.wallpapersafari.com/medium/11/42/5Y8pTx.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Jv2W0lbgVfY/maxresdefault.jpg</fanart>
+</item>
 
 <item>
-<title>Gamer Movie (R-Z)</title>
+<title>[COLOR lime]Movie Games[/COLOR] - [COLOR orange]L - R[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL1cvljv8vQmSdCiQvhet-r0Cj31KdLvE_</page>
- <referer>https://www.youtube.com/channel/gLPLayground</referer>
- <cookieJar></cookieJar>
- </regex>
- <thumbnail>https://s19.postimg.org/xraruujib/vidgames_fanart.jpg</thumbnail>
- </item>
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL1cvljv8vQmSHy85leC3rx5-E8BwpOgZM/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL1cvljv8vQmSHy85leC3rx5-E8BwpOgZM.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/gLPLayground/playlists</page>
+</regex>
+<thumbnail>https://mcdn.wallpapersafari.com/medium/11/42/5Y8pTx.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Jv2W0lbgVfY/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Movie Games[/COLOR] - [COLOR blue]S - Z[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL1cvljv8vQmSdCiQvhet-r0Cj31KdLvE_/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL1cvljv8vQmSdCiQvhet-r0Cj31KdLvE_.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/gLPLayground/playlists</page>
+</regex>
+<thumbnail>https://mcdn.wallpapersafari.com/medium/11/42/5Y8pTx.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Jv2W0lbgVfY/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Movie Games[/COLOR] - [COLOR orange]Recen Games[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL1cvljv8vQmQOpPYEoDelidg4A3SciA-B/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL1cvljv8vQmQOpPYEoDelidg4A3SciA-B.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/gLPLayground/playlists</page>
+</regex>
+<thumbnail>https://mcdn.wallpapersafari.com/medium/11/42/5Y8pTx.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Jv2W0lbgVfY/maxresdefault.jpg</fanart>
+</item>
+
