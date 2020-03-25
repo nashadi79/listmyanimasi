@@ -1024,10 +1024,52 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
 </channel>
 
 <channel>
-<name>Minecraft Movie</name>
+<name>Minecraft</name>
 <thumbnail>https://s19.postimg.org/8z7t3c2bn/minecraft_thumb.png</thumbnail>
 <fanart>https://s19.postimg.org/o6nsnou6b/minecraft_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/06_VGamesMov/videogames_02_minescraft.txt</externallink>
+<item>
+<title>Minecraft on Youtube</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TeamMojang/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
+<name>Roblox</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+<title>Roblox on Youtube</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/roblox/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <info></info>
 </channel>
 
