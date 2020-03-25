@@ -350,33 +350,6 @@
 </channel>
 
 <channel>
-<name>BeyBlade Burst</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-
-<item>
-<title>[COLOR silver]BeyBlade Burst[/COLOR] - [COLOR yellow]by MONSTA[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
-   <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/PL_Br331M3f_6Qubu43oBi9k4YAh4A7mWb/</jsonrpc>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[playlist\?list=PL_Br331M3f_6Qubu43oBi9k4YAh4A7mWb.*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/channel/UCfqDvjXc2jbAzaeqlIggkkg/playlists</page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<info></info>
-</channel>
-
-<channel>
 <name>Saladin: The Animated Series</name>
 <thumbnail>https://s19.postimg.org/ov7495xhf/saladin_fanart.jpg</thumbnail>
 <fanart>https://s19.postimg.org/c52vw2pj7/saladin_thumb.jpg</fanart>
@@ -591,6 +564,31 @@
 </channel>
 
 <channel>
+<name>BeyBlade Burst</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+<title>[COLOR silver]BeyBlade Burst[/COLOR] - [COLOR yellow]by MONSTA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL_Br331M3f_6Qubu43oBi9k4YAh4A7mWb/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL_Br331M3f_6Qubu43oBi9k4YAh4A7mWb.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCfqDvjXc2jbAzaeqlIggkkg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
 <name>Ninja Boy Rantaro</name>
 <thumbnail>https://s19.postimg.org/4klgb6ymb/rantaro_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/vh5fjihfn/rantaro_fanart.jpg</fanart>
@@ -640,442 +638,13 @@
 <externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/MrBean.txt</externallink>
 <info></info>
 </channel>
-<!--to check
 
-<channel>
-<name>Bravestarr</name>
-<thumbnail>https://s19.postimg.org/ncn49gtdv/bravestar_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/nbd6g1rk3/bravestar_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Bravestarr[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL2Oi8DWXQiFcqI6vC-MrXjSseYnpU2Zk8</link>
-<thumbnail>https://s19.postimg.org/ncn49gtdv/bravestar_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/nbd6g1rk3/bravestar_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Bravestarr[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/ncn49gtdv/bravestar_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/nbd6g1rk3/bravestar_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL2Oi8DWXQiFcqI6vC-MrXjSseYnpU2Zk8</page>
- <referer>https://www.youtube.com/channel/BravestarrOfficial</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/ncn49gtdv/bravestar_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/nbd6g1rk3/bravestar_fanart.jpg</fanart>
- </item>
-
-</items>
-<info>Native American Marshal BraveStarr comes to the rough-and-tumble planet New Texas as its new lawman with a goal of bringing order to the land. His powers include the strength of a bear, speed of a puma, eyesight of a hawk and the hearing of a wolf. With those at his disposal, it's hard for bad guys to get away unscathed. In case he needs it, though, he has help from talking technohorse Thirty Thirty and pretty Judge J.B. McBride. Settlers and miners know the marshal works to protect them and keep villains from stealing valuable kerium.</info>
-</channel>
-
-<channel>
-<name>Casper</name>
-<thumbnail>https://s19.postimg.org/qj8h1lz2b/casper_thumbs.jpg</thumbnail>
-<fanart>https://s19.postimg.org/ljb0tntfn/casper_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Casper[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLC5928B59A036F71F</link>
-<thumbnail>https://s19.postimg.org/qj8h1lz2b/casper_thumbs.jpg</thumbnail>
-<fanart>https://s19.postimg.org/ljb0tntfn/casper_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Casper[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/qj8h1lz2b/casper_thumbs.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/ljb0tntfn/casper_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLC5928B59A036F71F</page>
- <referer>https://www.youtube.com/channel/RetroHeroes</referer>
- <cookieJar></cookieJar>
- </regex>
- <thumbnail>https://s19.postimg.org/qj8h1lz2b/casper_thumbs.jpg</thumbnail>
- <fanart>https://s19.postimg.org/ljb0tntfn/casper_fanart.jpg</fanart>
- </item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
-<name>Electro Boys</name>
-<thumbnail>https://lh4.googleusercontent.com/-rL096pgksV4/VGyXemEZR3I/AAAAAAAAAHA/_9cVAzPcSdQ/w360-h321-no/eb.jpg</thumbnail>
-<fanart>https://lh4.googleusercontent.com/-rL096pgksV4/VGyXemEZR3I/AAAAAAAAAHA/_9cVAzPcSdQ/w360-h321-no/eb.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>Electro Boys (English Dub)</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://lh4.googleusercontent.com/-rL096pgksV4/VGyXemEZR3I/AAAAAAAAAHA/_9cVAzPcSdQ/w360-h321-no/eb.jpg</thumbnail>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLHkrfgPTyGJb_HJdqdnuYaau4X5VLQ3p_</page>
- <referer>https://www.youtube.com/channel/UCZezJpMQZG79fVuEvnR5KRA</referer>
- <cookieJar></cookieJar>
- </regex>
- <thumbnail>https://lh4.googleusercontent.com/-rL096pgksV4/VGyXemEZR3I/AAAAAAAAAHA/_9cVAzPcSdQ/w360-h321-no/eb.jpg</thumbnail>
- </item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
-<name>Gazoon</name>
-<thumbnail>https://s19.postimg.org/itfh1p0w3/gazoon_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/97hb7nkcj/Gazoon_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Gazoon[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLbELaiA4QD9oVt41aXmSwIDAYeDbCnx82</link>
-<thumbnail>https://s19.postimg.org/itfh1p0w3/gazoon_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/97hb7nkcj/Gazoon_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Gazoon[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/itfh1p0w3/gazoon_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/97hb7nkcj/Gazoon_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLbELaiA4QD9oVt41aXmSwIDAYeDbCnx82</page>
- <referer>https://www.youtube.com/channel/HooplaKidzTv</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/itfh1p0w3/gazoon_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/97hb7nkcj/Gazoon_fanart.jpg</fanart>
- </item>
-
-</items>
-<info>This 3D animated series is aimed at toddlers and up, but entertaining for all. Based in a fantastical African savanna, an elephant, a snake, an ostrich, a pair of giraffes and others cross paths in humorous fashion. With no verbal dialogue, pleasant musical narrative and colorfully appealing visuals, Gazoon has a timeless international appeal.</info>
-</channel>
-
-<channel>
-<name>Ghostbusters</name>
-<thumbnail>https://s19.postimg.org/7kni8oiwz/ghostbuster_thumb.png</thumbnail>
-<fanart>https://s19.postimg.org/xu8krh4ub/ghostbusters_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Ghostbuster[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/7kni8oiwz/ghostbuster_thumb.png</thumbnail>
-     <fanart>https://s19.postimg.org/xu8krh4ub/ghostbusters_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL8833BA169D818131</page>
- <referer>https://www.youtube.com/channel/RetroHeroes</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/7kni8oiwz/ghostbuster_thumb.png</thumbnail>
-<fanart>https://s19.postimg.org/xu8krh4ub/ghostbusters_fanart.jpg</fanart>
- </item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
-<name>He-Man And She-Ra</name>
-<thumbnail>http://ep.yimg.com/ay/stylinonline/he-man-she-ra-logo-baby-tee-7.jpg</thumbnail>
-<fanart>http://www.newsarama.com/images/i/000/177/507/i02/He-Man_She-Ra.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]He-Man And The Master of The Universe[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/3x7r2mapv/heman_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/n0wh57y6b/heman_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLLCcmBcBRcT9jhSlKI_ZN1GBLHIKrfmtq</page>
- <referer>https://www.youtube.com/channel/HeMan</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/3x7r2mapv/heman_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/n0wh57y6b/heman_fanart.jpg</fanart>
- </item>
-
-<item>
-<title>[COLOR orange]He-Man And The Master of The Universe[/COLOR] - [COLOR yellow]Minisode[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/3x7r2mapv/heman_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/n0wh57y6b/heman_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLLCcmBcBRcT-QR8dbLLfIMQLQ6THmr3vB</page>
- <referer>https://www.youtube.com/channel/HeMan</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/3x7r2mapv/heman_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/n0wh57y6b/heman_fanart.jpg</fanart>
- </item>
-
-<item>
-<title>[COLOR orange]She-Ra - Princess of Power[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://i.ytimg.com/vi/Iz3QJ72KqXI/maxresdefault.jpg</thumbnail>
-     <fanart>http://2.bp.blogspot.com/-nwacOwK72Sc/UcEhpwCcBSI/AAAAAAAADYg/aspEGAoRMyQ/s1600/She-Ra+Chick+Central.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtN3huHXewu_z3Kx2yI-9Ub0</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://i.ytimg.com/vi/Iz3QJ72KqXI/maxresdefault.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/-nwacOwK72Sc/UcEhpwCcBSI/AAAAAAAADYg/aspEGAoRMyQ/s1600/She-Ra+Chick+Central.jpg</fanart>
- </item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
-<name>Larva</name>
-<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Larva.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>Oggy and the Cockroaches</name>
-<thumbnail>https://s19.postimg.org/l0jppm66b/oggy_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/6g2musb7n/oggy_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Oggy and the Cockroaches[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL-d4D7FQaDKOwPWfnE5K8EUtDpQKm2be9</link>
-<thumbnail>https://s19.postimg.org/l0jppm66b/oggy_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/6g2musb7n/oggy_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Oggy and the Cockroaches[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/l0jppm66b/oggy_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/6g2musb7n/oggy_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL-d4D7FQaDKOwPWfnE5K8EUtDpQKm2be9</page>
- <referer>https://www.youtube.com/channel/UCNEKMkg_DG8eAyR1BNWsSvw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/l0jppm66b/oggy_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/6g2musb7n/oggy_fanart.jpg</fanart>
- </item>
-
-</items>
-<info>The show centers on Oggy, an anthropomorphic blue cat, who would prefer to spend his days contentedly watching television and eating - if not for the three roaches in the household: Joey, Dee Dee and Marky (named after members of the punk group Ramones). The trio seems to enjoy making Oggy's life miserable, which involves mischief ranging from (in most cases) plundering his refrigerator to such awkward things like hijacking the train Oggy just boarded. Oggy usually finds creatures accompanying him to the end of the episode, such as crabs, clams, a horse, a very technologically advanced child, a puppy, and an octopus. However, it's not always Oggy who wins.</info>
-</channel>
-
-<channel>
-<name>Roary The Racing Car</name>
-<thumbnail>https://s19.postimg.org/8yf53zi6b/roary_thumb.png</thumbnail>
-<fanart>https://s19.postimg.org/j77m9t683/roary_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Roary The Racing Car[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PLAerzc2LVOtN2ift_mMWbernerhMPLcRF</link>
-<thumbnail>https://s19.postimg.org/8yf53zi6b/roary_thumb.png</thumbnail>
-<fanart>https://s19.postimg.org/j77m9t683/roary_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Roary The Racing Car[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/8yf53zi6b/roary_thumb.png</thumbnail>
-     <fanart>https://s19.postimg.org/j77m9t683/roary_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtN2ift_mMWbernerhMPLcRF</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/8yf53zi6b/roary_thumb.png</thumbnail>
-<fanart>https://s19.postimg.org/j77m9t683/roary_fanart.jpg</fanart>
- </item>
-
-</items>
-<info></info>
-</channel>
-
-<channel>
-<name>Shaun The Sheep</name>
-<thumbnail>https://s19.postimg.org/froorqnr7/shaun_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/oy6zf0szn/shaun_fanart.jpg</fanart>
-<items>
-
-<item>
-<title>[COLOR blue][B]KLIK 2 @ 3 KALI UNTUK DAPATKAN SENARAI LIST[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/home.txt</link>
-<thumbnail>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</thumbnail>
-<fanart>http://www.freeclipart.pw/uploads/2017/05/reminder-clipart-5.png</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Shaun The Sheep[/COLOR] - [COLOR yellow]Play All[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_all&amp;playlist=PL75WpgEj_KA0B8fal43tCjQfJwvQR8vKf</link>
-<thumbnail>https://s19.postimg.org/froorqnr7/shaun_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/oy6zf0szn/shaun_fanart.jpg</fanart>
-<item>
-
-<item>
-<title>[COLOR orange]Shaun The Sheep[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>https://s19.postimg.org/froorqnr7/shaun_thumb.jpg</thumbnail>
-     <fanart>https://s19.postimg.org/oy6zf0szn/shaun_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL75WpgEj_KA0B8fal43tCjQfJwvQR8vKf</page>
- <referer>https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>https://s19.postimg.org/froorqnr7/shaun_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.org/oy6zf0szn/shaun_fanart.jpg</fanart>
- </item>
-
-</items>
-<info>Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.</info>
-</channel>
-
-<channel>
-<name>Timmy Time</name>
-<thumbnail>http://s19.postimg.org/r6gvxfe4j/timmy_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/izow5uo1v/timmy_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Timmy.txt</externallink>
-<info>Timmy is a little lamb with a lot to learn as he heads off to nursery school. An "only lamb," he's had his own way most of the time, and he hasn't had to consider other people's feelings or share. But when he goes to Nursery, a cozy little school in an old farm building nestled in rolling hills, Timmy will have to learn to take others' feelings into account. Harriet Heron and Osbourne Owl, who run Nursery, make sure Timmy and his schoolmates stay on track as they paint, sing, play and learn together each day</info>
-</channel>
-
+<!--YOUTUBE PLAYLIST MYANIMASI-->
 <channel>
 <name>Tobot (Korean Series)</name>
 <thumbnail>http://s19.postimg.org/f6517im83/Tobot_thumb.jpg</thumbnail>
 <fanart>http://s19.postimg.org/69u93kvlv/Tobot_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tobot_00Mainpage.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Tobot.txt</externallink>
 <info>Tobot is a South Korean animated television series produced by Young Toys and Retrobot. The series features transforming cars and some of them are designed after Kia Motors vehicles.</info>
 </channel>
 
@@ -1083,11 +652,318 @@
 <name>Voltron - Defender of the Universe</name>
 <thumbnail>https://s19.postimg.org/rlm8k2keb/voltron_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.org/8s0fn2m6b/voltron_fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/listmyanimasi/master/04_Cartoon/Voltron.txt</externallink>
+<item>
+<title>[COLOR silver]Voltron[/COLOR] - [COLOR yellow]Defender of the Universe[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLA8QYsDvh0CfyZPDlVLRiL92URyBMURV3/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLA8QYsDvh0CfyZPDlVLRiL92URyBMURV3.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCUb1yGKvOW0uRhW41FcM99Q/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <info>Voltron: Defender of the Universe is an American animated television series that features a team of astronauts who pilot a giant Super Robot known as "Voltron"</info>
 </channel>
 
--->
+<!--YOUTUBE PLAYLIST outside channel-->
+<channel>
+<name>Bravestarr</name>
+<thumbnail>https://s19.postimg.org/ncn49gtdv/bravestar_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/nbd6g1rk3/bravestar_fanart.jpg</fanart>
+<item>
+<title>[COLOR green]Bravestarr[/COLOR] - [COLOR red][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL2Oi8DWXQiFeZtbwfmwAKamFnHtePUoSJ/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL2Oi8DWXQiFeZtbwfmwAKamFnHtePUoSJ.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCHpsEFbbXOSovRKp5Wvg5aA/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info>Native American Marshal BraveStarr comes to the rough-and-tumble planet New Texas as its new lawman with a goal of bringing order to the land. His powers include the strength of a bear, speed of a puma, eyesight of a hawk and the hearing of a wolf. With those at his disposal, it's hard for bad guys to get away unscathed. In case he needs it, though, he has help from talking technohorse Thirty Thirty and pretty Judge J.B. McBride. Settlers and miners know the marshal works to protect them and keep villains from stealing valuable kerium.</info>
+</channel>
+
+<channel>
+<name>Casper</name>
+<thumbnail>https://s19.postimg.org/qj8h1lz2b/casper_thumbs.jpg</thumbnail>
+<fanart>https://s19.postimg.org/ljb0tntfn/casper_fanart.jpg</fanart>
+<item>
+<title>[COLOR pink]Casper the Friendly Ghost[/COLOR] - [COLOR blue][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLC5928B59A036F71F/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLC5928B59A036F71F.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCstwnmjrH6CX63UNqo0Mh5A/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
+<name>Woody Woodpecker</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+<title>[COLOR green]Woody Woodpecker[/COLOR] - [COLOR pink][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLJhIcqoOEkIGK4UJc4ipDXAs5C5cExrUg/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLJhIcqoOEkIGK4UJc4ipDXAs5C5cExrUg.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCstwnmjrH6CX63UNqo0Mh5A/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
+<name>Ghostbusters</name>
+<thumbnail>https://s19.postimg.org/7kni8oiwz/ghostbuster_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/xu8krh4ub/ghostbusters_fanart.jpg</fanart>
+<item>
+<title>[COLOR red]Ghostbuster[/COLOR] - [COLOR yellow][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL8833BA169D818131/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL8833BA169D818131.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCstwnmjrH6CX63UNqo0Mh5A/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
+<name>He-Man And She-Ra</name>
+<thumbnail>http://ep.yimg.com/ay/stylinonline/he-man-she-ra-logo-baby-tee-7.jpg</thumbnail>
+<fanart>http://www.newsarama.com/images/i/000/177/507/i02/He-Man_She-Ra.jpg</fanart>
+<item>
+<title>[COLOR green]He Man[/COLOR] - [COLOR yellow]Master of the Universe[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLLCcmBcBRcT9jhSlKI_ZN1GBLHIKrfmtq/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLLCcmBcBRcT9jhSlKI_ZN1GBLHIKrfmtq.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCWV0Qgo4Yz7E5_oNF4VJ6Rg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
+<name>Oggy and the Cockroaches</name>
+<thumbnail>https://s19.postimg.org/l0jppm66b/oggy_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/6g2musb7n/oggy_fanart.jpg</fanart>
+<item>
+<title>[COLOR pink]Oggy and the Cockroaches[/COLOR] - [COLOR green][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL-d4D7FQaDKOwPWfnE5K8EUtDpQKm2be9/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL-d4D7FQaDKOwPWfnE5K8EUtDpQKm2be9.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCNEKMkg_DG8eAyR1BNWsSvw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info>The show centers on Oggy, an anthropomorphic blue cat, who would prefer to spend his days contentedly watching television and eating - if not for the three roaches in the household: Joey, Dee Dee and Marky (named after members of the punk group Ramones). The trio seems to enjoy making Oggy's life miserable, which involves mischief ranging from (in most cases) plundering his refrigerator to such awkward things like hijacking the train Oggy just boarded. Oggy usually finds creatures accompanying him to the end of the episode, such as crabs, clams, a horse, a very technologically advanced child, a puppy, and an octopus. However, it's not always Oggy who wins.</info>
+</channel>
+
+<channel>
+<name>Roary The Racing Car</name>
+<thumbnail>https://s19.postimg.org/8yf53zi6b/roary_thumb.png</thumbnail>
+<fanart>https://s19.postimg.org/j77m9t683/roary_fanart.jpg</fanart>
+<item>
+<title>[COLOR orange]Roary the Racing Car Series[/COLOR] - [COLOR green][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLAerzc2LVOtN2ift_mMWbernerhMPLcRF/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLAerzc2LVOtN2ift_mMWbernerhMPLcRF.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
+<name>Shaun The Sheep</name>
+<thumbnail>https://s19.postimg.org/froorqnr7/shaun_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.org/oy6zf0szn/shaun_fanart.jpg</fanart>
+<item>
+<title>[COLOR red]Shaun the Sheep[/COLOR] - [COLOR ][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL75WpgEj_KA0B8fal43tCjQfJwvQR8vKf/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL75WpgEj_KA0B8fal43tCjQfJwvQR8vKf.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info>Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.</info>
+</channel>
+
+<channel>
+<name>Larva</name>
+<thumbnail>http://s19.postimg.org/f8hnjfvur/larva_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/wki04vpc3/larva_fanart.jpg</fanart>
+<items>
+<item>
+<title>[COLOR lime]Larva[/COLOR] - [COLOR red]Special Clip[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxrv_vTPuZ6TPnJwJ65F1Oj665andCOjw/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxrv_vTPuZ6TPnJwJ65F1Oj665andCOjw.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCph-WGR0oCbJDpaWmNHb5zg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Larva[/COLOR] - [COLOR pink]Mini Series[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxrv_vTPuZ6QrIMIedOfGClX7tjPDMdkS/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxrv_vTPuZ6QrIMIedOfGClX7tjPDMdkS.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCph-WGR0oCbJDpaWmNHb5zg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Larva[/COLOR] - [COLOR orange]Larva Season 1-3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxrv_vTPuZ6QU5FvQI6bid21DBIRLSnou/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxrv_vTPuZ6QU5FvQI6bid21DBIRLSnou.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCph-WGR0oCbJDpaWmNHb5zg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+<channel>
+<name>Timmy Time</name>
+<thumbnail>http://s19.postimg.org/r6gvxfe4j/timmy_thumb.jpg</thumbnail>
+<fanart>http://s19.postimg.org/izow5uo1v/timmy_fanart.jpg</fanart>
+<item>
+<title>[COLOR red]Timmy Time Show[/COLOR] - [COLOR pink][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLzO3tm0lFFhAxRiVdu-Ut-sJ0lEto4fi2/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLzO3tm0lFFhAxRiVdu-Ut-sJ0lEto4fi2.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCAb7_XSgi_1-5nidBZ7_POQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info>Timmy is a little lamb with a lot to learn as he heads off to nursery school. An "only lamb," he's had his own way most of the time, and he hasn't had to consider other people's feelings or share. But when he goes to Nursery, a cozy little school in an old farm building nestled in rolling hills, Timmy will have to learn to take others' feelings into account. Harriet Heron and Osbourne Owl, who run Nursery, make sure Timmy and his schoolmates stay on track as they paint, sing, play and learn together each day</info>
+</channel>
 
 <channel>
 <name>[COLOR yellow] .-.-. [/COLOR][COLOR blue]T[/COLOR][COLOR red]O[/COLOR][COLOR lime]K[/COLOR][COLOR green]U[/COLOR][COLOR silver]S[/COLOR][COLOR yellow]A[/COLOR][COLOR blue]T[/COLOR][COLOR greenyellow]S[/COLOR][COLOR salmon]U [/COLOR][COLOR skyblue]H[/COLOR][COLOR red]E[/COLOR][COLOR violet]R[/COLOR][COLOR orange]O[/COLOR][COLOR silver]E[/COLOR][COLOR blue]S [/COLOR][COLOR yellow] .-.-. [/COLOR]</name>
