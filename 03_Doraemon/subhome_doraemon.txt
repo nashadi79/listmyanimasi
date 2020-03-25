@@ -26,35 +26,4 @@
 <info></info>
 </channel>
 
-<channel>
-<name>Doraemon Series [COLOR yellow]YouTube[/COLOR]</name>
-<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-<info></info>
-<items>
-
-<item>
-<title>[COLOR orange]Doraemon Series[/COLOR] - [COLOR yellow]List All[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
-	 <fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PLAerzc2LVOtMwT2YHpQgf9rCGD_mjwhzc</page>
- <referer>https://www.youtube.com/channel/UCGNFqdz1WQb9rPV33cqHeCw</referer>
- <cookieJar></cookieJar>
- </regex>
-<thumbnail>http://s19.postimg.org/bnugkscn7/doraemon_thumb.jpg</thumbnail>
-<fanart>http://s19.postimg.org/tpdlil6o3/doraemon_fanart.jpg</fanart>
-</item>
-
-
-</items>
-</channel>
-
 </channels>
