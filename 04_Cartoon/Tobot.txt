@@ -1,0 +1,437 @@
+<item>
+<title>[COLOR orange]Tobot [/COLOR] - [COLOR green]Season 1  (Malay)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3N3C2uz7vXAg0DWnKm5OScd/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3N3C2uz7vXAg0DWnKm5OScd.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3OlkU7cF0Bh12qHFsRwxOD7/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3OlkU7cF0Bh12qHFsRwxOD7.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3PUW4btWutf5XzkXbDv5EzB/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3PUW4btWutf5XzkXbDv5EzB.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3N1eCPG8n6rwLaUV6W4Sv3t/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3N1eCPG8n6rwLaUV6W4Sv3t.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 4[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3NkDsprPqdE5e0i9KeNMI3z/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3NkDsprPqdE5e0i9KeNMI3z.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 5[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3ODHrQ1Kcop-F6-qQWceLF0/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3ODHrQ1Kcop-F6-qQWceLF0.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 6[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3PqEcDAuYXH5DB8oIbNHQw8/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3PqEcDAuYXH5DB8oIbNHQw8.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 7[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3OtfZfIi5noIE3W1BW5oKsQ/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3OtfZfIi5noIE3W1BW5oKsQ.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 8[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3PvZCFCCVP6i0sW5QxAxple/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3PvZCFCCVP6i0sW5QxAxple.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 9[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3MoJayN6kHcB51Ujdwl66JK/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3MoJayN6kHcB51Ujdwl66JK.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 10[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3ODMTY1Y0AROq0P3OjiVAkS/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3ODMTY1Y0AROq0P3OjiVAkS.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 11[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3MbYbsGvhzYLGMuuIE52o6J/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3MbYbsGvhzYLGMuuIE52o6J.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 12[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3Mc86T0sh_baUfuGG66_M1g/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3Mc86T0sh_baUfuGG66_M1g.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 13[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3NN6JLv0W-HzHtlZ0ro5iJx/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3NN6JLv0W-HzHtlZ0ro5iJx.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 14[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3M2sxu4YOtlox8geVSgoBAq/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3M2sxu4YOtlox8geVSgoBAq.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 15[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3P4nK0xD4WMZDCUnBjk9T3D/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3P4nK0xD4WMZDCUnBjk9T3D.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 16[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3PxAPPHq0dNxvL_V4iYaUKS/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3PxAPPHq0dNxvL_V4iYaUKS.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 17[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3NSBzZ45LzVUIKpe3cZkF-W/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3NSBzZ45LzVUIKpe3cZkF-W.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 18[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3MSoAnV4sxHZ6M-I3a6mhJE/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3MSoAnV4sxHZ6M-I3a6mhJE.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Season 19[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3OxOzHG1aSsZ5QSPDjHJDGV/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3OxOzHG1aSsZ5QSPDjHJDGV.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Marathon Seson 1-19[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3M_bWGpq5i7_UztkLR2GDF-/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3M_bWGpq5i7_UztkLR2GDF-.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Special X[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3PpjZERD4BAACof6yNctqcF/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3PpjZERD4BAACof6yNctqcF.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tobot[/COLOR] - [COLOR red]Spin Off[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLxAqlO4zbr3ObN8-JeVBX6IgqF_muAzza/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLxAqlO4zbr3ObN8-JeVBX6IgqF_muAzza.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/TOBOTYOUNGTOYS/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
