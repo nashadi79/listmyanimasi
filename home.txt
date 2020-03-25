@@ -1040,7 +1040,7 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
    <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/channel/TeamMojang/playlists</page>
+<page>https://www.youtube.com/channel/UC1sELGmy5jp5fQUugmuYlXQ/playlists</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -1065,7 +1065,7 @@ Tokusatsu is one of the most popular forms of Japanese entertainment, but most t
    <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/channel/roblox/playlists</page>
+<page>https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA/playlists</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
