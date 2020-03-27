@@ -158,6 +158,31 @@
 </channel>
 
 <channel>
+<name>Jom Belajar</name>
+<thumbnail>h</thumbnail>
+<fanart></fanart>
+<item>
+<title>[COLOR skyblue][B]Jom Belajar[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR violet][B] [makelist.param2][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCpE5mMGKYGpdBakduPgXs0A/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<info></info>
+</channel>
+
+<channel>
 <name>Kids Show and Telemovie</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
